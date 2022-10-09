@@ -1,0 +1,6196 @@
+List<Map> isimler = [
+  { 
+"isim":"1",  
+ "data":[
+{
+  "ingilizceKelime":"people",
+  "turkceKelime":"insanlar,halk",
+  "okunus":"pipıl",
+},
+{
+  "ingilizceKelime":"history",
+  "turkceKelime":"tarih",
+  "okunus":"histori",
+},
+{
+  "ingilizceKelime":"way",
+  "turkceKelime":"yol",
+  "okunus":"vey",
+},
+{
+  "ingilizceKelime":"art",
+  "turkceKelime":"sanat",
+  "okunus":"art",
+},
+{
+  "ingilizceKelime":"money",
+  "turkceKelime":"para",
+  "okunus":"maniy",
+},
+{
+  "ingilizceKelime":"world",
+  "turkceKelime":"dünya",
+  "okunus":"vöğrld",
+},
+{
+  "ingilizceKelime":"information",
+  "turkceKelime":"bilgi",
+  "okunus":"informeyşın",
+},
+{
+  "ingilizceKelime":"map",
+  "turkceKelime":"harita",
+  "okunus":"mep",
+},
+{
+  "ingilizceKelime":"two",
+  "turkceKelime":"iki",
+  "okunus":"tu",
+},
+{
+  "ingilizceKelime":"family",
+  "turkceKelime":"aile",
+  "okunus":"femıli",
+},
+{
+  "ingilizceKelime":"government",
+  "turkceKelime":"hükümet",
+  "okunus":"gavırnmınt",
+},
+{
+  "ingilizceKelime":"health",
+  "turkceKelime":"sağlık",
+  "okunus":"helth",
+},
+{
+  "ingilizceKelime":"system",
+  "turkceKelime":"sistem",
+  "okunus":"sistım",
+},
+{
+  "ingilizceKelime":"computer",
+  "turkceKelime":"bilgisayar",
+  "okunus":"kompütı",
+},
+{
+  "ingilizceKelime":"meat",
+  "turkceKelime":"et",
+  "okunus":"mit",
+},
+{
+  "ingilizceKelime":"year",
+  "turkceKelime":"yıl",
+  "okunus":"yiır",
+},
+{
+  "ingilizceKelime":"thanks",
+  "turkceKelime":"teşekkürler",
+  "okunus":"thenks",
+},
+{
+  "ingilizceKelime":"music",
+  "turkceKelime":"müzik",
+  "okunus":"müuzik",
+},
+{
+  "ingilizceKelime":"person",
+  "turkceKelime":"kişi",
+  "okunus":"pörsın",
+},
+{
+  "ingilizceKelime":"reading",
+  "turkceKelime":"okuma",
+  "okunus":"riidin",
+},
+{
+  "ingilizceKelime":"method",
+  "turkceKelime":"yöntem",
+  "okunus":"methıd",
+},
+{
+  "ingilizceKelime":"data",
+  "turkceKelime":"veri",
+  "okunus":"deyta",
+},
+{
+  "ingilizceKelime":"food",
+  "turkceKelime":"Gıda",
+  "okunus":"fuud",
+},
+{
+  "ingilizceKelime":"understanding",
+  "turkceKelime":"anlayış",
+  "okunus":"andıstendin",
+},
+{
+  "ingilizceKelime":"theory",
+  "turkceKelime":"teori",
+  "okunus":"tiuriy",
+},
+
+]},{ 
+"isim":"2",  
+ "data":[
+{
+  "ingilizceKelime":"law",
+  "turkceKelime":"yasa",
+  "okunus":"lou",
+},
+{
+  "ingilizceKelime":"bird",
+  "turkceKelime":"kuş",
+  "okunus":"börd",
+},
+{
+  "ingilizceKelime":"literature",
+  "turkceKelime":"Edebiyat",
+  "okunus":"lidriçır",
+},
+{
+  "ingilizceKelime":"problem",
+  "turkceKelime":"sorun",
+  "okunus":"prablım",
+},
+{
+  "ingilizceKelime":"software",
+  "turkceKelime":"yazılım",
+  "okunus":"softver",
+},
+{
+  "ingilizceKelime":"control",
+  "turkceKelime":"kontrol",
+  "okunus":"kontroul",
+},
+{
+  "ingilizceKelime":"knowledge",
+  "turkceKelime":"bilgi",
+  "okunus":"navlıc",
+},
+{
+  "ingilizceKelime":"power",
+  "turkceKelime":"güç",
+  "okunus":"pauır",
+},
+{
+  "ingilizceKelime":"ability",
+  "turkceKelime":"kabiliyet",
+  "okunus":"ebılıti",
+},
+{
+  "ingilizceKelime":"economics",
+  "turkceKelime":"ekonomi",
+  "okunus":"ikınomiks",
+},
+{
+  "ingilizceKelime":"love",
+  "turkceKelime":"aşk",
+  "okunus":"lav",
+},
+{
+  "ingilizceKelime":"internet",
+  "turkceKelime":"internet",
+  "okunus":"in(t)ırnet",
+},
+{
+  "ingilizceKelime":"television",
+  "turkceKelime":"televizyon",
+  "okunus":"telıvijn",
+},
+{
+  "ingilizceKelime":"science",
+  "turkceKelime":"Bilim",
+  "okunus":"saayıns",
+},
+{
+  "ingilizceKelime":"library",
+  "turkceKelime":"kütüphane",
+  "okunus":"laybrıri",
+},
+{
+  "ingilizceKelime":"nature",
+  "turkceKelime":"doğa",
+  "okunus":"neyçır",
+},
+{
+  "ingilizceKelime":"fact",
+  "turkceKelime":"hakikat",
+  "okunus":"feğkt",
+},
+{
+  "ingilizceKelime":"product",
+  "turkceKelime":"ürün",
+  "okunus":"prodakt",
+},
+{
+  "ingilizceKelime":"idea",
+  "turkceKelime":"fikir",
+  "okunus":"aydiya",
+},
+{
+  "ingilizceKelime":"temperature",
+  "turkceKelime":"sıcaklık",
+  "okunus":"temphriçah",
+},
+{
+  "ingilizceKelime":"investment",
+  "turkceKelime":"yatırım",
+  "okunus":"investmınth",
+},
+{
+  "ingilizceKelime":"area",
+  "turkceKelime":"alan",
+  "okunus":"areya",
+},
+{
+  "ingilizceKelime":"society",
+  "turkceKelime":"toplum",
+  "okunus":"sosayeti",
+},
+{
+  "ingilizceKelime":"activity",
+  "turkceKelime":"aktivite",
+  "okunus":"aktiviti",
+},
+{
+  "ingilizceKelime":"story",
+  "turkceKelime":"Öykü",
+  "okunus":"sıtori",
+},
+
+]},{ 
+"isim":"3",  
+ "data":[
+{
+  "ingilizceKelime":"industry",
+  "turkceKelime":"sanayi",
+  "okunus":"industriy",
+},
+{
+  "ingilizceKelime":"media",
+  "turkceKelime":"medya",
+  "okunus":"miidya",
+},
+{
+  "ingilizceKelime":"thing",
+  "turkceKelime":"şey",
+  "okunus":"tin(g)",
+},
+{
+  "ingilizceKelime":"oven",
+  "turkceKelime":"fırın",
+  "okunus":"ovın",
+},
+{
+  "ingilizceKelime":"community",
+  "turkceKelime":"toplum",
+  "okunus":"komyuniti",
+},
+{
+  "ingilizceKelime":"safety",
+  "turkceKelime":"Emniyet",
+  "okunus":"seyfti",
+},
+{
+  "ingilizceKelime":"quality",
+  "turkceKelime":"kalite",
+  "okunus":"kualiti",
+},
+{
+  "ingilizceKelime":"development",
+  "turkceKelime":"gelişim",
+  "okunus":"dıvelopmınt",
+},
+{
+  "ingilizceKelime":"language",
+  "turkceKelime":"dil",
+  "okunus":"langvıc",
+},
+{
+  "ingilizceKelime":"management",
+  "turkceKelime":"yönetim",
+  "okunus":"menıcmınt",
+},
+{
+  "ingilizceKelime":"player",
+  "turkceKelime":"oyuncu",
+  "okunus":"pıleyı:",
+},
+{
+  "ingilizceKelime":"variety",
+  "turkceKelime":"Çeşitlilik",
+  "okunus":"verayıti",
+},
+{
+  "ingilizceKelime":"video",
+  "turkceKelime":"video",
+  "okunus":"vidyo",
+},
+{
+  "ingilizceKelime":"week",
+  "turkceKelime":"hafta",
+  "okunus":"viik",
+},
+{
+  "ingilizceKelime":"security",
+  "turkceKelime":"güvenlik",
+  "okunus":"seküuriti",
+},
+{
+  "ingilizceKelime":"country",
+  "turkceKelime":"ülke",
+  "okunus":"kantri",
+},
+{
+  "ingilizceKelime":"exam",
+  "turkceKelime":"sınav",
+  "okunus":"ıgzam",
+},
+{
+  "ingilizceKelime":"movie",
+  "turkceKelime":"film",
+  "okunus":"muuvi",
+},
+{
+  "ingilizceKelime":"organization",
+  "turkceKelime":"organizasyon",
+  "okunus":"organayzeyşın",
+},
+{
+  "ingilizceKelime":"equipment",
+  "turkceKelime":"teçhizat",
+  "okunus":"ekuvipmınt",
+},
+{
+  "ingilizceKelime":"physics",
+  "turkceKelime":"fizik",
+  "okunus":"fiyziks",
+},
+{
+  "ingilizceKelime":"analysis",
+  "turkceKelime":"analiz",
+  "okunus":"enalisis",
+},
+{
+  "ingilizceKelime":"policy",
+  "turkceKelime":"politika",
+  "okunus":"polisi",
+},
+{
+  "ingilizceKelime":"series",
+  "turkceKelime":"diziler",
+  "okunus":"seriis",
+},
+{
+  "ingilizceKelime":"thought",
+  "turkceKelime":"düşünce",
+  "okunus":"thoot",
+},
+
+]},{ 
+"isim":"4",  
+ "data":[
+{
+  "ingilizceKelime":"basis",
+  "turkceKelime":"temel",
+  "okunus":"beyzıs",
+},
+{
+  "ingilizceKelime":"boyfriend",
+  "turkceKelime":"erkek arkadaş",
+  "okunus":"boyfrend",
+},
+{
+  "ingilizceKelime":"direction",
+  "turkceKelime":"yön",
+  "okunus":"dayrekşın",
+},
+{
+  "ingilizceKelime":"strategy",
+  "turkceKelime":"strateji",
+  "okunus":"sıtrateci",
+},
+{
+  "ingilizceKelime":"technology",
+  "turkceKelime":"teknoloji",
+  "okunus":"teknoloci",
+},
+{
+  "ingilizceKelime":"army",
+  "turkceKelime":"Ordu",
+  "okunus":"armi",
+},
+{
+  "ingilizceKelime":"camera",
+  "turkceKelime":"kamera",
+  "okunus":"kemıra",
+},
+{
+  "ingilizceKelime":"freedom",
+  "turkceKelime":"özgürlük",
+  "okunus":"friidım",
+},
+{
+  "ingilizceKelime":"paper",
+  "turkceKelime":"kağıt",
+  "okunus":"peypı:",
+},
+{
+  "ingilizceKelime":"environment",
+  "turkceKelime":"çevre",
+  "okunus":"envayrımınt",
+},
+{
+  "ingilizceKelime":"child",
+  "turkceKelime":"çocuk",
+  "okunus":"çayld",
+},
+{
+  "ingilizceKelime":"instance",
+  "turkceKelime":"misal",
+  "okunus":"instıns",
+},
+{
+  "ingilizceKelime":"month",
+  "turkceKelime":"ay",
+  "okunus":"mont",
+},
+{
+  "ingilizceKelime":"truth",
+  "turkceKelime":"gerçek",
+  "okunus":"truuth",
+},
+{
+  "ingilizceKelime":"university",
+  "turkceKelime":"Üniversite",
+  "okunus":"yunivörsıti",
+},
+{
+  "ingilizceKelime":"writing",
+  "turkceKelime":"yazı",
+  "okunus":"rayting",
+},
+{
+  "ingilizceKelime":"article",
+  "turkceKelime":"makale",
+  "okunus":"arktikıl",
+},
+{
+  "ingilizceKelime":"department",
+  "turkceKelime":"Bölüm",
+  "okunus":"dıpartmınt",
+},
+{
+  "ingilizceKelime":"difference",
+  "turkceKelime":"fark",
+  "okunus":"difrıns",
+},
+{
+  "ingilizceKelime":"goal",
+  "turkceKelime":"hedef",
+  "okunus":"gol",
+},
+{
+  "ingilizceKelime":"news",
+  "turkceKelime":"haberler",
+  "okunus":"nivs",
+},
+{
+  "ingilizceKelime":"audience",
+  "turkceKelime":"kitle",
+  "okunus":"ovdiyıns",
+},
+{
+  "ingilizceKelime":"fishing",
+  "turkceKelime":"Balık tutma",
+  "okunus":"fişing",
+},
+{
+  "ingilizceKelime":"growth",
+  "turkceKelime":"büyüme",
+  "okunus":"grovth",
+},
+{
+  "ingilizceKelime":"income",
+  "turkceKelime":"Gelir",
+  "okunus":"inkam",
+},
+
+]},{ 
+"isim":"5",  
+ "data":[
+{
+  "ingilizceKelime":"marriage",
+  "turkceKelime":"evlilik",
+  "okunus":"marıc",
+},
+{
+  "ingilizceKelime":"user",
+  "turkceKelime":"kullanıcı",
+  "okunus":"yuzır",
+},
+{
+  "ingilizceKelime":"combination",
+  "turkceKelime":"kombinasyon",
+  "okunus":"kombuneyşın",
+},
+{
+  "ingilizceKelime":"failure",
+  "turkceKelime":"arıza",
+  "okunus":"feyliya",
+},
+{
+  "ingilizceKelime":"meaning",
+  "turkceKelime":"anlam",
+  "okunus":"miining",
+},
+{
+  "ingilizceKelime":"medicine",
+  "turkceKelime":"ilaç",
+  "okunus":"medısın",
+},
+{
+  "ingilizceKelime":"philosophy",
+  "turkceKelime":"Felsefe",
+  "okunus":"fulosufi",
+},
+{
+  "ingilizceKelime":"teacher",
+  "turkceKelime":"öğretmen",
+  "okunus":"tiçır",
+},
+{
+  "ingilizceKelime":"communication",
+  "turkceKelime":"iletişim",
+  "okunus":"komyunukeyşın",
+},
+{
+  "ingilizceKelime":"night",
+  "turkceKelime":"gece",
+  "okunus":"nayt",
+},
+{
+  "ingilizceKelime":"chemistry",
+  "turkceKelime":"kimya",
+  "okunus":"kemustri",
+},
+{
+  "ingilizceKelime":"disease",
+  "turkceKelime":"hastalık",
+  "okunus":"dıziiz",
+},
+{
+  "ingilizceKelime":"disk",
+  "turkceKelime":"disk",
+  "okunus":"disk",
+},
+{
+  "ingilizceKelime":"energy",
+  "turkceKelime":"enerji",
+  "okunus":"enıci",
+},
+{
+  "ingilizceKelime":"nation",
+  "turkceKelime":"ulus",
+  "okunus":"neyşın",
+},
+{
+  "ingilizceKelime":"road",
+  "turkceKelime":"yol",
+  "okunus":"rood",
+},
+{
+  "ingilizceKelime":"role",
+  "turkceKelime":"rol",
+  "okunus":"rol",
+},
+{
+  "ingilizceKelime":"soup",
+  "turkceKelime":"çorba",
+  "okunus":"süup",
+},
+{
+  "ingilizceKelime":"advertising",
+  "turkceKelime":"reklam",
+  "okunus":"edvırtayzing",
+},
+{
+  "ingilizceKelime":"location",
+  "turkceKelime":"yer",
+  "okunus":"lokeyşın",
+},
+{
+  "ingilizceKelime":"success",
+  "turkceKelime":"başarı",
+  "okunus":"sıkses",
+},
+{
+  "ingilizceKelime":"addition",
+  "turkceKelime":"ilave",
+  "okunus":"ediişın",
+},
+{
+  "ingilizceKelime":"apartment",
+  "turkceKelime":"apartman",
+  "okunus":"apartmın",
+},
+{
+  "ingilizceKelime":"education",
+  "turkceKelime":"Eğitim",
+  "okunus":"ecukeyşın",
+},
+{
+  "ingilizceKelime":"math",
+  "turkceKelime":"matematik",
+  "okunus":"meth",
+},
+
+]},{ 
+"isim":"6",  
+ "data":[
+{
+  "ingilizceKelime":"moment",
+  "turkceKelime":"an",
+  "okunus":"momınt",
+},
+{
+  "ingilizceKelime":"painting",
+  "turkceKelime":"tablo",
+  "okunus":"peyn(t)in",
+},
+{
+  "ingilizceKelime":"politics",
+  "turkceKelime":"siyaset",
+  "okunus":"polıtiks",
+},
+{
+  "ingilizceKelime":"attention",
+  "turkceKelime":"dikkat",
+  "okunus":"etenşın",
+},
+{
+  "ingilizceKelime":"decision",
+  "turkceKelime":"karar",
+  "okunus":"desijın",
+},
+{
+  "ingilizceKelime":"event",
+  "turkceKelime":"Etkinlik",
+  "okunus":"ivınt",
+},
+{
+  "ingilizceKelime":"property",
+  "turkceKelime":"özellik,mülk",
+  "okunus":"propetiy",
+},
+{
+  "ingilizceKelime":"shopping",
+  "turkceKelime":"alışveriş",
+  "okunus":"şopin",
+},
+{
+  "ingilizceKelime":"student",
+  "turkceKelime":"Öğrenci",
+  "okunus":"stüdınt",
+},
+{
+  "ingilizceKelime":"wood",
+  "turkceKelime":"Odun",
+  "okunus":"vood",
+},
+{
+  "ingilizceKelime":"competition",
+  "turkceKelime":"yarışma",
+  "okunus":"kompetişın",
+},
+{
+  "ingilizceKelime":"distribution",
+  "turkceKelime":"dağıtım",
+  "okunus":"distrübişın",
+},
+{
+  "ingilizceKelime":"entertainment",
+  "turkceKelime":"eğlence",
+  "okunus":"entutaynmınt",
+},
+{
+  "ingilizceKelime":"office",
+  "turkceKelime":"ofis",
+  "okunus":"ofis",
+},
+{
+  "ingilizceKelime":"population",
+  "turkceKelime":"nüfus",
+  "okunus":"populeyşın",
+},
+{
+  "ingilizceKelime":"president",
+  "turkceKelime":"Devlet Başkanı",
+  "okunus":"prezıdınt",
+},
+{
+  "ingilizceKelime":"unit",
+  "turkceKelime":"birim",
+  "okunus":"yunit",
+},
+{
+  "ingilizceKelime":"category",
+  "turkceKelime":"kategori",
+  "okunus":"kategoriy",
+},
+{
+  "ingilizceKelime":"cigarette",
+  "turkceKelime":"sigara",
+  "okunus":"sigıret",
+},
+{
+  "ingilizceKelime":"context",
+  "turkceKelime":"bağlam",
+  "okunus":"kontekst",
+},
+{
+  "ingilizceKelime":"introduction",
+  "turkceKelime":"giriş",
+  "okunus":"introdakşın",
+},
+{
+  "ingilizceKelime":"opportunity",
+  "turkceKelime":"fırsat",
+  "okunus":"opuçunuti",
+},
+{
+  "ingilizceKelime":"performance",
+  "turkceKelime":"verim",
+  "okunus":"pefovmıns",
+},
+{
+  "ingilizceKelime":"driver",
+  "turkceKelime":"sürücü",
+  "okunus":"dırayvır",
+},
+{
+  "ingilizceKelime":"flight",
+  "turkceKelime":"uçuş",
+  "okunus":"fılayt",
+},
+
+]},{ 
+"isim":"7",  
+ "data":[
+{
+  "ingilizceKelime":"length",
+  "turkceKelime":"uzunluk",
+  "okunus":"lengt",
+},
+{
+  "ingilizceKelime":"magazine",
+  "turkceKelime":"dergi",
+  "okunus":"magaziin",
+},
+{
+  "ingilizceKelime":"newspaper",
+  "turkceKelime":"gazete",
+  "okunus":"nivspeypı:",
+},
+{
+  "ingilizceKelime":"relationship",
+  "turkceKelime":"ilişki",
+  "okunus":"rileyşınşiip",
+},
+{
+  "ingilizceKelime":"teaching",
+  "turkceKelime":"öğretim",
+  "okunus":"tiçing",
+},
+{
+  "ingilizceKelime":"cell",
+  "turkceKelime":"hücre",
+  "okunus":"sel",
+},
+{
+  "ingilizceKelime":"dealer",
+  "turkceKelime":"bayi",
+  "okunus":"diila",
+},
+{
+  "ingilizceKelime":"debate",
+  "turkceKelime":"çekişme",
+  "okunus":"dibeyt",
+},
+{
+  "ingilizceKelime":"lake",
+  "turkceKelime":"göl",
+  "okunus":"leyk",
+},
+{
+  "ingilizceKelime":"member",
+  "turkceKelime":"üye",
+  "okunus":"membır",
+},
+{
+  "ingilizceKelime":"message",
+  "turkceKelime":"İleti",
+  "okunus":"mesıc",
+},
+{
+  "ingilizceKelime":"phone",
+  "turkceKelime":"telefon",
+  "okunus":"foon",
+},
+{
+  "ingilizceKelime":"scene",
+  "turkceKelime":"faliyet alani, sahne",
+  "okunus":"siin",
+},
+{
+  "ingilizceKelime":"appearance",
+  "turkceKelime":"dış görünüş",
+  "okunus":"apiirıns",
+},
+{
+  "ingilizceKelime":"association",
+  "turkceKelime":"bağlantı",
+  "okunus":"asosieyşın",
+},
+{
+  "ingilizceKelime":"concept",
+  "turkceKelime":"kavram",
+  "okunus":"konsept",
+},
+{
+  "ingilizceKelime":"customer",
+  "turkceKelime":"müşteri",
+  "okunus":"kostımır",
+},
+{
+  "ingilizceKelime":"death",
+  "turkceKelime":"ölüm",
+  "okunus":"deth",
+},
+{
+  "ingilizceKelime":"discussion",
+  "turkceKelime":"tartışma",
+  "okunus":"diskaşın",
+},
+{
+  "ingilizceKelime":"housing",
+  "turkceKelime":"Konut",
+  "okunus":"hausing",
+},
+{
+  "ingilizceKelime":"inflation",
+  "turkceKelime":"enflasyon,şişirme",
+  "okunus":"infıleyşın",
+},
+{
+  "ingilizceKelime":"insurance",
+  "turkceKelime":"sigorta",
+  "okunus":"inşorıns",
+},
+{
+  "ingilizceKelime":"woman",
+  "turkceKelime":"Kadın",
+  "okunus":"vumın",
+},
+{
+  "ingilizceKelime":"advice",
+  "turkceKelime":"tavsiye",
+  "okunus":"edvays",
+},
+{
+  "ingilizceKelime":"blood",
+  "turkceKelime":"kan",
+  "okunus":"blaad",
+},
+
+]},{ 
+"isim":"8",  
+ "data":[
+{
+  "ingilizceKelime":"effort",
+  "turkceKelime":"çaba",
+  "okunus":"efırt",
+},
+{
+  "ingilizceKelime":"expression",
+  "turkceKelime":"ifade",
+  "okunus":"ikspıraşın",
+},
+{
+  "ingilizceKelime":"importance",
+  "turkceKelime":"önem",
+  "okunus":"importns",
+},
+{
+  "ingilizceKelime":"opinion",
+  "turkceKelime":"fikir",
+  "okunus":"opinyın",
+},
+{
+  "ingilizceKelime":"payment",
+  "turkceKelime":"Ödeme",
+  "okunus":"peymınt",
+},
+{
+  "ingilizceKelime":"reality",
+  "turkceKelime":"gerçeklik",
+  "okunus":"rialidy",
+},
+{
+  "ingilizceKelime":"responsibility",
+  "turkceKelime":"sorumluluk",
+  "okunus":"responsıblity",
+},
+{
+  "ingilizceKelime":"situation",
+  "turkceKelime":"durum",
+  "okunus":"siçueyşın",
+},
+{
+  "ingilizceKelime":"skill",
+  "turkceKelime":"beceri",
+  "okunus":"sıkil",
+},
+{
+  "ingilizceKelime":"statement",
+  "turkceKelime":"Beyan",
+  "okunus":"sıteytmınt",
+},
+{
+  "ingilizceKelime":"wealth",
+  "turkceKelime":"varlık",
+  "okunus":"velth",
+},
+{
+  "ingilizceKelime":"application",
+  "turkceKelime":"başvuru",
+  "okunus":"aplikeyşın",
+},
+{
+  "ingilizceKelime":"city",
+  "turkceKelime":"Kent",
+  "okunus":"siti",
+},
+{
+  "ingilizceKelime":"county",
+  "turkceKelime":"ilçe",
+  "okunus":"kavnti",
+},
+{
+  "ingilizceKelime":"depth",
+  "turkceKelime":"derinlik",
+  "okunus":"depth",
+},
+{
+  "ingilizceKelime":"estate",
+  "turkceKelime":"arazi",
+  "okunus":"esıteyt",
+},
+{
+  "ingilizceKelime":"foundation",
+  "turkceKelime":"temel,vakıf",
+  "okunus":"faundeyşın",
+},
+{
+  "ingilizceKelime":"grandmother",
+  "turkceKelime":"Nene",
+  "okunus":"grenmadır",
+},
+{
+  "ingilizceKelime":"heart",
+  "turkceKelime":"kalp",
+  "okunus":"haat",
+},
+{
+  "ingilizceKelime":"perspective",
+  "turkceKelime":"perspektif",
+  "okunus":"pespektiv",
+},
+{
+  "ingilizceKelime":"photo",
+  "turkceKelime":"Fotoğraf",
+  "okunus":"foto",
+},
+{
+  "ingilizceKelime":"recipe",
+  "turkceKelime":"Tarif",
+  "okunus":"resıpi",
+},
+{
+  "ingilizceKelime":"studio",
+  "turkceKelime":"stüdyo",
+  "okunus":"stüdiyo",
+},
+{
+  "ingilizceKelime":"topic",
+  "turkceKelime":"başlık",
+  "okunus":"tapik",
+},
+{
+  "ingilizceKelime":"collection",
+  "turkceKelime":"koleksiyon",
+  "okunus":"kolekşın",
+},
+
+]},{ 
+"isim":"9",  
+ "data":[
+{
+  "ingilizceKelime":"depression",
+  "turkceKelime":"depresyon",
+  "okunus":"depreşın",
+},
+{
+  "ingilizceKelime":"imagination",
+  "turkceKelime":"hayal gücü",
+  "okunus":"ımecıneyşın",
+},
+{
+  "ingilizceKelime":"passion",
+  "turkceKelime":"tutku",
+  "okunus":"paşın",
+},
+{
+  "ingilizceKelime":"percentage",
+  "turkceKelime":"yüzde",
+  "okunus":"pörsenıc",
+},
+{
+  "ingilizceKelime":"resource",
+  "turkceKelime":"kaynak",
+  "okunus":"risors",
+},
+{
+  "ingilizceKelime":"setting",
+  "turkceKelime":"ayar",
+  "okunus":"seting",
+},
+{
+  "ingilizceKelime":"ad",
+  "turkceKelime":"reklam",
+  "okunus":"ed",
+},
+{
+  "ingilizceKelime":"agency",
+  "turkceKelime":"Ajans",
+  "okunus":"eycınsi",
+},
+{
+  "ingilizceKelime":"college",
+  "turkceKelime":"kolej",
+  "okunus":"kolıc",
+},
+{
+  "ingilizceKelime":"connection",
+  "turkceKelime":"bağ",
+  "okunus":"konnekşın",
+},
+{
+  "ingilizceKelime":"criticism",
+  "turkceKelime":"eleştiri",
+  "okunus":"kritisizim",
+},
+{
+  "ingilizceKelime":"debt",
+  "turkceKelime":"borç",
+  "okunus":"deb",
+},
+{
+  "ingilizceKelime":"description",
+  "turkceKelime":"tanım",
+  "okunus":"diskıripşın",
+},
+{
+  "ingilizceKelime":"memory",
+  "turkceKelime":"hafıza",
+  "okunus":"memori",
+},
+{
+  "ingilizceKelime":"patience",
+  "turkceKelime":"sabır",
+  "okunus":"peyşıns",
+},
+{
+  "ingilizceKelime":"secretary",
+  "turkceKelime":"Sekreter",
+  "okunus":"sekrıteriy",
+},
+{
+  "ingilizceKelime":"solution",
+  "turkceKelime":"çözüm",
+  "okunus":"soluşın",
+},
+{
+  "ingilizceKelime":"administration",
+  "turkceKelime":"yönetim",
+  "okunus":"adminıstreyşın",
+},
+{
+  "ingilizceKelime":"aspect",
+  "turkceKelime":"Görünüş",
+  "okunus":"aspekt",
+},
+{
+  "ingilizceKelime":"attitude",
+  "turkceKelime":"davranış",
+  "okunus":"adıtiud",
+},
+{
+  "ingilizceKelime":"director",
+  "turkceKelime":"müdür",
+  "okunus":"dayrektır",
+},
+{
+  "ingilizceKelime":"personality",
+  "turkceKelime":"kişilik",
+  "okunus":"personaliti",
+},
+{
+  "ingilizceKelime":"psychology",
+  "turkceKelime":"Psikoloji",
+  "okunus":"saykoloji",
+},
+{
+  "ingilizceKelime":"recommendation",
+  "turkceKelime":"öneri",
+  "okunus":"rekomandeyşın",
+},
+{
+  "ingilizceKelime":"response",
+  "turkceKelime":"tepki",
+  "okunus":"respons",
+},
+
+]},{ 
+"isim":"10",  
+ "data":[
+{
+  "ingilizceKelime":"selection",
+  "turkceKelime":"seçim",
+  "okunus":"selekşın",
+},
+{
+  "ingilizceKelime":"storage",
+  "turkceKelime":"depo",
+  "okunus":"sıtorıc",
+},
+{
+  "ingilizceKelime":"version",
+  "turkceKelime":"sürüm",
+  "okunus":"vörjın",
+},
+{
+  "ingilizceKelime":"alcohol",
+  "turkceKelime":"alkol",
+  "okunus":"alkahol",
+},
+{
+  "ingilizceKelime":"argument",
+  "turkceKelime":"argüman",
+  "okunus":"argüymın",
+},
+{
+  "ingilizceKelime":"complaint",
+  "turkceKelime":"şikayet",
+  "okunus":"kompleynt",
+},
+{
+  "ingilizceKelime":"contract",
+  "turkceKelime":"sözleşme",
+  "okunus":"kontrakt",
+},
+{
+  "ingilizceKelime":"emphasis",
+  "turkceKelime":"vurgu",
+  "okunus":"emphesis",
+},
+{
+  "ingilizceKelime":"highway",
+  "turkceKelime":"otoyol",
+  "okunus":"haygvay",
+},
+{
+  "ingilizceKelime":"loss",
+  "turkceKelime":"kayıp",
+  "okunus":"los",
+},
+{
+  "ingilizceKelime":"membership",
+  "turkceKelime":"üyelik",
+  "okunus":"membırşip",
+},
+{
+  "ingilizceKelime":"possession",
+  "turkceKelime":"mülk",
+  "okunus":"pozeşın",
+},
+{
+  "ingilizceKelime":"preparation",
+  "turkceKelime":"hazırlık",
+  "okunus":"prepıreyşın",
+},
+{
+  "ingilizceKelime":"steak",
+  "turkceKelime":"Biftek",
+  "okunus":"stik",
+},
+{
+  "ingilizceKelime":"union",
+  "turkceKelime":"Birlik",
+  "okunus":"yunyın",
+},
+{
+  "ingilizceKelime":"agreement",
+  "turkceKelime":"anlaşma",
+  "okunus":"egrimınt",
+},
+{
+  "ingilizceKelime":"cancer",
+  "turkceKelime":"kanser",
+  "okunus":"kensır",
+},
+{
+  "ingilizceKelime":"currency",
+  "turkceKelime":"para birimi",
+  "okunus":"körınsi",
+},
+{
+  "ingilizceKelime":"employment",
+  "turkceKelime":"iş",
+  "okunus":"imploymınt",
+},
+{
+  "ingilizceKelime":"engineering",
+  "turkceKelime":"mühendislik",
+  "okunus":"encıniring",
+},
+{
+  "ingilizceKelime":"entry",
+  "turkceKelime":"giriş",
+  "okunus":"entri",
+},
+{
+  "ingilizceKelime":"interaction",
+  "turkceKelime":"etkileşim",
+  "okunus":"inırekşın",
+},
+{
+  "ingilizceKelime":"limit",
+  "turkceKelime":"sınır",
+  "okunus":"limit",
+},
+{
+  "ingilizceKelime":"mixture",
+  "turkceKelime":"karışım",
+  "okunus":"mikçır",
+},
+{
+  "ingilizceKelime":"preference",
+  "turkceKelime":"tercih",
+  "okunus":"prefrıns",
+},
+
+]},{ 
+"isim":"11",  
+ "data":[
+{
+  "ingilizceKelime":"region",
+  "turkceKelime":"bölge",
+  "okunus":"ricın",
+},
+{
+  "ingilizceKelime":"republic",
+  "turkceKelime":"cumhuriyet",
+  "okunus":"ripablik",
+},
+{
+  "ingilizceKelime":"seat",
+  "turkceKelime":"koltuk",
+  "okunus":"siit",
+},
+{
+  "ingilizceKelime":"tradition",
+  "turkceKelime":"gelenek",
+  "okunus":"tridişın",
+},
+{
+  "ingilizceKelime":"virus",
+  "turkceKelime":"virüs",
+  "okunus":"vayrus",
+},
+{
+  "ingilizceKelime":"actor",
+  "turkceKelime":"aktör",
+  "okunus":"ektör",
+},
+{
+  "ingilizceKelime":"classroom",
+  "turkceKelime":"sınıf",
+  "okunus":"klasruum",
+},
+{
+  "ingilizceKelime":"delivery",
+  "turkceKelime":"teslimat",
+  "okunus":"dılivri",
+},
+{
+  "ingilizceKelime":"device",
+  "turkceKelime":"cihaz",
+  "okunus":"divays",
+},
+{
+  "ingilizceKelime":"difficulty",
+  "turkceKelime":"zorluk",
+  "okunus":"difikılti",
+},
+{
+  "ingilizceKelime":"drama",
+  "turkceKelime":"drama",
+  "okunus":"drama",
+},
+{
+  "ingilizceKelime":"election",
+  "turkceKelime":"seçim",
+  "okunus":"elekşın",
+},
+{
+  "ingilizceKelime":"engine",
+  "turkceKelime":"motor",
+  "okunus":"encin",
+},
+{
+  "ingilizceKelime":"football",
+  "turkceKelime":"Futbol",
+  "okunus":"futbool",
+},
+{
+  "ingilizceKelime":"guidance",
+  "turkceKelime":"rehberlik",
+  "okunus":"gaydıns",
+},
+{
+  "ingilizceKelime":"hotel",
+  "turkceKelime":"otel",
+  "okunus":"hotel",
+},
+{
+  "ingilizceKelime":"match",
+  "turkceKelime":"maç,kibrit",
+  "okunus":"meç",
+},
+{
+  "ingilizceKelime":"owner",
+  "turkceKelime":"sahip",
+  "okunus":"ovnır",
+},
+{
+  "ingilizceKelime":"priority",
+  "turkceKelime":"öncelik",
+  "okunus":"prayoridi",
+},
+{
+  "ingilizceKelime":"protection",
+  "turkceKelime":"koruma",
+  "okunus":"protekşın",
+},
+{
+  "ingilizceKelime":"suggestion",
+  "turkceKelime":"öneri",
+  "okunus":"sıcesçın",
+},
+{
+  "ingilizceKelime":"tension",
+  "turkceKelime":"tansiyon",
+  "okunus":"tenşın",
+},
+{
+  "ingilizceKelime":"variation",
+  "turkceKelime":"varyasyon",
+  "okunus":"variyeyşın",
+},
+{
+  "ingilizceKelime":"anxiety",
+  "turkceKelime":"endişe",
+  "okunus":"engzayeti",
+},
+{
+  "ingilizceKelime":"atmosphere",
+  "turkceKelime":"atmosfer",
+  "okunus":"atmosfiır",
+},
+
+]},
+{ 
+"isim":"12",  
+ "data":[
+{
+  "ingilizceKelime":"awareness",
+  "turkceKelime":"farkındalık",
+  "okunus":"evernıs",
+},
+{
+  "ingilizceKelime":"bread",
+  "turkceKelime":"ekmek",
+  "okunus":"bred",
+},
+{
+  "ingilizceKelime":"climate",
+  "turkceKelime":"iklim",
+  "okunus":"klaymıt",
+},
+{
+  "ingilizceKelime":"comparison",
+  "turkceKelime":"kıyas",
+  "okunus":"komparısın",
+},
+{
+  "ingilizceKelime":"confusion",
+  "turkceKelime":"bilinç bulanıklığı, konfüzyon",
+  "okunus":"konfijın",
+},
+{
+  "ingilizceKelime":"construction",
+  "turkceKelime":"inşaat",
+  "okunus":"konstrakşın",
+},
+{
+  "ingilizceKelime":"elevator",
+  "turkceKelime":"asansör",
+  "okunus":"elıveytor",
+},
+{
+  "ingilizceKelime":"emotion",
+  "turkceKelime":"duygu",
+  "okunus":"emoşın",
+},
+{
+  "ingilizceKelime":"employee",
+  "turkceKelime":"çalışan",
+  "okunus":"imployi",
+},
+{
+  "ingilizceKelime":"employer",
+  "turkceKelime":"iş veren",
+  "okunus":"employır",
+},
+{
+  "ingilizceKelime":"guest",
+  "turkceKelime":"misafir",
+  "okunus":"gest",
+},
+{
+  "ingilizceKelime":"height",
+  "turkceKelime":"yükseklik",
+  "okunus":"hayt",
+},
+{
+  "ingilizceKelime":"leadership",
+  "turkceKelime":"liderlik",
+  "okunus":"lidırşip",
+},
+{
+  "ingilizceKelime":"mall",
+  "turkceKelime":"alışveriş merkezi",
+  "okunus":"mool",
+},
+{
+  "ingilizceKelime":"manager",
+  "turkceKelime":"müdür",
+  "okunus":"menıcır",
+},
+{
+  "ingilizceKelime":"operation",
+  "turkceKelime":"operasyon",
+  "okunus":"opereyşın",
+},
+{
+  "ingilizceKelime":"recording",
+  "turkceKelime":"kayıt",
+  "okunus":"rikording",
+},
+{
+  "ingilizceKelime":"respect",
+  "turkceKelime":"saygı",
+  "okunus":"rıspekt",
+},
+{
+  "ingilizceKelime":"sample",
+  "turkceKelime":"örneklem",
+  "okunus":"sempıl",
+},
+{
+  "ingilizceKelime":"transportation",
+  "turkceKelime":"toplu taşıma",
+  "okunus":"trensporteyşın",
+},
+{
+  "ingilizceKelime":"boring",
+  "turkceKelime":"sıkıcı",
+  "okunus":"boring",
+},
+{
+  "ingilizceKelime":"charity",
+  "turkceKelime":"hayır kurumu",
+  "okunus":"çerıdi",
+},
+{
+  "ingilizceKelime":"cousin",
+  "turkceKelime":"kuzen",
+  "okunus":"kazın",
+},
+{
+  "ingilizceKelime":"disaster",
+  "turkceKelime":"felaket",
+  "okunus":"dizastır",
+},
+{
+  "ingilizceKelime":"editor",
+  "turkceKelime":"editör",
+  "okunus":"editöh",
+},
+
+]},{ 
+"isim":"13",  
+ "data":[
+{
+  "ingilizceKelime":"efficiency",
+  "turkceKelime":"yeterlik",
+  "okunus":"efişınsi",
+},
+{
+  "ingilizceKelime":"excitement",
+  "turkceKelime":"heyecan",
+  "okunus":"eksaytmınt",
+},
+{
+  "ingilizceKelime":"extent",
+  "turkceKelime":"kapsam",
+  "okunus":"ekstent",
+},
+{
+  "ingilizceKelime":"feedback",
+  "turkceKelime":"geri bildirim",
+  "okunus":"fidbek",
+},
+{
+  "ingilizceKelime":"guitar",
+  "turkceKelime":"gitar",
+  "okunus":"gitar",
+},
+{
+  "ingilizceKelime":"homework",
+  "turkceKelime":"ev ödevi",
+  "okunus":"homvork",
+},
+{
+  "ingilizceKelime":"leader",
+  "turkceKelime":"Önder",
+  "okunus":"lidır",
+},
+{
+  "ingilizceKelime":"mom",
+  "turkceKelime":"anne",
+  "okunus":"mam",
+},
+{
+  "ingilizceKelime":"outcome",
+  "turkceKelime":"sonuç",
+  "okunus":"autkam",
+},
+{
+  "ingilizceKelime":"permission",
+  "turkceKelime":"izin",
+  "okunus":"pörmişın",
+},
+{
+  "ingilizceKelime":"presentation",
+  "turkceKelime":"sunum",
+  "okunus":"prezenteyşın",
+},
+{
+  "ingilizceKelime":"promotion",
+  "turkceKelime":"terfi",
+  "okunus":"promoşın",
+},
+{
+  "ingilizceKelime":"reflection",
+  "turkceKelime":"refleks",
+  "okunus":"rıflekşın",
+},
+{
+  "ingilizceKelime":"refrigerator",
+  "turkceKelime":"buzdolabı",
+  "okunus":"refrıcıreytır",
+},
+{
+  "ingilizceKelime":"resolution",
+  "turkceKelime":"çözüm",
+  "okunus":"risoluşın",
+},
+{
+  "ingilizceKelime":"revenue",
+  "turkceKelime":"gelir",
+  "okunus":"revenu",
+},
+{
+  "ingilizceKelime":"session",
+  "turkceKelime":"oturum",
+  "okunus":"seşın",
+},
+{
+  "ingilizceKelime":"singer",
+  "turkceKelime":"şarkıcı",
+  "okunus":"singır",
+},
+{
+  "ingilizceKelime":"tennis",
+  "turkceKelime":"tenis",
+  "okunus":"tenis",
+},
+{
+  "ingilizceKelime":"basket",
+  "turkceKelime":"sepet",
+  "okunus":"baskıt",
+},
+{
+  "ingilizceKelime":"bonus",
+  "turkceKelime":"ikramiye",
+  "okunus":"bonus",
+},
+{
+  "ingilizceKelime":"cabinet",
+  "turkceKelime":"dolap",
+  "okunus":"kağbıne",
+},
+{
+  "ingilizceKelime":"childhood",
+  "turkceKelime":"çocukluk",
+  "okunus":"çaylhuud",
+},
+{
+  "ingilizceKelime":"clothes",
+  "turkceKelime":"çamaşırlar",
+  "okunus":"klots",
+},
+{
+  "ingilizceKelime":"coffee",
+  "turkceKelime":"Kahve",
+  "okunus":"kafii",
+},
+
+]},{ 
+"isim":"14",  
+ "data":[
+{
+  "ingilizceKelime":"dinner",
+  "turkceKelime":"akşam yemeği",
+  "okunus":"dinır",
+},
+{
+  "ingilizceKelime":"drawing",
+  "turkceKelime":"çizim",
+  "okunus":"draving",
+},
+{
+  "ingilizceKelime":"hair",
+  "turkceKelime":"saç",
+  "okunus":"heır",
+},
+{
+  "ingilizceKelime":"hearing",
+  "turkceKelime":"işitme",
+  "okunus":"hirın",
+},
+{
+  "ingilizceKelime":"initiative",
+  "turkceKelime":"girişim",
+  "okunus":"inişıdiv",
+},
+{
+  "ingilizceKelime":"judgment",
+  "turkceKelime":"yargı",
+  "okunus":"cacmınt",
+},
+{
+  "ingilizceKelime":"lab",
+  "turkceKelime":"laboratuvar",
+  "okunus":"leb",
+},
+{
+  "ingilizceKelime":"measurement",
+  "turkceKelime":"ölçüm",
+  "okunus":"mejurmınt",
+},
+{
+  "ingilizceKelime":"mode",
+  "turkceKelime":"mod",
+  "okunus":"mod",
+},
+{
+  "ingilizceKelime":"mud",
+  "turkceKelime":"çamur",
+  "okunus":"mad",
+},
+{
+  "ingilizceKelime":"orange",
+  "turkceKelime":"Portakal",
+  "okunus":"orınç",
+},
+{
+  "ingilizceKelime":"minister",
+  "turkceKelime":"bakan",
+  "okunus":"ministır",
+},
+{
+  "ingilizceKelime":"police",
+  "turkceKelime":"polis",
+  "okunus":"poliis",
+},
+{
+  "ingilizceKelime":"possibility",
+  "turkceKelime":"olasılık",
+  "okunus":"pasıbılıti",
+},
+{
+  "ingilizceKelime":"procedure",
+  "turkceKelime":"prosedür",
+  "okunus":"prosidür",
+},
+{
+  "ingilizceKelime":"queen",
+  "turkceKelime":"kraliçe",
+  "okunus":"kuin",
+},
+{
+  "ingilizceKelime":"ratio",
+  "turkceKelime":"oran",
+  "okunus":"reşio",
+},
+{
+  "ingilizceKelime":"relation",
+  "turkceKelime":"ilişki",
+  "okunus":"rıliyşın",
+},
+{
+  "ingilizceKelime":"restaurant",
+  "turkceKelime":"restoran",
+  "okunus":"restroan",
+},
+{
+  "ingilizceKelime":"satisfaction",
+  "turkceKelime":"memnuniyet",
+  "okunus":"sadisfekşın",
+},
+{
+  "ingilizceKelime":"sector",
+  "turkceKelime":"sektör",
+  "okunus":"sektör",
+},
+{
+  "ingilizceKelime":"signature",
+  "turkceKelime":"imza",
+  "okunus":"signiçır",
+},
+{
+  "ingilizceKelime":"significance",
+  "turkceKelime":"önem",
+  "okunus":"signifigıns",
+},
+{
+  "ingilizceKelime":"song",
+  "turkceKelime":"şarkı",
+  "okunus":"song",
+},
+{
+  "ingilizceKelime":"tooth",
+  "turkceKelime":"diş",
+  "okunus":"tuuth",
+},
+
+]},{ 
+"isim":"15",  
+ "data":[
+{
+  "ingilizceKelime":"town",
+  "turkceKelime":"şehir",
+  "okunus":"taun",
+},
+{
+  "ingilizceKelime":"vehicle",
+  "turkceKelime":"araç",
+  "okunus":"viıkıl",
+},
+{
+  "ingilizceKelime":"volume",
+  "turkceKelime":"Ses",
+  "okunus":"volyum",
+},
+{
+  "ingilizceKelime":"wife",
+  "turkceKelime":"kadın eş",
+  "okunus":"vayf",
+},
+{
+  "ingilizceKelime":"accident",
+  "turkceKelime":"kaza",
+  "okunus":"aksıdınt",
+},
+{
+  "ingilizceKelime":"airport",
+  "turkceKelime":"havalimanı",
+  "okunus":"eğpot",
+},
+{
+  "ingilizceKelime":"appointment",
+  "turkceKelime":"randevu",
+  "okunus":"epoyntmınt",
+},
+{
+  "ingilizceKelime":"arrival",
+  "turkceKelime":"varış",
+  "okunus":"erayvıl",
+},
+{
+  "ingilizceKelime":"assumption",
+  "turkceKelime":"Varsayım",
+  "okunus":"esampşın",
+},
+{
+  "ingilizceKelime":"baseball",
+  "turkceKelime":"beyzbol",
+  "okunus":"beyzbol",
+},
+{
+  "ingilizceKelime":"chapter",
+  "turkceKelime":"bölüm",
+  "okunus":"çeptır",
+},
+{
+  "ingilizceKelime":"committee",
+  "turkceKelime":"Kurul",
+  "okunus":"kımıdi",
+},
+{
+  "ingilizceKelime":"conversation",
+  "turkceKelime":"konuşma",
+  "okunus":"konvörzeyşın",
+},
+{
+  "ingilizceKelime":"database",
+  "turkceKelime":"veri tabanı",
+  "okunus":"deytabeyz",
+},
+{
+  "ingilizceKelime":"enthusiasm",
+  "turkceKelime":"heves",
+  "okunus":"intüziyazım",
+},
+{
+  "ingilizceKelime":"error",
+  "turkceKelime":"hata",
+  "okunus":"erör",
+},
+{
+  "ingilizceKelime":"explanation",
+  "turkceKelime":"açıklama",
+  "okunus":"eksplanızeyşın",
+},
+{
+  "ingilizceKelime":"farmer",
+  "turkceKelime":"çiftçi",
+  "okunus":"farmır",
+},
+{
+  "ingilizceKelime":"gate",
+  "turkceKelime":"geçit",
+  "okunus":"geyt",
+},
+{
+  "ingilizceKelime":"girl",
+  "turkceKelime":"kız",
+  "okunus":"görl",
+},
+{
+  "ingilizceKelime":"hall",
+  "turkceKelime":"salon",
+  "okunus":"hol",
+},
+{
+  "ingilizceKelime":"historian",
+  "turkceKelime":"tarihçi",
+  "okunus":"historiyın",
+},
+{
+  "ingilizceKelime":"hospital",
+  "turkceKelime":"hastane",
+  "okunus":"hospitıl",
+},
+{
+  "ingilizceKelime":"injury",
+  "turkceKelime":"incinme",
+  "okunus":"incuriy",
+},
+{
+  "ingilizceKelime":"instruction",
+  "turkceKelime":"talimat",
+  "okunus":"instrakşın",
+},
+
+]},{ 
+"isim":"16",  
+ "data":[
+{
+  "ingilizceKelime":"maintenance",
+  "turkceKelime":"bakım",
+  "okunus":"maintnıns",
+},
+{
+  "ingilizceKelime":"manufacturer",
+  "turkceKelime":"üretici firma",
+  "okunus":"menüfekçırır",
+},
+{
+  "ingilizceKelime":"meal",
+  "turkceKelime":"yemek",
+  "okunus":"miıl",
+},
+{
+  "ingilizceKelime":"perception",
+  "turkceKelime":"algı",
+  "okunus":"pörsepşın",
+},
+{
+  "ingilizceKelime":"pie",
+  "turkceKelime":"turta",
+  "okunus":"pay",
+},
+{
+  "ingilizceKelime":"poem",
+  "turkceKelime":"şiir",
+  "okunus":"poım",
+},
+{
+  "ingilizceKelime":"presence",
+  "turkceKelime":"mevcudiyet",
+  "okunus":"prezıns",
+},
+{
+  "ingilizceKelime":"proposal",
+  "turkceKelime":"teklif",
+  "okunus":"propozıl",
+},
+{
+  "ingilizceKelime":"reception",
+  "turkceKelime":"resepsiyon",
+  "okunus":"rısepşın",
+},
+{
+  "ingilizceKelime":"revolution",
+  "turkceKelime":"devrim",
+  "okunus":"revulışın",
+},
+{
+  "ingilizceKelime":"river",
+  "turkceKelime":"nehir",
+  "okunus":"rivır",
+},
+{
+  "ingilizceKelime":"son",
+  "turkceKelime":"oğul",
+  "okunus":"san",
+},
+{
+  "ingilizceKelime":"speech",
+  "turkceKelime":"konuşma",
+  "okunus":"spiç",
+},
+{
+  "ingilizceKelime":"tea",
+  "turkceKelime":"Çay",
+  "okunus":"ti",
+},
+{
+  "ingilizceKelime":"village",
+  "turkceKelime":"köy",
+  "okunus":"vilıc",
+},
+{
+  "ingilizceKelime":"warning",
+  "turkceKelime":"uyarı",
+  "okunus":"vorning",
+},
+{
+  "ingilizceKelime":"winner",
+  "turkceKelime":"kazanan",
+  "okunus":"vinır",
+},
+{
+  "ingilizceKelime":"worker",
+  "turkceKelime":"çalışan",
+  "okunus":"vorkır",
+},
+{
+  "ingilizceKelime":"writer",
+  "turkceKelime":"yazar",
+  "okunus":"raydır",
+},
+{
+  "ingilizceKelime":"assistance",
+  "turkceKelime":"yardım",
+  "okunus":"asistıns",
+},
+{
+  "ingilizceKelime":"breath",
+  "turkceKelime":"nefes",
+  "okunus":"breth",
+},
+{
+  "ingilizceKelime":"buyer",
+  "turkceKelime":"alıcı",
+  "okunus":"bayıır",
+},
+{
+  "ingilizceKelime":"chest",
+  "turkceKelime":"göğüs",
+  "okunus":"çest",
+},
+{
+  "ingilizceKelime":"chocolate",
+  "turkceKelime":"çikolata",
+  "okunus":"çaklıt",
+},
+{
+  "ingilizceKelime":"conclusion",
+  "turkceKelime":"çözüm",
+  "okunus":"kınklujın",
+},
+
+]},{ 
+"isim":"17",  
+ "data":[
+{
+  "ingilizceKelime":"contribution",
+  "turkceKelime":"katkı",
+  "okunus":"kantrubüşın",
+},
+{
+  "ingilizceKelime":"cookie",
+  "turkceKelime":"kurabiye",
+  "okunus":"kuki",
+},
+{
+  "ingilizceKelime":"courage",
+  "turkceKelime":"cesaret",
+  "okunus":"karıc",
+},
+{
+  "ingilizceKelime":"dad",
+  "turkceKelime":"baba",
+  "okunus":"ded",
+},
+{
+  "ingilizceKelime":"desk",
+  "turkceKelime":"sıra",
+  "okunus":"desk",
+},
+{
+  "ingilizceKelime":"drawer",
+  "turkceKelime":"çekmece",
+  "okunus":"dırour",
+},
+{
+  "ingilizceKelime":"establishment",
+  "turkceKelime":"kuruluş",
+  "okunus":"establişmınt",
+},
+{
+  "ingilizceKelime":"examination",
+  "turkceKelime":"muayene",
+  "okunus":"ekzamıneyşın",
+},
+{
+  "ingilizceKelime":"garbage",
+  "turkceKelime":"çöp",
+  "okunus":"garbıç",
+},
+{
+  "ingilizceKelime":"grocery",
+  "turkceKelime":"bakkal",
+  "okunus":"grosriy",
+},
+{
+  "ingilizceKelime":"honey",
+  "turkceKelime":"bal",
+  "okunus":"haniy",
+},
+{
+  "ingilizceKelime":"impression",
+  "turkceKelime":"izlenim",
+  "okunus":"impreşın",
+},
+{
+  "ingilizceKelime":"improvement",
+  "turkceKelime":"Gelişme",
+  "okunus":"impruvmınt",
+},
+{
+  "ingilizceKelime":"independence",
+  "turkceKelime":"bağımsızlık",
+  "okunus":"indıpendıns",
+},
+{
+  "ingilizceKelime":"insect",
+  "turkceKelime":"böcek",
+  "okunus":"insekt",
+},
+{
+  "ingilizceKelime":"inspection",
+  "turkceKelime":"teftiş",
+  "okunus":"inspekşın",
+},
+{
+  "ingilizceKelime":"inspector",
+  "turkceKelime":"müfettiş",
+  "okunus":"inspektır",
+},
+{
+  "ingilizceKelime":"king",
+  "turkceKelime":"kral",
+  "okunus":"king",
+},
+{
+  "ingilizceKelime":"ladder",
+  "turkceKelime":"merdiven",
+  "okunus":"ledır",
+},
+{
+  "ingilizceKelime":"menu",
+  "turkceKelime":"Menü",
+  "okunus":"menyüu",
+},
+{
+  "ingilizceKelime":"penalty",
+  "turkceKelime":"ceza",
+  "okunus":"penalti",
+},
+{
+  "ingilizceKelime":"piano",
+  "turkceKelime":"piyano",
+  "okunus":"piyano",
+},
+{
+  "ingilizceKelime":"potato",
+  "turkceKelime":"Patates",
+  "okunus":"poteyto",
+},
+{
+  "ingilizceKelime":"profession",
+  "turkceKelime":"uzmanlık alanı",
+  "okunus":"profeşın",
+},
+{
+  "ingilizceKelime":"professor",
+  "turkceKelime":"profesör",
+  "okunus":"profesur",
+},
+
+]},{ 
+"isim":"18",  
+ "data":[
+{
+  "ingilizceKelime":"quantity",
+  "turkceKelime":"miktar",
+  "okunus":"kuontitiy",
+},
+{
+  "ingilizceKelime":"reaction",
+  "turkceKelime":"reaksiyon",
+  "okunus":"riakşın",
+},
+{
+  "ingilizceKelime":"requirement",
+  "turkceKelime":"gereklilik",
+  "okunus":"rikuayrmınt",
+},
+{
+  "ingilizceKelime":"salad",
+  "turkceKelime":"salata",
+  "okunus":"salıd",
+},
+{
+  "ingilizceKelime":"sister",
+  "turkceKelime":"kardeş",
+  "okunus":"sistır",
+},
+{
+  "ingilizceKelime":"supermarket",
+  "turkceKelime":"süpermarket",
+  "okunus":"supırmarket",
+},
+{
+  "ingilizceKelime":"tongue",
+  "turkceKelime":"dil",
+  "okunus":"tan(g)",
+},
+{
+  "ingilizceKelime":"weakness",
+  "turkceKelime":"zayıflık",
+  "okunus":"viknıs",
+},
+{
+  "ingilizceKelime":"wedding",
+  "turkceKelime":"düğün",
+  "okunus":"veding",
+},
+{
+  "ingilizceKelime":"affair",
+  "turkceKelime":"mesele",
+  "okunus":"afeır",
+},
+{
+  "ingilizceKelime":"ambition",
+  "turkceKelime":"hırs",
+  "okunus":"embişın",
+},
+{
+  "ingilizceKelime":"analyst",
+  "turkceKelime":"analist",
+  "okunus":"enalist",
+},
+{
+  "ingilizceKelime":"apple",
+  "turkceKelime":"elma",
+  "okunus":"epıl",
+},
+{
+  "ingilizceKelime":"assignment",
+  "turkceKelime":"atama",
+  "okunus":"esaynmınt",
+},
+{
+  "ingilizceKelime":"assistant",
+  "turkceKelime":"asistan",
+  "okunus":"asistınt",
+},
+{
+  "ingilizceKelime":"bathroom",
+  "turkceKelime":"banyo",
+  "okunus":"bethruum",
+},
+{
+  "ingilizceKelime":"bedroom",
+  "turkceKelime":"yatak odası",
+  "okunus":"bedruum",
+},
+{
+  "ingilizceKelime":"birthday",
+  "turkceKelime":"doğum günü",
+  "okunus":"börtdey",
+},
+{
+  "ingilizceKelime":"celebration",
+  "turkceKelime":"kutlama",
+  "okunus":"selebreyşın",
+},
+{
+  "ingilizceKelime":"championship",
+  "turkceKelime":"şampiyonluk",
+  "okunus":"çampiınşip",
+},
+{
+  "ingilizceKelime":"cheek",
+  "turkceKelime":"yanak",
+  "okunus":"çiik",
+},
+{
+  "ingilizceKelime":"client",
+  "turkceKelime":"müşteri",
+  "okunus":"kılayınt",
+},
+{
+  "ingilizceKelime":"consequence",
+  "turkceKelime":"sonuçlar",
+  "okunus":"kansıkvıns",
+},
+{
+  "ingilizceKelime":"departure",
+  "turkceKelime":"kalkış",
+  "okunus":"deparçır",
+},
+{
+  "ingilizceKelime":"diamond",
+  "turkceKelime":"elmas",
+  "okunus":"daymınd",
+},
+
+]},{ 
+"isim":"19",  
+ "data":[
+{
+  "ingilizceKelime":"dirt",
+  "turkceKelime":"kir",
+  "okunus":"dört",
+},
+{
+  "ingilizceKelime":"ear",
+  "turkceKelime":"kulak",
+  "okunus":"iır",
+},
+{
+  "ingilizceKelime":"fortune",
+  "turkceKelime":"talih",
+  "okunus":"forçiın",
+},
+{
+  "ingilizceKelime":"friendship",
+  "turkceKelime":"dostluk",
+  "okunus":"frendşip",
+},
+{
+  "ingilizceKelime":"funeral",
+  "turkceKelime":"cenaze",
+  "okunus":"fünırıl",
+},
+{
+  "ingilizceKelime":"gene",
+  "turkceKelime":"gen",
+  "okunus":"ciin",
+},
+{
+  "ingilizceKelime":"girlfriend",
+  "turkceKelime":"kız arkadaşı",
+  "okunus":"görlfrend",
+},
+{
+  "ingilizceKelime":"hat",
+  "turkceKelime":"şapka",
+  "okunus":"het",
+},
+{
+  "ingilizceKelime":"indication",
+  "turkceKelime":"gösterge",
+  "okunus":"indikeyşın",
+},
+{
+  "ingilizceKelime":"intention",
+  "turkceKelime":"niyet",
+  "okunus":"intenşın",
+},
+{
+  "ingilizceKelime":"lady",
+  "turkceKelime":"Hanım",
+  "okunus":"leydi",
+},
+{
+  "ingilizceKelime":"midnight",
+  "turkceKelime":"gece yarısı",
+  "okunus":"midnayt",
+},
+{
+  "ingilizceKelime":"negotiation",
+  "turkceKelime":"müzakere",
+  "okunus":"nigoşieyşın",
+},
+{
+  "ingilizceKelime":"obligation",
+  "turkceKelime":"yükümlülük",
+  "okunus":"obligeyşın",
+},
+{
+  "ingilizceKelime":"passenger",
+  "turkceKelime":"yolcu",
+  "okunus":"pasıncır",
+},
+{
+  "ingilizceKelime":"pizza",
+  "turkceKelime":"Pizza",
+  "okunus":"pitza",
+},
+{
+  "ingilizceKelime":"platform",
+  "turkceKelime":"platform",
+  "okunus":"platform",
+},
+{
+  "ingilizceKelime":"poet",
+  "turkceKelime":"şair",
+  "okunus":"poıt",
+},
+{
+  "ingilizceKelime":"pollution",
+  "turkceKelime":"kirlilik",
+  "okunus":"poluşın",
+},
+{
+  "ingilizceKelime":"recognition",
+  "turkceKelime":"tanıma",
+  "okunus":"rekıgnişın",
+},
+{
+  "ingilizceKelime":"reputation",
+  "turkceKelime":"itibar",
+  "okunus":"repuüteyşın",
+},
+{
+  "ingilizceKelime":"shirt",
+  "turkceKelime":"gömlek",
+  "okunus":"şört",
+},
+{
+  "ingilizceKelime":"sir",
+  "turkceKelime":"Sayın",
+  "okunus":"sör",
+},
+{
+  "ingilizceKelime":"speaker",
+  "turkceKelime":"konuşmacı",
+  "okunus":"spikır",
+},
+{
+  "ingilizceKelime":"stranger",
+  "turkceKelime":"yabancı",
+  "okunus":"streyncır",
+},
+
+]},{ 
+"isim":"20",  
+ "data":[
+{
+  "ingilizceKelime":"surgery",
+  "turkceKelime":"ameliyat",
+  "okunus":"sörcıriy",
+},
+{
+  "ingilizceKelime":"sympathy",
+  "turkceKelime":"sempati",
+  "okunus":"simpatiy",
+},
+{
+  "ingilizceKelime":"tale",
+  "turkceKelime":"masal",
+  "okunus":"teyl",
+},
+{
+  "ingilizceKelime":"throat",
+  "turkceKelime":"boğaz",
+  "okunus":"trout",
+},
+{
+  "ingilizceKelime":"trainer",
+  "turkceKelime":"eğitimci",
+  "okunus":"treynır",
+},
+{
+  "ingilizceKelime":"uncle",
+  "turkceKelime":"amca dayı",
+  "okunus":"ankıl",
+},
+{
+  "ingilizceKelime":"youth",
+  "turkceKelime":"gençlik",
+  "okunus":"yuğt",
+},
+{
+  "ingilizceKelime":"time",
+  "turkceKelime":"zaman",
+  "okunus":"taym",
+},
+{
+  "ingilizceKelime":"film",
+  "turkceKelime":"film",
+  "okunus":"film",
+},
+{
+  "ingilizceKelime":"water",
+  "turkceKelime":"su",
+  "okunus":"voğta",
+},
+{
+  "ingilizceKelime":"example",
+  "turkceKelime":"örnek",
+  "okunus":"egzempıl",
+},
+{
+  "ingilizceKelime":"while",
+  "turkceKelime":"süre",
+  "okunus":"vayl",
+},
+{
+  "ingilizceKelime":"business",
+  "turkceKelime":"işletme",
+  "okunus":"büzınıs",
+},
+{
+  "ingilizceKelime":"study",
+  "turkceKelime":"ders çalışma",
+  "okunus":"stadiy",
+},
+{
+  "ingilizceKelime":"game",
+  "turkceKelime":"oyun",
+  "okunus":"geym",
+},
+{
+  "ingilizceKelime":"life",
+  "turkceKelime":"hayat",
+  "okunus":"layf",
+},
+{
+  "ingilizceKelime":"form",
+  "turkceKelime":"biçim",
+  "okunus":"form",
+},
+{
+  "ingilizceKelime":"air",
+  "turkceKelime":"hava",
+  "okunus":"eır",
+},
+{
+  "ingilizceKelime":"day",
+  "turkceKelime":"gün",
+  "okunus":"dey",
+},
+{
+  "ingilizceKelime":"place",
+  "turkceKelime":"yer",
+  "okunus":"pleys",
+},
+{
+  "ingilizceKelime":"number",
+  "turkceKelime":"sayı",
+  "okunus":"nambır",
+},
+{
+  "ingilizceKelime":"part",
+  "turkceKelime":"Bölüm",
+  "okunus":"part",
+},
+{
+  "ingilizceKelime":"field",
+  "turkceKelime":"alan",
+  "okunus":"fiıld",
+},
+{
+  "ingilizceKelime":"fish",
+  "turkceKelime":"balık",
+  "okunus":"fiş",
+},
+{
+  "ingilizceKelime":"back",
+  "turkceKelime":"geri",
+  "okunus":"bek",
+},
+
+]},{ 
+"isim":"21",  
+ "data":[
+{
+  "ingilizceKelime":"process",
+  "turkceKelime":"işlem",
+  "okunus":"proses",
+},
+{
+  "ingilizceKelime":"heat",
+  "turkceKelime":"sıcaklık",
+  "okunus":"hiıt",
+},
+{
+  "ingilizceKelime":"hand",
+  "turkceKelime":"el",
+  "okunus":"hend",
+},
+{
+  "ingilizceKelime":"experience",
+  "turkceKelime":"deneyim",
+  "okunus":"ekspirıyıns",
+},
+{
+  "ingilizceKelime":"job",
+  "turkceKelime":"iş",
+  "okunus":"cab",
+},
+{
+  "ingilizceKelime":"book",
+  "turkceKelime":"kitap",
+  "okunus":"buuk",
+},
+{
+  "ingilizceKelime":"end",
+  "turkceKelime":"son",
+  "okunus":"end",
+},
+{
+  "ingilizceKelime":"point",
+  "turkceKelime":"puan",
+  "okunus":"point",
+},
+{
+  "ingilizceKelime":"type",
+  "turkceKelime":"tip",
+  "okunus":"tayp",
+},
+{
+  "ingilizceKelime":"home",
+  "turkceKelime":"ev",
+  "okunus":"hom",
+},
+{
+  "ingilizceKelime":"economy",
+  "turkceKelime":"ekonomi",
+  "okunus":"e(",
+},
+{
+  "ingilizceKelime":"value",
+  "turkceKelime":"değer",
+  "okunus":"valyu",
+},
+{
+  "ingilizceKelime":"body",
+  "turkceKelime":"gövde",
+  "okunus":"badi",
+},
+{
+  "ingilizceKelime":"market",
+  "turkceKelime":"pazar",
+  "okunus":"markıt",
+},
+{
+  "ingilizceKelime":"guide",
+  "turkceKelime":"kılavuz",
+  "okunus":"gayd",
+},
+{
+  "ingilizceKelime":"interest",
+  "turkceKelime":"faiz",
+  "okunus":"intrıst",
+},
+{
+  "ingilizceKelime":"state",
+  "turkceKelime":"durum",
+  "okunus":"steyt",
+},
+{
+  "ingilizceKelime":"radio",
+  "turkceKelime":"radyo",
+  "okunus":"reydyo",
+},
+{
+  "ingilizceKelime":"course",
+  "turkceKelime":"kurs",
+  "okunus":"koors",
+},
+{
+  "ingilizceKelime":"company",
+  "turkceKelime":"şirket",
+  "okunus":"kampani",
+},
+{
+  "ingilizceKelime":"price",
+  "turkceKelime":"fiyat",
+  "okunus":"prays",
+},
+{
+  "ingilizceKelime":"size",
+  "turkceKelime":"boyut",
+  "okunus":"sayz",
+},
+{
+  "ingilizceKelime":"card",
+  "turkceKelime":"kart",
+  "okunus":"kard",
+},
+{
+  "ingilizceKelime":"list",
+  "turkceKelime":"liste",
+  "okunus":"list",
+},
+{
+  "ingilizceKelime":"mind",
+  "turkceKelime":"zihin",
+  "okunus":"maynd",
+},
+
+]},{ 
+"isim":"22",  
+ "data":[
+{
+  "ingilizceKelime":"trade",
+  "turkceKelime":"Ticaret",
+  "okunus":"treyd",
+},
+{
+  "ingilizceKelime":"line",
+  "turkceKelime":"çizgi,hat",
+  "okunus":"layn",
+},
+{
+  "ingilizceKelime":"care",
+  "turkceKelime":"bakım",
+  "okunus":"keır",
+},
+{
+  "ingilizceKelime":"group",
+  "turkceKelime":"grup",
+  "okunus":"gruup",
+},
+{
+  "ingilizceKelime":"risk",
+  "turkceKelime":"risk",
+  "okunus":"risk",
+},
+{
+  "ingilizceKelime":"word",
+  "turkceKelime":"kelime",
+  "okunus":"vörd",
+},
+{
+  "ingilizceKelime":"fat",
+  "turkceKelime":"yağ",
+  "okunus":"fet",
+},
+{
+  "ingilizceKelime":"force",
+  "turkceKelime":"Kuvvet",
+  "okunus":"fors",
+},
+{
+  "ingilizceKelime":"key",
+  "turkceKelime":"anahtar",
+  "okunus":"ki",
+},
+{
+  "ingilizceKelime":"light",
+  "turkceKelime":"ışık",
+  "okunus":"layd",
+},
+{
+  "ingilizceKelime":"training",
+  "turkceKelime":"eğitim",
+  "okunus":"treynin",
+},
+{
+  "ingilizceKelime":"name",
+  "turkceKelime":"isim",
+  "okunus":"neym",
+},
+{
+  "ingilizceKelime":"school",
+  "turkceKelime":"okul",
+  "okunus":"skuul",
+},
+{
+  "ingilizceKelime":"top",
+  "turkceKelime":"tepe",
+  "okunus":"tap",
+},
+{
+  "ingilizceKelime":"amount",
+  "turkceKelime":"tutar",
+  "okunus":"emaunt",
+},
+{
+  "ingilizceKelime":"level",
+  "turkceKelime":"seviye",
+  "okunus":"levıl",
+},
+{
+  "ingilizceKelime":"order",
+  "turkceKelime":"emir",
+  "okunus":"ordır",
+},
+{
+  "ingilizceKelime":"practice",
+  "turkceKelime":"uygulama",
+  "okunus":"praktıs",
+},
+{
+  "ingilizceKelime":"research",
+  "turkceKelime":"Araştırma",
+  "okunus":"risörç",
+},
+{
+  "ingilizceKelime":"sense",
+  "turkceKelime":"algı",
+  "okunus":"sens",
+},
+{
+  "ingilizceKelime":"service",
+  "turkceKelime":"hizmet",
+  "okunus":"sörvıs",
+},
+{
+  "ingilizceKelime":"piece",
+  "turkceKelime":"adet",
+  "okunus":"piis",
+},
+{
+  "ingilizceKelime":"web",
+  "turkceKelime":"ağ",
+  "okunus":"veb",
+},
+{
+  "ingilizceKelime":"boss",
+  "turkceKelime":"Müdür",
+  "okunus":"bos",
+},
+{
+  "ingilizceKelime":"sport",
+  "turkceKelime":"spor",
+  "okunus":"sport",
+},
+
+]},{ 
+"isim":"23",  
+ "data":[
+{
+  "ingilizceKelime":"fun",
+  "turkceKelime":"eğlence",
+  "okunus":"fan",
+},
+{
+  "ingilizceKelime":"house",
+  "turkceKelime":"ev",
+  "okunus":"haus",
+},
+{
+  "ingilizceKelime":"page",
+  "turkceKelime":"sayfa",
+  "okunus":"peyc",
+},
+{
+  "ingilizceKelime":"term",
+  "turkceKelime":"terim",
+  "okunus":"törm",
+},
+{
+  "ingilizceKelime":"test",
+  "turkceKelime":"test",
+  "okunus":"test",
+},
+{
+  "ingilizceKelime":"answer",
+  "turkceKelime":"Cevap",
+  "okunus":"ensvır",
+},
+{
+  "ingilizceKelime":"sound",
+  "turkceKelime":"ses",
+  "okunus":"saund",
+},
+{
+  "ingilizceKelime":"focus",
+  "turkceKelime":"odak",
+  "okunus":"fokıs",
+},
+{
+  "ingilizceKelime":"matter",
+  "turkceKelime":"mesele",
+  "okunus":"medır",
+},
+{
+  "ingilizceKelime":"kind",
+  "turkceKelime":"tür",
+  "okunus":"kaynd",
+},
+{
+  "ingilizceKelime":"soil",
+  "turkceKelime":"toprak",
+  "okunus":"soyıl",
+},
+{
+  "ingilizceKelime":"board",
+  "turkceKelime":"yazı tahtası",
+  "okunus":"boord",
+},
+{
+  "ingilizceKelime":"oil",
+  "turkceKelime":"sıvı yağ",
+  "okunus":"oyıl",
+},
+{
+  "ingilizceKelime":"picture",
+  "turkceKelime":"resim",
+  "okunus":"pikçır",
+},
+{
+  "ingilizceKelime":"access",
+  "turkceKelime":"erişim",
+  "okunus":"eksıs",
+},
+{
+  "ingilizceKelime":"garden",
+  "turkceKelime":"Bahçe",
+  "okunus":"gardın",
+},
+{
+  "ingilizceKelime":"range",
+  "turkceKelime":"Aralık",
+  "okunus":"reync",
+},
+{
+  "ingilizceKelime":"rate",
+  "turkceKelime":"oran",
+  "okunus":"reeyt",
+},
+{
+  "ingilizceKelime":"reason",
+  "turkceKelime":"sebep",
+  "okunus":"rizın",
+},
+{
+  "ingilizceKelime":"future",
+  "turkceKelime":"gelecek",
+  "okunus":"füçır",
+},
+{
+  "ingilizceKelime":"site",
+  "turkceKelime":"alan",
+  "okunus":"sayt",
+},
+{
+  "ingilizceKelime":"demand",
+  "turkceKelime":"talep",
+  "okunus":"dımend",
+},
+{
+  "ingilizceKelime":"exercise",
+  "turkceKelime":"egzersiz",
+  "okunus":"eksırsayz",
+},
+{
+  "ingilizceKelime":"image",
+  "turkceKelime":"görüntü",
+  "okunus":"imıc",
+},
+{
+  "ingilizceKelime":"case",
+  "turkceKelime":"dava",
+  "okunus":"keys",
+},
+
+]},{ 
+"isim":"24",  
+ "data":[
+{
+  "ingilizceKelime":"cause",
+  "turkceKelime":"neden",
+  "okunus":"kağz",
+},
+{
+  "ingilizceKelime":"coast",
+  "turkceKelime":"sahil",
+  "okunus":"koust",
+},
+{
+  "ingilizceKelime":"action",
+  "turkceKelime":"eylem",
+  "okunus":"ekşın",
+},
+{
+  "ingilizceKelime":"age",
+  "turkceKelime":"yaş",
+  "okunus":"eyc",
+},
+{
+  "ingilizceKelime":"bad",
+  "turkceKelime":"kötü",
+  "okunus":"bed",
+},
+{
+  "ingilizceKelime":"boat",
+  "turkceKelime":"bot",
+  "okunus":"bout",
+},
+{
+  "ingilizceKelime":"record",
+  "turkceKelime":"kayıt",
+  "okunus":"rikord",
+},
+{
+  "ingilizceKelime":"result",
+  "turkceKelime":"sonuç",
+  "okunus":"rizalt",
+},
+{
+  "ingilizceKelime":"section",
+  "turkceKelime":"bölüm",
+  "okunus":"sekşın",
+},
+{
+  "ingilizceKelime":"building",
+  "turkceKelime":"bina",
+  "okunus":"büldin",
+},
+{
+  "ingilizceKelime":"mouse",
+  "turkceKelime":"fare",
+  "okunus":"meaus",
+},
+{
+  "ingilizceKelime":"cash",
+  "turkceKelime":"nakit",
+  "okunus":"keş",
+},
+{
+  "ingilizceKelime":"class",
+  "turkceKelime":"sınıf",
+  "okunus":"klas",
+},
+{
+  "ingilizceKelime":"nothing",
+  "turkceKelime":"hiç bir şey",
+  "okunus":"natin(g)",
+},
+{
+  "ingilizceKelime":"period",
+  "turkceKelime":"dönem",
+  "okunus":"piriyıd",
+},
+{
+  "ingilizceKelime":"plan",
+  "turkceKelime":"plan",
+  "okunus":"plen",
+},
+{
+  "ingilizceKelime":"store",
+  "turkceKelime":"mağaza",
+  "okunus":"stoor",
+},
+{
+  "ingilizceKelime":"tax",
+  "turkceKelime":"vergi",
+  "okunus":"teks",
+},
+{
+  "ingilizceKelime":"side",
+  "turkceKelime":"yan",
+  "okunus":"sayd",
+},
+{
+  "ingilizceKelime":"subject",
+  "turkceKelime":"ders",
+  "okunus":"sabcekt",
+},
+{
+  "ingilizceKelime":"space",
+  "turkceKelime":"Uzay",
+  "okunus":"speys",
+},
+{
+  "ingilizceKelime":"rule",
+  "turkceKelime":"kural",
+  "okunus":"ruul",
+},
+{
+  "ingilizceKelime":"stock",
+  "turkceKelime":"stok, mevcut",
+  "okunus":"stak",
+},
+{
+  "ingilizceKelime":"weather",
+  "turkceKelime":"hava",
+  "okunus":"vedır",
+},
+{
+  "ingilizceKelime":"chance",
+  "turkceKelime":"şans",
+  "okunus":"çans",
+},
+
+]},{ 
+"isim":"25",  
+ "data":[
+{
+  "ingilizceKelime":"figure",
+  "turkceKelime":"figür",
+  "okunus":"figüür",
+},
+{
+  "ingilizceKelime":"man",
+  "turkceKelime":"adam",
+  "okunus":"men",
+},
+{
+  "ingilizceKelime":"model",
+  "turkceKelime":"model",
+  "okunus":"modıl",
+},
+{
+  "ingilizceKelime":"source",
+  "turkceKelime":"kaynak",
+  "okunus":"sors",
+},
+{
+  "ingilizceKelime":"beginning",
+  "turkceKelime":"başlangıç",
+  "okunus":"biginin",
+},
+{
+  "ingilizceKelime":"earth",
+  "turkceKelime":"Dünya",
+  "okunus":"ört",
+},
+{
+  "ingilizceKelime":"program",
+  "turkceKelime":"program",
+  "okunus":"progreğm",
+},
+{
+  "ingilizceKelime":"chicken",
+  "turkceKelime":"Tavuk",
+  "okunus":"çikın",
+},
+{
+  "ingilizceKelime":"design",
+  "turkceKelime":"tasarım",
+  "okunus":"dizayn",
+},
+{
+  "ingilizceKelime":"feature",
+  "turkceKelime":"özellik",
+  "okunus":"fiçır",
+},
+{
+  "ingilizceKelime":"head",
+  "turkceKelime":"kafa",
+  "okunus":"hed",
+},
+{
+  "ingilizceKelime":"material",
+  "turkceKelime":"malzeme",
+  "okunus":"meterial",
+},
+{
+  "ingilizceKelime":"purpose",
+  "turkceKelime":"amaç",
+  "okunus":"pörpıs",
+},
+{
+  "ingilizceKelime":"question",
+  "turkceKelime":"soru",
+  "okunus":"kuesçın",
+},
+{
+  "ingilizceKelime":"rock",
+  "turkceKelime":"kaynak",
+  "okunus":"rak",
+},
+{
+  "ingilizceKelime":"salt",
+  "turkceKelime":"tuz",
+  "okunus":"solt",
+},
+{
+  "ingilizceKelime":"act",
+  "turkceKelime":"eylem",
+  "okunus":"ekt",
+},
+{
+  "ingilizceKelime":"birth",
+  "turkceKelime":"doğum",
+  "okunus":"bört",
+},
+{
+  "ingilizceKelime":"car",
+  "turkceKelime":"araba",
+  "okunus":"kar",
+},
+{
+  "ingilizceKelime":"dog",
+  "turkceKelime":"köpek",
+  "okunus":"dog",
+},
+{
+  "ingilizceKelime":"object",
+  "turkceKelime":"nesne",
+  "okunus":"obcekt",
+},
+{
+  "ingilizceKelime":"scale",
+  "turkceKelime":"ölçek",
+  "okunus":"skeyl",
+},
+{
+  "ingilizceKelime":"sun",
+  "turkceKelime":"güneş",
+  "okunus":"san",
+},
+{
+  "ingilizceKelime":"note",
+  "turkceKelime":"Not",
+  "okunus":"noot",
+},
+{
+  "ingilizceKelime":"profit",
+  "turkceKelime":"kâr",
+  "okunus":"profıt",
+},
+
+]},{ 
+"isim":"26",  
+ "data":[
+{
+  "ingilizceKelime":"rent",
+  "turkceKelime":"kira",
+  "okunus":"rent",
+},
+{
+  "ingilizceKelime":"speed",
+  "turkceKelime":"hız",
+  "okunus":"spiid",
+},
+{
+  "ingilizceKelime":"style",
+  "turkceKelime":"tarz",
+  "okunus":"stayl",
+},
+{
+  "ingilizceKelime":"war",
+  "turkceKelime":"savaş",
+  "okunus":"vor",
+},
+{
+  "ingilizceKelime":"bank",
+  "turkceKelime":"banka",
+  "okunus":"benk",
+},
+{
+  "ingilizceKelime":"craft",
+  "turkceKelime":"zanaat",
+  "okunus":"kraft",
+},
+{
+  "ingilizceKelime":"half",
+  "turkceKelime":"yarım",
+  "okunus":"heaf",
+},
+{
+  "ingilizceKelime":"inside",
+  "turkceKelime":"içeri",
+  "okunus":"insayd",
+},
+{
+  "ingilizceKelime":"outside",
+  "turkceKelime":"dışarıda",
+  "okunus":"autsayd",
+},
+{
+  "ingilizceKelime":"standard",
+  "turkceKelime":"standart",
+  "okunus":"stendırt",
+},
+{
+  "ingilizceKelime":"bus",
+  "turkceKelime":"otobüs",
+  "okunus":"bas",
+},
+{
+  "ingilizceKelime":"exchange",
+  "turkceKelime":"değiş tokuş",
+  "okunus":"eksçeync",
+},
+{
+  "ingilizceKelime":"eye",
+  "turkceKelime":"göz",
+  "okunus":"ay",
+},
+{
+  "ingilizceKelime":"fire",
+  "turkceKelime":"ateş",
+  "okunus":"fayığr",
+},
+{
+  "ingilizceKelime":"position",
+  "turkceKelime":"durum",
+  "okunus":"pozişın",
+},
+{
+  "ingilizceKelime":"pressure",
+  "turkceKelime":"baskı",
+  "okunus":"preşır",
+},
+{
+  "ingilizceKelime":"stress",
+  "turkceKelime":"stres",
+  "okunus":"strees",
+},
+{
+  "ingilizceKelime":"advantage",
+  "turkceKelime":"avantaj",
+  "okunus":"edvenıc",
+},
+{
+  "ingilizceKelime":"benefit",
+  "turkceKelime":"fayda",
+  "okunus":"benefit",
+},
+{
+  "ingilizceKelime":"box",
+  "turkceKelime":"kutu",
+  "okunus":"boks",
+},
+{
+  "ingilizceKelime":"frame",
+  "turkceKelime":"çerçeve",
+  "okunus":"freym",
+},
+{
+  "ingilizceKelime":"issue",
+  "turkceKelime":"sorun",
+  "okunus":"işüğ",
+},
+{
+  "ingilizceKelime":"step",
+  "turkceKelime":"adım",
+  "okunus":"step",
+},
+{
+  "ingilizceKelime":"cycle",
+  "turkceKelime":"devir,bisiklet",
+  "okunus":"saykıl",
+},
+{
+  "ingilizceKelime":"face",
+  "turkceKelime":"yüz",
+  "okunus":"feys",
+},
+
+]},{ 
+"isim":"27",  
+ "data":[
+{
+  "ingilizceKelime":"item",
+  "turkceKelime":"öğe",
+  "okunus":"aydım",
+},
+{
+  "ingilizceKelime":"metal",
+  "turkceKelime":"metal",
+  "okunus":"medıl",
+},
+{
+  "ingilizceKelime":"paint",
+  "turkceKelime":"boya",
+  "okunus":"peynt",
+},
+{
+  "ingilizceKelime":"review",
+  "turkceKelime":"eleştiri",
+  "okunus":"rıvyuğ",
+},
+{
+  "ingilizceKelime":"room",
+  "turkceKelime":"oda",
+  "okunus":"ruum",
+},
+{
+  "ingilizceKelime":"screen",
+  "turkceKelime":"ekran",
+  "okunus":"skrin",
+},
+{
+  "ingilizceKelime":"structure",
+  "turkceKelime":"yapı",
+  "okunus":"strakçır",
+},
+{
+  "ingilizceKelime":"view",
+  "turkceKelime":"görüş",
+  "okunus":"vyuğ",
+},
+{
+  "ingilizceKelime":"account",
+  "turkceKelime":"hesap",
+  "okunus":"ekaunt",
+},
+{
+  "ingilizceKelime":"ball",
+  "turkceKelime":"top",
+  "okunus":"bool",
+},
+{
+  "ingilizceKelime":"discipline",
+  "turkceKelime":"disiplin",
+  "okunus":"disıplın",
+},
+{
+  "ingilizceKelime":"medium",
+  "turkceKelime":"orta",
+  "okunus":"midyım",
+},
+{
+  "ingilizceKelime":"share",
+  "turkceKelime":"Paylaş",
+  "okunus":"şeyır",
+},
+{
+  "ingilizceKelime":"balance",
+  "turkceKelime":"denge",
+  "okunus":"belıns",
+},
+{
+  "ingilizceKelime":"bit",
+  "turkceKelime":"biraz",
+  "okunus":"bid",
+},
+{
+  "ingilizceKelime":"black",
+  "turkceKelime":"siyah",
+  "okunus":"blek",
+},
+{
+  "ingilizceKelime":"bottom",
+  "turkceKelime":"alt",
+  "okunus":"badım",
+},
+{
+  "ingilizceKelime":"choice",
+  "turkceKelime":"seçim",
+  "okunus":"çoys",
+},
+{
+  "ingilizceKelime":"gift",
+  "turkceKelime":"hediye",
+  "okunus":"gift",
+},
+{
+  "ingilizceKelime":"impact",
+  "turkceKelime":"darbe",
+  "okunus":"impekt",
+},
+{
+  "ingilizceKelime":"machine",
+  "turkceKelime":"makine",
+  "okunus":"meşiin",
+},
+{
+  "ingilizceKelime":"shape",
+  "turkceKelime":"şekil",
+  "okunus":"şeyp",
+},
+{
+  "ingilizceKelime":"tool",
+  "turkceKelime":"alet",
+  "okunus":"tuul",
+},
+{
+  "ingilizceKelime":"wind",
+  "turkceKelime":"rüzgâr",
+  "okunus":"vind",
+},
+{
+  "ingilizceKelime":"address",
+  "turkceKelime":"adres",
+  "okunus":"edres",
+},
+
+]},{ 
+"isim":"28",  
+ "data":[
+{
+  "ingilizceKelime":"average",
+  "turkceKelime":"ortalama",
+  "okunus":"evrıc",
+},
+{
+  "ingilizceKelime":"career",
+  "turkceKelime":"kariyer",
+  "okunus":"kariır",
+},
+{
+  "ingilizceKelime":"culture",
+  "turkceKelime":"kültür",
+  "okunus":"kalçır",
+},
+{
+  "ingilizceKelime":"morning",
+  "turkceKelime":"sabah",
+  "okunus":"mornin",
+},
+{
+  "ingilizceKelime":"pot",
+  "turkceKelime":"tencere",
+  "okunus":"pağt",
+},
+{
+  "ingilizceKelime":"sign",
+  "turkceKelime":"işaret",
+  "okunus":"sayn",
+},
+{
+  "ingilizceKelime":"table",
+  "turkceKelime":"masa",
+  "okunus":"teybıl",
+},
+{
+  "ingilizceKelime":"task",
+  "turkceKelime":"görev",
+  "okunus":"tesk",
+},
+{
+  "ingilizceKelime":"condition",
+  "turkceKelime":"şart",
+  "okunus":"kındişın",
+},
+{
+  "ingilizceKelime":"contact",
+  "turkceKelime":"İletişim",
+  "okunus":"kontekt",
+},
+{
+  "ingilizceKelime":"credit",
+  "turkceKelime":"kredi",
+  "okunus":"kredıt",
+},
+{
+  "ingilizceKelime":"egg",
+  "turkceKelime":"Yumurta",
+  "okunus":"eg",
+},
+{
+  "ingilizceKelime":"hope",
+  "turkceKelime":"Ümit",
+  "okunus":"houp",
+},
+{
+  "ingilizceKelime":"ice",
+  "turkceKelime":"buz",
+  "okunus":"ays",
+},
+{
+  "ingilizceKelime":"network",
+  "turkceKelime":"ağ",
+  "okunus":"netvork",
+},
+{
+  "ingilizceKelime":"north",
+  "turkceKelime":"kuzey",
+  "okunus":"nort",
+},
+{
+  "ingilizceKelime":"square",
+  "turkceKelime":"Meydan,kare",
+  "okunus":"skveır",
+},
+{
+  "ingilizceKelime":"attempt",
+  "turkceKelime":"teşebbüs",
+  "okunus":"etempt",
+},
+{
+  "ingilizceKelime":"date",
+  "turkceKelime":"tarih",
+  "okunus":"deyt",
+},
+{
+  "ingilizceKelime":"effect",
+  "turkceKelime":"Efekt",
+  "okunus":"efekt",
+},
+{
+  "ingilizceKelime":"link",
+  "turkceKelime":"bağlantı",
+  "okunus":"link",
+},
+{
+  "ingilizceKelime":"post",
+  "turkceKelime":"İleti",
+  "okunus":"post",
+},
+{
+  "ingilizceKelime":"star",
+  "turkceKelime":"yıldız",
+  "okunus":"star",
+},
+{
+  "ingilizceKelime":"voice",
+  "turkceKelime":"ses",
+  "okunus":"vois",
+},
+{
+  "ingilizceKelime":"capital",
+  "turkceKelime":"Başkent",
+  "okunus":"kepidıl",
+},
+
+]},{ 
+"isim":"29",  
+ "data":[
+{
+  "ingilizceKelime":"challenge",
+  "turkceKelime":"meydan okuma",
+  "okunus":"çelınc",
+},
+{
+  "ingilizceKelime":"friend",
+  "turkceKelime":"arkadaş",
+  "okunus":"frend",
+},
+{
+  "ingilizceKelime":"self",
+  "turkceKelime":"kendi kendine",
+  "okunus":"self",
+},
+{
+  "ingilizceKelime":"shot",
+  "turkceKelime":"atış",
+  "okunus":"şat",
+},
+{
+  "ingilizceKelime":"brush",
+  "turkceKelime":"fırça",
+  "okunus":"braş",
+},
+{
+  "ingilizceKelime":"couple",
+  "turkceKelime":"çift",
+  "okunus":"kapıl",
+},
+{
+  "ingilizceKelime":"exit",
+  "turkceKelime":"çıkış",
+  "okunus":"eksıt",
+},
+{
+  "ingilizceKelime":"front",
+  "turkceKelime":"ön",
+  "okunus":"front",
+},
+{
+  "ingilizceKelime":"function",
+  "turkceKelime":"işlev",
+  "okunus":"fangşın",
+},
+{
+  "ingilizceKelime":"lack",
+  "turkceKelime":"eksiklik",
+  "okunus":"lak",
+},
+{
+  "ingilizceKelime":"living",
+  "turkceKelime":"yaşama",
+  "okunus":"livin",
+},
+{
+  "ingilizceKelime":"plant",
+  "turkceKelime":"bitki",
+  "okunus":"plent",
+},
+{
+  "ingilizceKelime":"plastic",
+  "turkceKelime":"plastik",
+  "okunus":"plastik",
+},
+{
+  "ingilizceKelime":"spot",
+  "turkceKelime":"leke",
+  "okunus":"spat",
+},
+{
+  "ingilizceKelime":"summer",
+  "turkceKelime":"yaz",
+  "okunus":"samır",
+},
+{
+  "ingilizceKelime":"taste",
+  "turkceKelime":"tat",
+  "okunus":"teyst",
+},
+{
+  "ingilizceKelime":"theme",
+  "turkceKelime":"tema",
+  "okunus":"diim",
+},
+{
+  "ingilizceKelime":"track",
+  "turkceKelime":"iz",
+  "okunus":"trağk",
+},
+{
+  "ingilizceKelime":"wing",
+  "turkceKelime":"kanat",
+  "okunus":"ving",
+},
+{
+  "ingilizceKelime":"brain",
+  "turkceKelime":"beyin",
+  "okunus":"breyn",
+},
+{
+  "ingilizceKelime":"button",
+  "turkceKelime":"buton",
+  "okunus":"batın",
+},
+{
+  "ingilizceKelime":"click",
+  "turkceKelime":"tıkırtı",
+  "okunus":"klik",
+},
+{
+  "ingilizceKelime":"desire",
+  "turkceKelime":"arzu",
+  "okunus":"dizayır",
+},
+{
+  "ingilizceKelime":"foot",
+  "turkceKelime":"ayak",
+  "okunus":"fuut",
+},
+{
+  "ingilizceKelime":"gas",
+  "turkceKelime":"gaz",
+  "okunus":"ges",
+},
+
+]},{ 
+"isim":"30",  
+ "data":[
+{
+  "ingilizceKelime":"influence",
+  "turkceKelime":"etki",
+  "okunus":"infuluıns",
+},
+{
+  "ingilizceKelime":"mood",
+  "turkceKelime":"mod",
+  "okunus":"muud",
+},
+{
+  "ingilizceKelime":"notice",
+  "turkceKelime":"dikkat",
+  "okunus":"nodıs",
+},
+{
+  "ingilizceKelime":"rain",
+  "turkceKelime":"yağmur",
+  "okunus":"reyn",
+},
+{
+  "ingilizceKelime":"wall",
+  "turkceKelime":"duvar",
+  "okunus":"vaal",
+},
+{
+  "ingilizceKelime":"base",
+  "turkceKelime":"temel",
+  "okunus":"beys",
+},
+{
+  "ingilizceKelime":"damage",
+  "turkceKelime":"zarar",
+  "okunus":"demıc",
+},
+{
+  "ingilizceKelime":"distance",
+  "turkceKelime":"mesafe",
+  "okunus":"distıns",
+},
+{
+  "ingilizceKelime":"feeling",
+  "turkceKelime":"his",
+  "okunus":"fiilin",
+},
+{
+  "ingilizceKelime":"pair",
+  "turkceKelime":"çift",
+  "okunus":"peığr",
+},
+{
+  "ingilizceKelime":"saving",
+  "turkceKelime":"tasarruf",
+  "okunus":"seyvin",
+},
+{
+  "ingilizceKelime":"staff",
+  "turkceKelime":"Personel",
+  "okunus":"stef",
+},
+{
+  "ingilizceKelime":"sugar",
+  "turkceKelime":"Şeker",
+  "okunus":"şugır",
+},
+{
+  "ingilizceKelime":"target",
+  "turkceKelime":"hedef",
+  "okunus":"targıt",
+},
+{
+  "ingilizceKelime":"text",
+  "turkceKelime":"Metin",
+  "okunus":"tekst",
+},
+{
+  "ingilizceKelime":"animal",
+  "turkceKelime":"hayvan",
+  "okunus":"enimıl",
+},
+{
+  "ingilizceKelime":"author",
+  "turkceKelime":"yazar",
+  "okunus":"authır",
+},
+{
+  "ingilizceKelime":"budget",
+  "turkceKelime":"bütçe",
+  "okunus":"bacıt",
+},
+{
+  "ingilizceKelime":"discount",
+  "turkceKelime":"indirim",
+  "okunus":"diskaunt",
+},
+{
+  "ingilizceKelime":"file",
+  "turkceKelime":"dosya",
+  "okunus":"fayl",
+},
+{
+  "ingilizceKelime":"ground",
+  "turkceKelime":"zemin",
+  "okunus":"graund",
+},
+{
+  "ingilizceKelime":"lesson",
+  "turkceKelime":"ders",
+  "okunus":"lesın",
+},
+{
+  "ingilizceKelime":"minute",
+  "turkceKelime":"dakika",
+  "okunus":"minit",
+},
+{
+  "ingilizceKelime":"officer",
+  "turkceKelime":"memur",
+  "okunus":"ofisır",
+},
+{
+  "ingilizceKelime":"phase",
+  "turkceKelime":"evre",
+  "okunus":"feyz",
+},
+
+]},{ 
+"isim":"31",  
+ "data":[
+{
+  "ingilizceKelime":"reference",
+  "turkceKelime":"referans",
+  "okunus":"refrıns",
+},
+{
+  "ingilizceKelime":"register",
+  "turkceKelime":"sicil,sayaç",
+  "okunus":"registır",
+},
+{
+  "ingilizceKelime":"sky",
+  "turkceKelime":"gökyüzü",
+  "okunus":"skay",
+},
+{
+  "ingilizceKelime":"stage",
+  "turkceKelime":"sahne",
+  "okunus":"steyc",
+},
+{
+  "ingilizceKelime":"stick",
+  "turkceKelime":"sopa",
+  "okunus":"stik",
+},
+{
+  "ingilizceKelime":"title",
+  "turkceKelime":"Başlık",
+  "okunus":"taydıl",
+},
+{
+  "ingilizceKelime":"trouble",
+  "turkceKelime":"bela",
+  "okunus":"trabıl",
+},
+{
+  "ingilizceKelime":"bowl",
+  "turkceKelime":"tas",
+  "okunus":"boğl",
+},
+{
+  "ingilizceKelime":"bridge",
+  "turkceKelime":"köprü",
+  "okunus":"bric",
+},
+{
+  "ingilizceKelime":"campaign",
+  "turkceKelime":"kampanya",
+  "okunus":"kempeyn",
+},
+{
+  "ingilizceKelime":"character",
+  "turkceKelime":"karakter",
+  "okunus":"kerıktır",
+},
+{
+  "ingilizceKelime":"club",
+  "turkceKelime":"kulüp",
+  "okunus":"klab",
+},
+{
+  "ingilizceKelime":"edge",
+  "turkceKelime":"kenar",
+  "okunus":"ec",
+},
+{
+  "ingilizceKelime":"evidence",
+  "turkceKelime":"kanıt",
+  "okunus":"evidıns",
+},
+{
+  "ingilizceKelime":"fan",
+  "turkceKelime":"fan",
+  "okunus":"fen",
+},
+{
+  "ingilizceKelime":"letter",
+  "turkceKelime":"mektup",
+  "okunus":"ledır",
+},
+{
+  "ingilizceKelime":"lock",
+  "turkceKelime":"kilit",
+  "okunus":"lak",
+},
+{
+  "ingilizceKelime":"maximum",
+  "turkceKelime":"maksimum",
+  "okunus":"maksimım",
+},
+{
+  "ingilizceKelime":"novel",
+  "turkceKelime":"Roman",
+  "okunus":"navıl",
+},
+{
+  "ingilizceKelime":"option",
+  "turkceKelime":"seçenek",
+  "okunus":"opşın",
+},
+{
+  "ingilizceKelime":"pack",
+  "turkceKelime":"ambalaj",
+  "okunus":"pek",
+},
+{
+  "ingilizceKelime":"park",
+  "turkceKelime":"park",
+  "okunus":"park",
+},
+{
+  "ingilizceKelime":"quarter",
+  "turkceKelime":"çeyrek",
+  "okunus":"kordır",
+},
+{
+  "ingilizceKelime":"skin",
+  "turkceKelime":"deri",
+  "okunus":"skin",
+},
+{
+  "ingilizceKelime":"sort",
+  "turkceKelime":"çeşit",
+  "okunus":"sort",
+},
+
+]},{ 
+"isim":"32",  
+ "data":[
+{
+  "ingilizceKelime":"weight",
+  "turkceKelime":"ağırlık",
+  "okunus":"veyd",
+},
+{
+  "ingilizceKelime":"baby",
+  "turkceKelime":"bebek",
+  "okunus":"beybi",
+},
+{
+  "ingilizceKelime":"background",
+  "turkceKelime":"arka fon",
+  "okunus":"bekraund",
+},
+{
+  "ingilizceKelime":"dish",
+  "turkceKelime":"yemek",
+  "okunus":"diiş",
+},
+{
+  "ingilizceKelime":"factor",
+  "turkceKelime":"faktör",
+  "okunus":"fektır",
+},
+{
+  "ingilizceKelime":"fruit",
+  "turkceKelime":"meyve",
+  "okunus":"fruut",
+},
+{
+  "ingilizceKelime":"glass",
+  "turkceKelime":"bardak",
+  "okunus":"glas",
+},
+{
+  "ingilizceKelime":"joint",
+  "turkceKelime":"bağlantı",
+  "okunus":"joint",
+},
+{
+  "ingilizceKelime":"master",
+  "turkceKelime":"usta",
+  "okunus":"mastır",
+},
+{
+  "ingilizceKelime":"muscle",
+  "turkceKelime":"kas",
+  "okunus":"masıl",
+},
+{
+  "ingilizceKelime":"red",
+  "turkceKelime":"kırmızı",
+  "okunus":"red",
+},
+{
+  "ingilizceKelime":"strength",
+  "turkceKelime":"kuvvet",
+  "okunus":"strengt",
+},
+{
+  "ingilizceKelime":"traffic",
+  "turkceKelime":"trafik",
+  "okunus":"trafik",
+},
+{
+  "ingilizceKelime":"trip",
+  "turkceKelime":"seyahat",
+  "okunus":"trip",
+},
+{
+  "ingilizceKelime":"vegetable",
+  "turkceKelime":"sebze",
+  "okunus":"vectıbıl",
+},
+{
+  "ingilizceKelime":"appeal",
+  "turkceKelime":"başvuru",
+  "okunus":"apiıl",
+},
+{
+  "ingilizceKelime":"chart",
+  "turkceKelime":"çizelge",
+  "okunus":"çart",
+},
+{
+  "ingilizceKelime":"gear",
+  "turkceKelime":"vites",
+  "okunus":"giır",
+},
+{
+  "ingilizceKelime":"ideal",
+  "turkceKelime":"ideal",
+  "okunus":"aydiıl",
+},
+{
+  "ingilizceKelime":"kitchen",
+  "turkceKelime":"mutfak",
+  "okunus":"kitçın",
+},
+{
+  "ingilizceKelime":"land",
+  "turkceKelime":"kara,arsa",
+  "okunus":"lend",
+},
+{
+  "ingilizceKelime":"log",
+  "turkceKelime":"kayıt",
+  "okunus":"loğg",
+},
+{
+  "ingilizceKelime":"mother",
+  "turkceKelime":"anne",
+  "okunus":"madır",
+},
+{
+  "ingilizceKelime":"net",
+  "turkceKelime":"ağ",
+  "okunus":"net",
+},
+{
+  "ingilizceKelime":"party",
+  "turkceKelime":"Parti",
+  "okunus":"pardi",
+},
+
+]},{ 
+"isim":"33",  
+ "data":[
+{
+  "ingilizceKelime":"principle",
+  "turkceKelime":"prensip",
+  "okunus":"prensipıl",
+},
+{
+  "ingilizceKelime":"relative",
+  "turkceKelime":"akraba",
+  "okunus":"röladıv",
+},
+{
+  "ingilizceKelime":"sale",
+  "turkceKelime":"satış",
+  "okunus":"seyl",
+},
+{
+  "ingilizceKelime":"season",
+  "turkceKelime":"mevsim",
+  "okunus":"siğzın",
+},
+{
+  "ingilizceKelime":"signal",
+  "turkceKelime":"sinyal",
+  "okunus":"signıl",
+},
+{
+  "ingilizceKelime":"spirit",
+  "turkceKelime":"ruh",
+  "okunus":"spirıt",
+},
+{
+  "ingilizceKelime":"street",
+  "turkceKelime":"sokak",
+  "okunus":"striit",
+},
+{
+  "ingilizceKelime":"tree",
+  "turkceKelime":"ağaç",
+  "okunus":"trii",
+},
+{
+  "ingilizceKelime":"wave",
+  "turkceKelime":"dalga",
+  "okunus":"veyv",
+},
+{
+  "ingilizceKelime":"belt",
+  "turkceKelime":"kemer",
+  "okunus":"belt",
+},
+{
+  "ingilizceKelime":"bench",
+  "turkceKelime":"bank",
+  "okunus":"benç",
+},
+{
+  "ingilizceKelime":"commission",
+  "turkceKelime":"komisyon",
+  "okunus":"komişın",
+},
+{
+  "ingilizceKelime":"copy",
+  "turkceKelime":"kopyala",
+  "okunus":"kopi",
+},
+{
+  "ingilizceKelime":"drop",
+  "turkceKelime":"damla",
+  "okunus":"drap",
+},
+{
+  "ingilizceKelime":"minimum",
+  "turkceKelime":"asgari",
+  "okunus":"minimım",
+},
+{
+  "ingilizceKelime":"path",
+  "turkceKelime":"yol",
+  "okunus":"pet",
+},
+{
+  "ingilizceKelime":"progress",
+  "turkceKelime":"gelişme,ilerleme",
+  "okunus":"progres",
+},
+{
+  "ingilizceKelime":"project",
+  "turkceKelime":"proje",
+  "okunus":"procekt",
+},
+{
+  "ingilizceKelime":"sea",
+  "turkceKelime":"deniz",
+  "okunus":"siğ",
+},
+{
+  "ingilizceKelime":"south",
+  "turkceKelime":"güney",
+  "okunus":"saut",
+},
+{
+  "ingilizceKelime":"status",
+  "turkceKelime":"durum",
+  "okunus":"stadıs",
+},
+{
+  "ingilizceKelime":"stuff",
+  "turkceKelime":"şey",
+  "okunus":"staf",
+},
+{
+  "ingilizceKelime":"ticket",
+  "turkceKelime":"bilet",
+  "okunus":"tikıt",
+},
+{
+  "ingilizceKelime":"tour",
+  "turkceKelime":"tur",
+  "okunus":"tuğr",
+},
+{
+  "ingilizceKelime":"angle",
+  "turkceKelime":"açı",
+  "okunus":"angıl",
+},
+
+]},{ 
+"isim":"34",  
+ "data":[
+{
+  "ingilizceKelime":"blue",
+  "turkceKelime":"mavi",
+  "okunus":"blu",
+},
+{
+  "ingilizceKelime":"breakfast",
+  "turkceKelime":"sabah kahvaltısı",
+  "okunus":"brekfıst",
+},
+{
+  "ingilizceKelime":"confidence",
+  "turkceKelime":"özgüven",
+  "okunus":"kanfidıns",
+},
+{
+  "ingilizceKelime":"daughter",
+  "turkceKelime":"kız evlat",
+  "okunus":"dağdır",
+},
+{
+  "ingilizceKelime":"degree",
+  "turkceKelime":"derece",
+  "okunus":"dıgri",
+},
+{
+  "ingilizceKelime":"doctor",
+  "turkceKelime":"doktor",
+  "okunus":"daktır",
+},
+{
+  "ingilizceKelime":"dot",
+  "turkceKelime":"nokta",
+  "okunus":"dat",
+},
+{
+  "ingilizceKelime":"dream",
+  "turkceKelime":"rüya",
+  "okunus":"driğm",
+},
+{
+  "ingilizceKelime":"duty",
+  "turkceKelime":"görev",
+  "okunus":"düğdi",
+},
+{
+  "ingilizceKelime":"essay",
+  "turkceKelime":"makale",
+  "okunus":"essey",
+},
+{
+  "ingilizceKelime":"father",
+  "turkceKelime":"baba",
+  "okunus":"fağdır",
+},
+{
+  "ingilizceKelime":"fee",
+  "turkceKelime":"ücret",
+  "okunus":"fi",
+},
+{
+  "ingilizceKelime":"finance",
+  "turkceKelime":"finans",
+  "okunus":"faynıns",
+},
+{
+  "ingilizceKelime":"hour",
+  "turkceKelime":"saat",
+  "okunus":"aur",
+},
+{
+  "ingilizceKelime":"juice",
+  "turkceKelime":"Meyve suyu",
+  "okunus":"jüus",
+},
+{
+  "ingilizceKelime":"luck",
+  "turkceKelime":"şans",
+  "okunus":"lak",
+},
+{
+  "ingilizceKelime":"milk",
+  "turkceKelime":"Süt",
+  "okunus":"milk",
+},
+{
+  "ingilizceKelime":"mouth",
+  "turkceKelime":"ağız",
+  "okunus":"maut",
+},
+{
+  "ingilizceKelime":"peace",
+  "turkceKelime":"Barış",
+  "okunus":"piis",
+},
+{
+  "ingilizceKelime":"pipe",
+  "turkceKelime":"boru",
+  "okunus":"payp",
+},
+{
+  "ingilizceKelime":"stable",
+  "turkceKelime":"kararlı",
+  "okunus":"steybıl",
+},
+{
+  "ingilizceKelime":"storm",
+  "turkceKelime":"fırtına",
+  "okunus":"storm",
+},
+{
+  "ingilizceKelime":"substance",
+  "turkceKelime":"madde",
+  "okunus":"sabstıns",
+},
+{
+  "ingilizceKelime":"team",
+  "turkceKelime":"takım",
+  "okunus":"tiğm",
+},
+{
+  "ingilizceKelime":"trick",
+  "turkceKelime":"hile,numara",
+  "okunus":"trik",
+},
+
+]},{ 
+"isim":"35",  
+ "data":[
+{
+  "ingilizceKelime":"afternoon",
+  "turkceKelime":"öğleden sonra",
+  "okunus":"aftırnuun",
+},
+{
+  "ingilizceKelime":"bat",
+  "turkceKelime":"yarasa",
+  "okunus":"bet",
+},
+{
+  "ingilizceKelime":"beach",
+  "turkceKelime":"plaj",
+  "okunus":"biiç",
+},
+{
+  "ingilizceKelime":"blank",
+  "turkceKelime":"boşluk",
+  "okunus":"blenk",
+},
+{
+  "ingilizceKelime":"chain",
+  "turkceKelime":"Zincir",
+  "okunus":"çeyn",
+},
+{
+  "ingilizceKelime":"consideration",
+  "turkceKelime":"düşünce",
+  "okunus":"kınsidireyşın",
+},
+{
+  "ingilizceKelime":"cream",
+  "turkceKelime":"krem",
+  "okunus":"kriğm",
+},
+{
+  "ingilizceKelime":"crew",
+  "turkceKelime":"mürettebat",
+  "okunus":"kriv",
+},
+{
+  "ingilizceKelime":"detail",
+  "turkceKelime":"detay",
+  "okunus":"diteyl",
+},
+{
+  "ingilizceKelime":"gold",
+  "turkceKelime":"altın",
+  "okunus":"gold",
+},
+{
+  "ingilizceKelime":"interview",
+  "turkceKelime":"röportaj",
+  "okunus":"interviıv",
+},
+{
+  "ingilizceKelime":"kid",
+  "turkceKelime":"çocuk",
+  "okunus":"kid",
+},
+{
+  "ingilizceKelime":"mark",
+  "turkceKelime":"işaret",
+  "okunus":"mark",
+},
+{
+  "ingilizceKelime":"mission",
+  "turkceKelime":"misyon",
+  "okunus":"mişın",
+},
+{
+  "ingilizceKelime":"pain",
+  "turkceKelime":"ağrı",
+  "okunus":"peyn",
+},
+{
+  "ingilizceKelime":"pleasure",
+  "turkceKelime":"Zevk",
+  "okunus":"plejır",
+},
+{
+  "ingilizceKelime":"score",
+  "turkceKelime":"Puan",
+  "okunus":"skor",
+},
+{
+  "ingilizceKelime":"screw",
+  "turkceKelime":"vida",
+  "okunus":"skruv",
+},
+{
+  "ingilizceKelime":"shop",
+  "turkceKelime":"Dükkan",
+  "okunus":"şap",
+},
+{
+  "ingilizceKelime":"shower",
+  "turkceKelime":"duş",
+  "okunus":"şavır",
+},
+{
+  "ingilizceKelime":"suit",
+  "turkceKelime":"takım elbise",
+  "okunus":"suğt",
+},
+{
+  "ingilizceKelime":"tone",
+  "turkceKelime":"ton",
+  "okunus":"toğn",
+},
+{
+  "ingilizceKelime":"window",
+  "turkceKelime":"pencere",
+  "okunus":"vindov",
+},
+{
+  "ingilizceKelime":"agent",
+  "turkceKelime":"ajan",
+  "okunus":"eycın",
+},
+{
+  "ingilizceKelime":"band",
+  "turkceKelime":"bant",
+  "okunus":"bend",
+},
+
+]},{ 
+"isim":"36",  
+ "data":[
+{
+  "ingilizceKelime":"bath",
+  "turkceKelime":"banyo",
+  "okunus":"bet",
+},
+{
+  "ingilizceKelime":"block",
+  "turkceKelime":"engel",
+  "okunus":"blak",
+},
+{
+  "ingilizceKelime":"bone",
+  "turkceKelime":"kemik",
+  "okunus":"bon",
+},
+{
+  "ingilizceKelime":"calendar",
+  "turkceKelime":"takvim",
+  "okunus":"kelındır",
+},
+{
+  "ingilizceKelime":"candidate",
+  "turkceKelime":"aday",
+  "okunus":"kendideyt",
+},
+{
+  "ingilizceKelime":"cap",
+  "turkceKelime":"kap",
+  "okunus":"kep",
+},
+{
+  "ingilizceKelime":"coat",
+  "turkceKelime":"ceket",
+  "okunus":"kout",
+},
+{
+  "ingilizceKelime":"contest",
+  "turkceKelime":"yarışma",
+  "okunus":"kontest",
+},
+{
+  "ingilizceKelime":"corner",
+  "turkceKelime":"köşe",
+  "okunus":"kornır",
+},
+{
+  "ingilizceKelime":"court",
+  "turkceKelime":"mahkeme",
+  "okunus":"kort",
+},
+{
+  "ingilizceKelime":"cup",
+  "turkceKelime":"Fincan",
+  "okunus":"kap",
+},
+{
+  "ingilizceKelime":"district",
+  "turkceKelime":"semt",
+  "okunus":"distrikt",
+},
+{
+  "ingilizceKelime":"door",
+  "turkceKelime":"kapı",
+  "okunus":"door",
+},
+{
+  "ingilizceKelime":"east",
+  "turkceKelime":"doğu",
+  "okunus":"iğst",
+},
+{
+  "ingilizceKelime":"finger",
+  "turkceKelime":"parmak",
+  "okunus":"fingır",
+},
+{
+  "ingilizceKelime":"garage",
+  "turkceKelime":"garaj",
+  "okunus":"graj",
+},
+{
+  "ingilizceKelime":"guarantee",
+  "turkceKelime":"garanti",
+  "okunus":"gerınti",
+},
+{
+  "ingilizceKelime":"hole",
+  "turkceKelime":"delik",
+  "okunus":"hol",
+},
+{
+  "ingilizceKelime":"hook",
+  "turkceKelime":"kanca",
+  "okunus":"hoğk",
+},
+{
+  "ingilizceKelime":"layer",
+  "turkceKelime":"katman",
+  "okunus":"leyır",
+},
+{
+  "ingilizceKelime":"lecture",
+  "turkceKelime":"ders",
+  "okunus":"lekçır",
+},
+{
+  "ingilizceKelime":"lie",
+  "turkceKelime":"Yalan",
+  "okunus":"lay",
+},
+{
+  "ingilizceKelime":"manner",
+  "turkceKelime":"tavır",
+  "okunus":"menır",
+},
+{
+  "ingilizceKelime":"meeting",
+  "turkceKelime":"toplantı",
+  "okunus":"midin",
+},
+{
+  "ingilizceKelime":"nose",
+  "turkceKelime":"burun",
+  "okunus":"noğz",
+},
+
+]},{ 
+"isim":"37",  
+ "data":[
+{
+  "ingilizceKelime":"parking",
+  "turkceKelime":"otopark",
+  "okunus":"parkin",
+},
+{
+  "ingilizceKelime":"partner",
+  "turkceKelime":"ortak",
+  "okunus":"partnır",
+},
+{
+  "ingilizceKelime":"profile",
+  "turkceKelime":"profil",
+  "okunus":"profayl",
+},
+{
+  "ingilizceKelime":"rice",
+  "turkceKelime":"pilav",
+  "okunus":"rays",
+},
+{
+  "ingilizceKelime":"routine",
+  "turkceKelime":"rutin",
+  "okunus":"rutiğn",
+},
+{
+  "ingilizceKelime":"schedule",
+  "turkceKelime":"takvim",
+  "okunus":"skejuıl",
+},
+{
+  "ingilizceKelime":"telephone",
+  "turkceKelime":"telefon",
+  "okunus":"telefon",
+},
+{
+  "ingilizceKelime":"tip",
+  "turkceKelime":"İpucu",
+  "okunus":"tip",
+},
+{
+  "ingilizceKelime":"winter",
+  "turkceKelime":"kış mevsimi",
+  "okunus":"vintır",
+},
+{
+  "ingilizceKelime":"airline",
+  "turkceKelime":"havayolu",
+  "okunus":"eyırlayn",
+},
+{
+  "ingilizceKelime":"bag",
+  "turkceKelime":"sırt çantası",
+  "okunus":"beg",
+},
+{
+  "ingilizceKelime":"battle",
+  "turkceKelime":"savaş",
+  "okunus":"bedıl",
+},
+{
+  "ingilizceKelime":"bed",
+  "turkceKelime":"yatak",
+  "okunus":"bed",
+},
+{
+  "ingilizceKelime":"bill",
+  "turkceKelime":"fatura",
+  "okunus":"biğl",
+},
+{
+  "ingilizceKelime":"bother",
+  "turkceKelime":"zahmet",
+  "okunus":"badır",
+},
+{
+  "ingilizceKelime":"cake",
+  "turkceKelime":"Kek",
+  "okunus":"keyk",
+},
+{
+  "ingilizceKelime":"code",
+  "turkceKelime":"kod",
+  "okunus":"kod",
+},
+{
+  "ingilizceKelime":"curve",
+  "turkceKelime":"eğri",
+  "okunus":"körv",
+},
+{
+  "ingilizceKelime":"designer",
+  "turkceKelime":"tasarımcı",
+  "okunus":"dizaynır",
+},
+{
+  "ingilizceKelime":"dimension",
+  "turkceKelime":"boyut",
+  "okunus":"dımenşın",
+},
+{
+  "ingilizceKelime":"dress",
+  "turkceKelime":"elbise",
+  "okunus":"dres",
+},
+{
+  "ingilizceKelime":"ease",
+  "turkceKelime":"rahat",
+  "okunus":"iğz",
+},
+{
+  "ingilizceKelime":"emergency",
+  "turkceKelime":"acil Durum",
+  "okunus":"ığmacınsi",
+},
+{
+  "ingilizceKelime":"evening",
+  "turkceKelime":"akşam",
+  "okunus":"ivnin",
+},
+{
+  "ingilizceKelime":"extension",
+  "turkceKelime":"eklenti",
+  "okunus":"ekstenşın",
+},
+
+]},{ 
+"isim":"38",  
+ "data":[
+{
+  "ingilizceKelime":"farm",
+  "turkceKelime":"çiftlik",
+  "okunus":"farm",
+},
+{
+  "ingilizceKelime":"fight",
+  "turkceKelime":"kavga",
+  "okunus":"fayt",
+},
+{
+  "ingilizceKelime":"gap",
+  "turkceKelime":"açıklık",
+  "okunus":"gep",
+},
+{
+  "ingilizceKelime":"grade",
+  "turkceKelime":"seviye",
+  "okunus":"greyd",
+},
+{
+  "ingilizceKelime":"holiday",
+  "turkceKelime":"tatil",
+  "okunus":"holidey",
+},
+{
+  "ingilizceKelime":"horror",
+  "turkceKelime":"korku",
+  "okunus":"hoğrır",
+},
+{
+  "ingilizceKelime":"horse",
+  "turkceKelime":"atış",
+  "okunus":"hors",
+},
+{
+  "ingilizceKelime":"host",
+  "turkceKelime":"ev sahibi",
+  "okunus":"host",
+},
+{
+  "ingilizceKelime":"husband",
+  "turkceKelime":"erkek eş",
+  "okunus":"hazbınd",
+},
+{
+  "ingilizceKelime":"loan",
+  "turkceKelime":"borç",
+  "okunus":"loğn",
+},
+{
+  "ingilizceKelime":"mistake",
+  "turkceKelime":"hata",
+  "okunus":"misteyk",
+},
+{
+  "ingilizceKelime":"mountain",
+  "turkceKelime":"dağ",
+  "okunus":"mağın",
+},
+{
+  "ingilizceKelime":"nail",
+  "turkceKelime":"çivi",
+  "okunus":"neyl",
+},
+{
+  "ingilizceKelime":"noise",
+  "turkceKelime":"gürültü, ses",
+  "okunus":"noiys",
+},
+{
+  "ingilizceKelime":"occasion",
+  "turkceKelime":"fırsat",
+  "okunus":"okeyjın",
+},
+{
+  "ingilizceKelime":"package",
+  "turkceKelime":"paket",
+  "okunus":"pekıc",
+},
+{
+  "ingilizceKelime":"patient",
+  "turkceKelime":"hasta",
+  "okunus":"peyşın",
+},
+{
+  "ingilizceKelime":"pause",
+  "turkceKelime":"mola",
+  "okunus":"paus",
+},
+{
+  "ingilizceKelime":"phrase",
+  "turkceKelime":"ifade",
+  "okunus":"freyz",
+},
+{
+  "ingilizceKelime":"proof",
+  "turkceKelime":"kanıt",
+  "okunus":"pruuf",
+},
+{
+  "ingilizceKelime":"race",
+  "turkceKelime":"yarış",
+  "okunus":"reys",
+},
+{
+  "ingilizceKelime":"relief",
+  "turkceKelime":"rahatlama",
+  "okunus":"rıliğf",
+},
+{
+  "ingilizceKelime":"sand",
+  "turkceKelime":"kum",
+  "okunus":"send",
+},
+{
+  "ingilizceKelime":"sentence",
+  "turkceKelime":"cümle",
+  "okunus":"sentıns",
+},
+{
+  "ingilizceKelime":"shoulder",
+  "turkceKelime":"omuz",
+  "okunus":"şoldır",
+},
+
+]},{ 
+"isim":"39",  
+ "data":[
+{
+  "ingilizceKelime":"stomach",
+  "turkceKelime":"karın",
+  "okunus":"stamık",
+},
+{
+  "ingilizceKelime":"string",
+  "turkceKelime":"sicim",
+  "okunus":"string",
+},
+{
+  "ingilizceKelime":"tourist",
+  "turkceKelime":"turist",
+  "okunus":"tuurist",
+},
+{
+  "ingilizceKelime":"towel",
+  "turkceKelime":"havlu",
+  "okunus":"tovıl",
+},
+{
+  "ingilizceKelime":"vacation",
+  "turkceKelime":"tatil",
+  "okunus":"vekeyşın",
+},
+{
+  "ingilizceKelime":"west",
+  "turkceKelime":"batı",
+  "okunus":"vest",
+},
+{
+  "ingilizceKelime":"wheel",
+  "turkceKelime":"teker",
+  "okunus":"viğl",
+},
+{
+  "ingilizceKelime":"arm",
+  "turkceKelime":"kol",
+  "okunus":"arm",
+},
+{
+  "ingilizceKelime":"aside",
+  "turkceKelime":"bir kenara",
+  "okunus":"esayd",
+},
+{
+  "ingilizceKelime":"associate",
+  "turkceKelime":"iş arkadaşı",
+  "okunus":"esosiyığd",
+},
+{
+  "ingilizceKelime":"bet",
+  "turkceKelime":"bahis",
+  "okunus":"bet",
+},
+{
+  "ingilizceKelime":"border",
+  "turkceKelime":"sınır",
+  "okunus":"bordır",
+},
+{
+  "ingilizceKelime":"branch",
+  "turkceKelime":"dal",
+  "okunus":"brenç",
+},
+{
+  "ingilizceKelime":"breast",
+  "turkceKelime":"göğüs",
+  "okunus":"brest",
+},
+{
+  "ingilizceKelime":"brother",
+  "turkceKelime":"Erkek kardeş",
+  "okunus":"bradır",
+},
+{
+  "ingilizceKelime":"buddy",
+  "turkceKelime":"ahbap",
+  "okunus":"bady",
+},
+{
+  "ingilizceKelime":"bunch",
+  "turkceKelime":"Demet",
+  "okunus":"banç",
+},
+{
+  "ingilizceKelime":"chip",
+  "turkceKelime":"yonga",
+  "okunus":"çiğp",
+},
+{
+  "ingilizceKelime":"coach",
+  "turkceKelime":"koç",
+  "okunus":"kouç",
+},
+{
+  "ingilizceKelime":"document",
+  "turkceKelime":"belge",
+  "okunus":"dokümınt",
+},
+{
+  "ingilizceKelime":"draft",
+  "turkceKelime":"taslak",
+  "okunus":"draft",
+},
+{
+  "ingilizceKelime":"dust",
+  "turkceKelime":"toz",
+  "okunus":"dast",
+},
+{
+  "ingilizceKelime":"expert",
+  "turkceKelime":"uzman",
+  "okunus":"ekspert",
+},
+{
+  "ingilizceKelime":"floor",
+  "turkceKelime":"zemin",
+  "okunus":"floğr",
+},
+{
+  "ingilizceKelime":"god",
+  "turkceKelime":"tanrı",
+  "okunus":"gad",
+},
+
+]},{ 
+"isim":"40",  
+ "data":[
+{
+  "ingilizceKelime":"golf",
+  "turkceKelime":"golf",
+  "okunus":"golf",
+},
+{
+  "ingilizceKelime":"habit",
+  "turkceKelime":"alışkanlık",
+  "okunus":"hebıt",
+},
+{
+  "ingilizceKelime":"iron",
+  "turkceKelime":"ütü",
+  "okunus":"ayrın",
+},
+{
+  "ingilizceKelime":"judge",
+  "turkceKelime":"hakim",
+  "okunus":"cağc",
+},
+{
+  "ingilizceKelime":"knife",
+  "turkceKelime":"bıçak",
+  "okunus":"nayf",
+},
+{
+  "ingilizceKelime":"landscape",
+  "turkceKelime":"manzara",
+  "okunus":"lendskeyp",
+},
+{
+  "ingilizceKelime":"league",
+  "turkceKelime":"lig",
+  "okunus":"liğg",
+},
+{
+  "ingilizceKelime":"mail",
+  "turkceKelime":"posta",
+  "okunus":"meğyl",
+},
+{
+  "ingilizceKelime":"mess",
+  "turkceKelime":"karışıklık",
+  "okunus":"mes",
+},
+{
+  "ingilizceKelime":"native",
+  "turkceKelime":"yerli",
+  "okunus":"neytiv",
+},
+{
+  "ingilizceKelime":"opening",
+  "turkceKelime":"açılış",
+  "okunus":"opınin",
+},
+{
+  "ingilizceKelime":"parent",
+  "turkceKelime":"ebeveyn",
+  "okunus":"perınt",
+},
+{
+  "ingilizceKelime":"pattern",
+  "turkceKelime":"model",
+  "okunus":"pağdırn",
+},
+{
+  "ingilizceKelime":"pin",
+  "turkceKelime":"toplu iğne",
+  "okunus":"pin",
+},
+{
+  "ingilizceKelime":"pool",
+  "turkceKelime":"havuz",
+  "okunus":"puul",
+},
+{
+  "ingilizceKelime":"pound",
+  "turkceKelime":"pound",
+  "okunus":"paund",
+},
+{
+  "ingilizceKelime":"request",
+  "turkceKelime":"talep",
+  "okunus":"rikuest",
+},
+{
+  "ingilizceKelime":"salary",
+  "turkceKelime":"aylık maaş",
+  "okunus":"selari",
+},
+{
+  "ingilizceKelime":"shame",
+  "turkceKelime":"utanç",
+  "okunus":"şeym",
+},
+{
+  "ingilizceKelime":"shelter",
+  "turkceKelime":"barınak",
+  "okunus":"şeltır",
+},
+{
+  "ingilizceKelime":"shoe",
+  "turkceKelime":"ayakkabı",
+  "okunus":"şuğ",
+},
+{
+  "ingilizceKelime":"silver",
+  "turkceKelime":"gümüş",
+  "okunus":"silvır",
+},
+{
+  "ingilizceKelime":"tackle",
+  "turkceKelime":"olta takımı",
+  "okunus":"tekıl",
+},
+{
+  "ingilizceKelime":"tank",
+  "turkceKelime":"tank",
+  "okunus":"tenk",
+},
+{
+  "ingilizceKelime":"trust",
+  "turkceKelime":"güven",
+  "okunus":"trast",
+},
+
+]},{ 
+"isim":"41",  
+ "data":[
+{
+  "ingilizceKelime":"assist",
+  "turkceKelime":"yardım",
+  "okunus":"assiğst",
+},
+{
+  "ingilizceKelime":"bar",
+  "turkceKelime":"çubuk",
+  "okunus":"bar",
+},
+{
+  "ingilizceKelime":"bell",
+  "turkceKelime":"zil",
+  "okunus":"bell",
+},
+{
+  "ingilizceKelime":"bike",
+  "turkceKelime":"bisiklet",
+  "okunus":"bayk",
+},
+{
+  "ingilizceKelime":"blame",
+  "turkceKelime":"suçlama,suç",
+  "okunus":"bleym",
+},
+{
+  "ingilizceKelime":"boy",
+  "turkceKelime":"oğlan",
+  "okunus":"boy",
+},
+{
+  "ingilizceKelime":"brick",
+  "turkceKelime":"tuğla",
+  "okunus":"brik",
+},
+{
+  "ingilizceKelime":"chair",
+  "turkceKelime":"sandalye",
+  "okunus":"çeır",
+},
+{
+  "ingilizceKelime":"closet",
+  "turkceKelime":"klozet",
+  "okunus":"klazıt",
+},
+{
+  "ingilizceKelime":"clue",
+  "turkceKelime":"ipucu",
+  "okunus":"kluğ",
+},
+{
+  "ingilizceKelime":"collar",
+  "turkceKelime":"yaka",
+  "okunus":"kağlır",
+},
+{
+  "ingilizceKelime":"comment",
+  "turkceKelime":"yorum",
+  "okunus":"koğmınt",
+},
+{
+  "ingilizceKelime":"conference",
+  "turkceKelime":"konferans",
+  "okunus":"kanfırıns",
+},
+{
+  "ingilizceKelime":"devil",
+  "turkceKelime":"şeytan",
+  "okunus":"devıl",
+},
+{
+  "ingilizceKelime":"diet",
+  "turkceKelime":"diyet",
+  "okunus":"dayıt",
+},
+{
+  "ingilizceKelime":"fear",
+  "turkceKelime":"korku",
+  "okunus":"fiır",
+},
+{
+  "ingilizceKelime":"fuel",
+  "turkceKelime":"yakıt",
+  "okunus":"fiyul",
+},
+{
+  "ingilizceKelime":"glove",
+  "turkceKelime":"eldiven",
+  "okunus":"glav",
+},
+{
+  "ingilizceKelime":"jacket",
+  "turkceKelime":"ceket",
+  "okunus":"cekıt",
+},
+{
+  "ingilizceKelime":"lunch",
+  "turkceKelime":"öğle yemeği",
+  "okunus":"lanç",
+},
+{
+  "ingilizceKelime":"monitor",
+  "turkceKelime":"monitör",
+  "okunus":"monutah",
+},
+{
+  "ingilizceKelime":"mortgage",
+  "turkceKelime":"ipotek",
+  "okunus":"moğgıç",
+},
+{
+  "ingilizceKelime":"nurse",
+  "turkceKelime":"hemşire",
+  "okunus":"nörs",
+},
+{
+  "ingilizceKelime":"velocity",
+  "turkceKelime":"hız",
+  "okunus":"velostiy",
+},
+{
+  "ingilizceKelime":"panic",
+  "turkceKelime":"panik",
+  "okunus":"paniğk",
+},
+
+]},{ 
+"isim":"42",  
+ "data":[
+{
+  "ingilizceKelime":"peak",
+  "turkceKelime":"zirve",
+  "okunus":"pik",
+},
+{
+  "ingilizceKelime":"plane",
+  "turkceKelime":"uçak",
+  "okunus":"pleyn",
+},
+{
+  "ingilizceKelime":"reward",
+  "turkceKelime":"ödül",
+  "okunus":"rivord",
+},
+{
+  "ingilizceKelime":"row",
+  "turkceKelime":"sıra",
+  "okunus":"rov",
+},
+{
+  "ingilizceKelime":"sandwich",
+  "turkceKelime":"sandviç",
+  "okunus":"sendviç",
+},
+{
+  "ingilizceKelime":"shock",
+  "turkceKelime":"şok",
+  "okunus":"şak",
+},
+{
+  "ingilizceKelime":"spite",
+  "turkceKelime":"kin",
+  "okunus":"spayt",
+},
+{
+  "ingilizceKelime":"spray",
+  "turkceKelime":"sprey",
+  "okunus":"sprey",
+},
+{
+  "ingilizceKelime":"surprise",
+  "turkceKelime":"sürpriz",
+  "okunus":"suprayz",
+},
+{
+  "ingilizceKelime":"till",
+  "turkceKelime":"kadar",
+  "okunus":"tiıl",
+},
+{
+  "ingilizceKelime":"transition",
+  "turkceKelime":"geçiş",
+  "okunus":"trenzişın",
+},
+{
+  "ingilizceKelime":"weekend",
+  "turkceKelime":"hafta sonu",
+  "okunus":"viikend",
+},
+{
+  "ingilizceKelime":"welcome",
+  "turkceKelime":"Hoşgeldiniz",
+  "okunus":"velkam",
+},
+{
+  "ingilizceKelime":"yard",
+  "turkceKelime":"avlu",
+  "okunus":"yard",
+},
+{
+  "ingilizceKelime":"alarm",
+  "turkceKelime":"alarm",
+  "okunus":"alarm",
+},
+{
+  "ingilizceKelime":"bend",
+  "turkceKelime":"viraj",
+  "okunus":"bend",
+},
+{
+  "ingilizceKelime":"bicycle",
+  "turkceKelime":"bisiklet",
+  "okunus":"baysıkıl",
+},
+{
+  "ingilizceKelime":"bite",
+  "turkceKelime":"ısırık",
+  "okunus":"bayt",
+},
+{
+  "ingilizceKelime":"blind",
+  "turkceKelime":"görme engelli",
+  "okunus":"blaynd",
+},
+{
+  "ingilizceKelime":"bottle",
+  "turkceKelime":"şişe",
+  "okunus":"botl",
+},
+{
+  "ingilizceKelime":"cable",
+  "turkceKelime":"kablo",
+  "okunus":"keybıl",
+},
+{
+  "ingilizceKelime":"candle",
+  "turkceKelime":"mum",
+  "okunus":"kendıl",
+},
+{
+  "ingilizceKelime":"clerk",
+  "turkceKelime":"katip",
+  "okunus":"klırk",
+},
+{
+  "ingilizceKelime":"cloud",
+  "turkceKelime":"bulut",
+  "okunus":"klaud",
+},
+{
+  "ingilizceKelime":"concert",
+  "turkceKelime":"konser",
+  "okunus":"kansır",
+},
+
+]},{ 
+"isim":"43",  
+ "data":[
+{
+  "ingilizceKelime":"counter",
+  "turkceKelime":"sayaç,gişe",
+  "okunus":"keğn(t)ır",
+},
+{
+  "ingilizceKelime":"flower",
+  "turkceKelime":"çiçek",
+  "okunus":"flavır",
+},
+{
+  "ingilizceKelime":"grandfather",
+  "turkceKelime":"Büyük baba",
+  "okunus":"grendfadır",
+},
+{
+  "ingilizceKelime":"harm",
+  "turkceKelime":"zarar",
+  "okunus":"harm",
+},
+{
+  "ingilizceKelime":"knee",
+  "turkceKelime":"diz",
+  "okunus":"niğ",
+},
+{
+  "ingilizceKelime":"lawyer",
+  "turkceKelime":"avukat",
+  "okunus":"loıyır",
+},
+{
+  "ingilizceKelime":"leather",
+  "turkceKelime":"deri",
+  "okunus":"ledır",
+},
+{
+  "ingilizceKelime":"load",
+  "turkceKelime":"yük",
+  "okunus":"louğd",
+},
+{
+  "ingilizceKelime":"mirror",
+  "turkceKelime":"ayna",
+  "okunus":"mirır",
+},
+{
+  "ingilizceKelime":"neck",
+  "turkceKelime":"boyun",
+  "okunus":"nek",
+},
+{
+  "ingilizceKelime":"pension",
+  "turkceKelime":"emeklilik",
+  "okunus":"penşın",
+},
+{
+  "ingilizceKelime":"plate",
+  "turkceKelime":"plaka",
+  "okunus":"pleyt",
+},
+{
+  "ingilizceKelime":"purple",
+  "turkceKelime":"mor",
+  "okunus":"pörpıl",
+},
+{
+  "ingilizceKelime":"ruin",
+  "turkceKelime":"harabe",
+  "okunus":"ruuın",
+},
+{
+  "ingilizceKelime":"ship",
+  "turkceKelime":"gemi",
+  "okunus":"şip",
+},
+{
+  "ingilizceKelime":"skirt",
+  "turkceKelime":"etek",
+  "okunus":"skört",
+},
+{
+  "ingilizceKelime":"slice",
+  "turkceKelime":"dilim",
+  "okunus":"slays",
+},
+{
+  "ingilizceKelime":"snow",
+  "turkceKelime":"kar",
+  "okunus":"sınov",
+},
+{
+  "ingilizceKelime":"specialist",
+  "turkceKelime":"uzman",
+  "okunus":"spaşılist",
+},
+{
+  "ingilizceKelime":"stroke",
+  "turkceKelime":"felç",
+  "okunus":"stroğk",
+},
+{
+  "ingilizceKelime":"switch",
+  "turkceKelime":"değişim",
+  "okunus":"sıviç",
+},
+{
+  "ingilizceKelime":"trash",
+  "turkceKelime":"çöp",
+  "okunus":"treş",
+},
+{
+  "ingilizceKelime":"tune",
+  "turkceKelime":"akort",
+  "okunus":"tuğn",
+},
+{
+  "ingilizceKelime":"zone",
+  "turkceKelime":"alan",
+  "okunus":"zon",
+},
+{
+  "ingilizceKelime":"anger",
+  "turkceKelime":"kızgınlık",
+  "okunus":"engır",
+},
+
+]},{ 
+"isim":"44",  
+ "data":[
+{
+  "ingilizceKelime":"award",
+  "turkceKelime":"ödül",
+  "okunus":"evord",
+},
+{
+  "ingilizceKelime":"bid",
+  "turkceKelime":"teklif",
+  "okunus":"id",
+},
+{
+  "ingilizceKelime":"bitter",
+  "turkceKelime":"acı",
+  "okunus":"bidır",
+},
+{
+  "ingilizceKelime":"boot",
+  "turkceKelime":"bot",
+  "okunus":"buğt",
+},
+{
+  "ingilizceKelime":"bug",
+  "turkceKelime":"böcek",
+  "okunus":"bad",
+},
+{
+  "ingilizceKelime":"camp",
+  "turkceKelime":"kamp",
+  "okunus":"kemp",
+},
+{
+  "ingilizceKelime":"candy",
+  "turkceKelime":"Şeker",
+  "okunus":"kendi",
+},
+{
+  "ingilizceKelime":"carpet",
+  "turkceKelime":"halı",
+  "okunus":"karpıt",
+},
+{
+  "ingilizceKelime":"cat",
+  "turkceKelime":"kedi",
+  "okunus":"ket",
+},
+{
+  "ingilizceKelime":"champion",
+  "turkceKelime":"şampiyon",
+  "okunus":"çempiyın",
+},
+{
+  "ingilizceKelime":"channel",
+  "turkceKelime":"kanal",
+  "okunus":"çenıl",
+},
+{
+  "ingilizceKelime":"clock",
+  "turkceKelime":"saat",
+  "okunus":"klak",
+},
+{
+  "ingilizceKelime":"comfort",
+  "turkceKelime":"konfor",
+  "okunus":"kamfırt",
+},
+{
+  "ingilizceKelime":"cow",
+  "turkceKelime":"inek",
+  "okunus":"kov",
+},
+{
+  "ingilizceKelime":"crack",
+  "turkceKelime":"çatırtı",
+  "okunus":"kreğk",
+},
+{
+  "ingilizceKelime":"engineer",
+  "turkceKelime":"mühendis",
+  "okunus":"enciniır",
+},
+{
+  "ingilizceKelime":"entrance",
+  "turkceKelime":"giriş",
+  "okunus":"entrıns",
+},
+{
+  "ingilizceKelime":"fault",
+  "turkceKelime":"arıza",
+  "okunus":"folt",
+},
+{
+  "ingilizceKelime":"grass",
+  "turkceKelime":"çimen",
+  "okunus":"gras",
+},
+{
+  "ingilizceKelime":"guy",
+  "turkceKelime":"insan",
+  "okunus":"gay",
+},
+{
+  "ingilizceKelime":"hell",
+  "turkceKelime":"cehennem",
+  "okunus":"hel",
+},
+{
+  "ingilizceKelime":"highlight",
+  "turkceKelime":"vurgu",
+  "okunus":"haylayt",
+},
+{
+  "ingilizceKelime":"incident",
+  "turkceKelime":"olay",
+  "okunus":"insıdınt",
+},
+{
+  "ingilizceKelime":"island",
+  "turkceKelime":"ada",
+  "okunus":"aylınd",
+},
+{
+  "ingilizceKelime":"joke",
+  "turkceKelime":"şaka",
+  "okunus":"coğk",
+},
+
+]},{ 
+"isim":"45",  
+ "data":[
+{
+  "ingilizceKelime":"jury",
+  "turkceKelime":"jüri",
+  "okunus":"juriy",
+},
+{
+  "ingilizceKelime":"leg",
+  "turkceKelime":"bacak",
+  "okunus":"leg",
+},
+{
+  "ingilizceKelime":"lip",
+  "turkceKelime":"dudak",
+  "okunus":"lip",
+},
+{
+  "ingilizceKelime":"mate",
+  "turkceKelime":"mat,arkadaş",
+  "okunus":"meyt",
+},
+{
+  "ingilizceKelime":"motor",
+  "turkceKelime":"motor",
+  "okunus":"modır",
+},
+{
+  "ingilizceKelime":"nerve",
+  "turkceKelime":"sinir",
+  "okunus":"nörv",
+},
+{
+  "ingilizceKelime":"passage",
+  "turkceKelime":"geçit",
+  "okunus":"pesıc",
+},
+{
+  "ingilizceKelime":"pen",
+  "turkceKelime":"kalem",
+  "okunus":"pen",
+},
+{
+  "ingilizceKelime":"pride",
+  "turkceKelime":"gurur",
+  "okunus":"prayd",
+},
+{
+  "ingilizceKelime":"prize",
+  "turkceKelime":"ödül",
+  "okunus":"prayz",
+},
+{
+  "ingilizceKelime":"promise",
+  "turkceKelime":"söz",
+  "okunus":"promis",
+},
+{
+  "ingilizceKelime":"resident",
+  "turkceKelime":"ikamet eden kişi",
+  "okunus":"rezidınt",
+},
+{
+  "ingilizceKelime":"resort",
+  "turkceKelime":"tatil yeri,çare",
+  "okunus":"risort",
+},
+{
+  "ingilizceKelime":"ring",
+  "turkceKelime":"yüzük",
+  "okunus":"ring",
+},
+{
+  "ingilizceKelime":"roof",
+  "turkceKelime":"çatı",
+  "okunus":"ruuf",
+},
+{
+  "ingilizceKelime":"rope",
+  "turkceKelime":"halat",
+  "okunus":"roup",
+},
+{
+  "ingilizceKelime":"sail",
+  "turkceKelime":"yelken",
+  "okunus":"seyıl",
+},
+{
+  "ingilizceKelime":"scheme",
+  "turkceKelime":"şema",
+  "okunus":"skim",
+},
+{
+  "ingilizceKelime":"script",
+  "turkceKelime":"senaryo",
+  "okunus":"skript",
+},
+{
+  "ingilizceKelime":"sock",
+  "turkceKelime":"çorap",
+  "okunus":"sak",
+},
+{
+  "ingilizceKelime":"station",
+  "turkceKelime":"istasyon",
+  "okunus":"steyşın",
+},
+{
+  "ingilizceKelime":"toe",
+  "turkceKelime":"ayak parmağı",
+  "okunus":"tou",
+},
+{
+  "ingilizceKelime":"tower",
+  "turkceKelime":"kule",
+  "okunus":"tovır",
+},
+{
+  "ingilizceKelime":"truck",
+  "turkceKelime":"kamyon",
+  "okunus":"trak",
+},
+{
+  "ingilizceKelime":"witness",
+  "turkceKelime":"tanık,şahit",
+  "okunus":"vitnıs",
+},
+
+]},{ 
+"isim":"46",  
+ "data":[
+{
+  "ingilizceKelime":"sink",
+  "turkceKelime":"lavabo",
+  "okunus":"sink",
+},
+{
+  "ingilizceKelime":"you",
+  "turkceKelime":"sen",
+  "okunus":"yuğ",
+},
+{
+  "ingilizceKelime":"it",
+  "turkceKelime":"o",
+  "okunus":"it",
+},
+{
+  "ingilizceKelime":"can",
+  "turkceKelime":"kutu",
+  "okunus":"ken",
+},
+{
+  "ingilizceKelime":"will",
+  "turkceKelime":"niyet",
+  "okunus":"viğl",
+},
+{
+  "ingilizceKelime":"one",
+  "turkceKelime":"bir",
+  "okunus":"van",
+},
+{
+  "ingilizceKelime":"many",
+  "turkceKelime":"birçok",
+  "okunus":"meniğ",
+},
+{
+  "ingilizceKelime":"most",
+  "turkceKelime":"çoğu",
+  "okunus":"most",
+},
+{
+  "ingilizceKelime":"other",
+  "turkceKelime":"başka",
+  "okunus":"adır",
+},
+{
+  "ingilizceKelime":"use",
+  "turkceKelime":"kullanım",
+  "okunus":"yuğs",
+},
+{
+  "ingilizceKelime":"make",
+  "turkceKelime":"kazanç",
+  "okunus":"meyk",
+},
+{
+  "ingilizceKelime":"good",
+  "turkceKelime":"iyi",
+  "okunus":"gud",
+},
+{
+  "ingilizceKelime":"look",
+  "turkceKelime":"bakış",
+  "okunus":"luk",
+},
+{
+  "ingilizceKelime":"help",
+  "turkceKelime":"Yardım",
+  "okunus":"help",
+},
+{
+  "ingilizceKelime":"great",
+  "turkceKelime":"İyi",
+  "okunus":"greyt",
+},
+{
+  "ingilizceKelime":"being",
+  "turkceKelime":"varlık",
+  "okunus":"biin",
+},
+{
+  "ingilizceKelime":"few",
+  "turkceKelime":"az",
+  "okunus":"fiv",
+},
+{
+  "ingilizceKelime":"public",
+  "turkceKelime":"halka açık",
+  "okunus":"pablik",
+},
+{
+  "ingilizceKelime":"start",
+  "turkceKelime":"başlangıç",
+  "okunus":"start",
+},
+{
+  "ingilizceKelime":"human",
+  "turkceKelime":"insan",
+  "okunus":"hümın",
+},
+{
+  "ingilizceKelime":"local",
+  "turkceKelime":"yerel",
+  "okunus":"lokıl",
+},
+{
+  "ingilizceKelime":"general",
+  "turkceKelime":"genel",
+  "okunus":"cenırıl",
+},
+{
+  "ingilizceKelime":"she",
+  "turkceKelime":"o",
+  "okunus":"şi",
+},
+{
+  "ingilizceKelime":"specific",
+  "turkceKelime":"özel",
+  "okunus":"spasifik",
+},
+{
+  "ingilizceKelime":"long",
+  "turkceKelime":"uzun",
+  "okunus":"long",
+},
+
+]},{ 
+"isim":"47",  
+ "data":[
+{
+  "ingilizceKelime":"play",
+  "turkceKelime":"oyun",
+  "okunus":"pley",
+},
+{
+  "ingilizceKelime":"feel",
+  "turkceKelime":"his",
+  "okunus":"fiğl",
+},
+{
+  "ingilizceKelime":"high",
+  "turkceKelime":"yüksek",
+  "okunus":"hay",
+},
+{
+  "ingilizceKelime":"tonight",
+  "turkceKelime":"bu gece",
+  "okunus":"tunayt",
+},
+{
+  "ingilizceKelime":"common",
+  "turkceKelime":"ortak",
+  "okunus":"kamın",
+},
+{
+  "ingilizceKelime":"set",
+  "turkceKelime":"set,dizi",
+  "okunus":"set",
+},
+{
+  "ingilizceKelime":"change",
+  "turkceKelime":"değişim",
+  "okunus":"çeync",
+},
+{
+  "ingilizceKelime":"simple",
+  "turkceKelime":"basit",
+  "okunus":"simpıl",
+},
+{
+  "ingilizceKelime":"past",
+  "turkceKelime":"geçmiş",
+  "okunus":"pest",
+},
+{
+  "ingilizceKelime":"big",
+  "turkceKelime":"büyüklük",
+  "okunus":"big",
+},
+{
+  "ingilizceKelime":"possible",
+  "turkceKelime":"mümkün",
+  "okunus":"pasıbıl",
+},
+{
+  "ingilizceKelime":"particular",
+  "turkceKelime":"belirli",
+  "okunus":"patikülır",
+},
+{
+  "ingilizceKelime":"today",
+  "turkceKelime":"bugün",
+  "okunus":"tudey",
+},
+{
+  "ingilizceKelime":"major",
+  "turkceKelime":"büyük",
+  "okunus":"meycır",
+},
+{
+  "ingilizceKelime":"personal",
+  "turkceKelime":"kişisel",
+  "okunus":"pörsınıl",
+},
+{
+  "ingilizceKelime":"current",
+  "turkceKelime":"şimdiki",
+  "okunus":"sörınt",
+},
+{
+  "ingilizceKelime":"national",
+  "turkceKelime":"Ulusal",
+  "okunus":"neşınıl",
+},
+{
+  "ingilizceKelime":"cut",
+  "turkceKelime":"kesme",
+  "okunus":"kat",
+},
+{
+  "ingilizceKelime":"natural",
+  "turkceKelime":"doğal",
+  "okunus":"naçırıl",
+},
+{
+  "ingilizceKelime":"physical",
+  "turkceKelime":"fiziksel",
+  "okunus":"fizikıl",
+},
+{
+  "ingilizceKelime":"show",
+  "turkceKelime":"gösteri",
+  "okunus":"şov",
+},
+{
+  "ingilizceKelime":"try",
+  "turkceKelime":"deneme",
+  "okunus":"tray",
+},
+{
+  "ingilizceKelime":"check",
+  "turkceKelime":"kontrol",
+  "okunus":"çek",
+},
+{
+  "ingilizceKelime":"second",
+  "turkceKelime":"ikinci",
+  "okunus":"sekınd",
+},
+{
+  "ingilizceKelime":"call",
+  "turkceKelime":"çağrı",
+  "okunus":"kol",
+},
+
+]},{ 
+"isim":"48",  
+ "data":[
+{
+  "ingilizceKelime":"move",
+  "turkceKelime":"hareket",
+  "okunus":"muv",
+},
+{
+  "ingilizceKelime":"pay",
+  "turkceKelime":"ücret",
+  "okunus":"pey",
+},
+{
+  "ingilizceKelime":"increase",
+  "turkceKelime":"artış",
+  "okunus":"inkrıis",
+},
+{
+  "ingilizceKelime":"single",
+  "turkceKelime":"tek",
+  "okunus":"singıl",
+},
+{
+  "ingilizceKelime":"individual",
+  "turkceKelime":"bireysel",
+  "okunus":"indivijuıl",
+},
+{
+  "ingilizceKelime":"turn",
+  "turkceKelime":"dönüş,sıra",
+  "okunus":"törn",
+},
+{
+  "ingilizceKelime":"guard",
+  "turkceKelime":"koruma",
+  "okunus":"gard",
+},
+{
+  "ingilizceKelime":"hold",
+  "turkceKelime":"ambar",
+  "okunus":"hold",
+},
+{
+  "ingilizceKelime":"main",
+  "turkceKelime":"ana",
+  "okunus":"meyn",
+},
+{
+  "ingilizceKelime":"offer",
+  "turkceKelime":"teklif",
+  "okunus":"ofır",
+},
+{
+  "ingilizceKelime":"potential",
+  "turkceKelime":"potansiyel",
+  "okunus":"potenşıl",
+},
+{
+  "ingilizceKelime":"professional",
+  "turkceKelime":"profesyonel",
+  "okunus":"profeşınıl",
+},
+{
+  "ingilizceKelime":"international",
+  "turkceKelime":"Uluslararası",
+  "okunus":"innırneşınıl",
+},
+{
+  "ingilizceKelime":"travel",
+  "turkceKelime":"yolculuk",
+  "okunus":"travıl",
+},
+{
+  "ingilizceKelime":"alternative",
+  "turkceKelime":"alternatif",
+  "okunus":"altırnadiv",
+},
+{
+  "ingilizceKelime":"dance",
+  "turkceKelime":"dans",
+  "okunus":"dens",
+},
+{
+  "ingilizceKelime":"excuse",
+  "turkceKelime":"bahane",
+  "okunus":"eksküuz",
+},
+{
+  "ingilizceKelime":"cold",
+  "turkceKelime":"soğuk",
+  "okunus":"kold",
+},
+{
+  "ingilizceKelime":"commercial",
+  "turkceKelime":"reklam",
+  "okunus":"komuşıl",
+},
+{
+  "ingilizceKelime":"low",
+  "turkceKelime":"düşük",
+  "okunus":"lov",
+},
+{
+  "ingilizceKelime":"primary",
+  "turkceKelime":"öncelik",
+  "okunus":"praymery",
+},
+{
+  "ingilizceKelime":"worth",
+  "turkceKelime":"değer",
+  "okunus":"vort",
+},
+{
+  "ingilizceKelime":"fall",
+  "turkceKelime":"sonbahar",
+  "okunus":"foul",
+},
+{
+  "ingilizceKelime":"necessary",
+  "turkceKelime":"gerekli",
+  "okunus":"nesseseriy",
+},
+{
+  "ingilizceKelime":"positive",
+  "turkceKelime":"pozitif",
+  "okunus":"pozitiv",
+},
+
+]},
+];

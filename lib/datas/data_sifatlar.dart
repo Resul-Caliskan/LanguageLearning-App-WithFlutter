@@ -1,0 +1,2067 @@
+List<Map> sifatlar =[
+  { 
+"isim":"1",  
+ "data":[
+{
+  "ingilizceKelime":"different",
+  "turkceKelime":"farklı",
+  "okunus":"difrınt",
+},
+{
+  "ingilizceKelime":"used",
+  "turkceKelime":"Kullanılmış,eski",
+  "okunus":"yuğzd",
+},
+{
+  "ingilizceKelime":"important",
+  "turkceKelime":"önemli",
+  "okunus":"impovtınt",
+},
+{
+  "ingilizceKelime":"every",
+  "turkceKelime":"her",
+  "okunus":"evriğ",
+},
+{
+  "ingilizceKelime":"large",
+  "turkceKelime":"büyük",
+  "okunus":"larc",
+},
+{
+  "ingilizceKelime":"available",
+  "turkceKelime":"mevcut",
+  "okunus":"evelıbıl",
+},
+{
+  "ingilizceKelime":"popular",
+  "turkceKelime":"popüler",
+  "okunus":"pağpilır",
+},
+{
+  "ingilizceKelime":"able",
+  "turkceKelime":"hünerli",
+  "okunus":"eybıl",
+},
+{
+  "ingilizceKelime":"basic",
+  "turkceKelime":"temel",
+  "okunus":"bezik",
+},
+{
+  "ingilizceKelime":"known",
+  "turkceKelime":"bilinen",
+  "okunus":"nöğn",
+},
+{
+  "ingilizceKelime":"various",
+  "turkceKelime":"çeşitli",
+  "okunus":"veğriyıs",
+},
+{
+  "ingilizceKelime":"difficult",
+  "turkceKelime":"zor",
+  "okunus":"difıkılt",
+},
+{
+  "ingilizceKelime":"several",
+  "turkceKelime":"birçok",
+  "okunus":"sevrıl",
+},
+{
+  "ingilizceKelime":"united",
+  "turkceKelime":"Birleşik",
+  "okunus":"yunaydıd",
+},
+{
+  "ingilizceKelime":"historical",
+  "turkceKelime":"tarihi",
+  "okunus":"historikıl",
+},
+{
+  "ingilizceKelime":"hot",
+  "turkceKelime":"sıcak",
+  "okunus":"hat",
+},
+{
+  "ingilizceKelime":"useful",
+  "turkceKelime":"kullanışlı",
+  "okunus":"yuğzful",
+},
+{
+  "ingilizceKelime":"mental",
+  "turkceKelime":"zihinsel",
+  "okunus":"mentıl",
+},
+{
+  "ingilizceKelime":"scared",
+  "turkceKelime":"korkmuş",
+  "okunus":"skeyrd",
+},
+{
+  "ingilizceKelime":"additional",
+  "turkceKelime":"ek,ilave",
+  "okunus":"edişınıl",
+},
+{
+  "ingilizceKelime":"emotional",
+  "turkceKelime":"duygusal",
+  "okunus":"iğmoşınıl",
+},
+{
+  "ingilizceKelime":"old",
+  "turkceKelime":"eskimiş",
+  "okunus":"old",
+},
+{
+  "ingilizceKelime":"political",
+  "turkceKelime":"siyasi",
+  "okunus":"politikıl",
+},
+{
+  "ingilizceKelime":"similar",
+  "turkceKelime":"benzer",
+  "okunus":"simılığr",
+},
+{
+  "ingilizceKelime":"healthy",
+  "turkceKelime":"sağlıklı",
+  "okunus":"heltiğ",
+},
+
+]},{ 
+"isim":"2",  
+ "data":[
+{
+  "ingilizceKelime":"financial",
+  "turkceKelime":"parasal",
+  "okunus":"faynenşıl",
+},
+{
+  "ingilizceKelime":"medical",
+  "turkceKelime":"tıbbi",
+  "okunus":"medikıl",
+},
+{
+  "ingilizceKelime":"traditional",
+  "turkceKelime":"geleneksel",
+  "okunus":"trdiğşınıl",
+},
+{
+  "ingilizceKelime":"federal",
+  "turkceKelime":"federal",
+  "okunus":"fedırıl",
+},
+{
+  "ingilizceKelime":"entire",
+  "turkceKelime":"bütün",
+  "okunus":"intayır",
+},
+{
+  "ingilizceKelime":"strong",
+  "turkceKelime":"kuvvetli",
+  "okunus":"stroğng",
+},
+{
+  "ingilizceKelime":"actual",
+  "turkceKelime":"gerçek",
+  "okunus":"ekşuıl",
+},
+{
+  "ingilizceKelime":"significant",
+  "turkceKelime":"önemli",
+  "okunus":"signıfikınt",
+},
+{
+  "ingilizceKelime":"successful",
+  "turkceKelime":"başarılı",
+  "okunus":"saksesful",
+},
+{
+  "ingilizceKelime":"electrical",
+  "turkceKelime":"elektriksel",
+  "okunus":"alektrikıl",
+},
+{
+  "ingilizceKelime":"expensive",
+  "turkceKelime":"pahalı",
+  "okunus":"ekspensiğv",
+},
+{
+  "ingilizceKelime":"pregnant",
+  "turkceKelime":"gebe",
+  "okunus":"pregnığn",
+},
+{
+  "ingilizceKelime":"intelligent",
+  "turkceKelime":"zeki",
+  "okunus":"intalıcın",
+},
+{
+  "ingilizceKelime":"interesting",
+  "turkceKelime":"ilginç",
+  "okunus":"intrıstring",
+},
+{
+  "ingilizceKelime":"poor",
+  "turkceKelime":"yoksul",
+  "okunus":"puur",
+},
+{
+  "ingilizceKelime":"happy",
+  "turkceKelime":"mutlu",
+  "okunus":"hepiğ",
+},
+{
+  "ingilizceKelime":"responsible",
+  "turkceKelime":"sorumlu",
+  "okunus":"risponsıbıl",
+},
+{
+  "ingilizceKelime":"cute",
+  "turkceKelime":"Sevimli",
+  "okunus":"küuğt",
+},
+{
+  "ingilizceKelime":"helpful",
+  "turkceKelime":"yardımsever",
+  "okunus":"helpful",
+},
+{
+  "ingilizceKelime":"recent",
+  "turkceKelime":"son",
+  "okunus":"risınt",
+},
+{
+  "ingilizceKelime":"willing",
+  "turkceKelime":"istekli",
+  "okunus":"vıling",
+},
+{
+  "ingilizceKelime":"nice",
+  "turkceKelime":"Güzel",
+  "okunus":"nays",
+},
+{
+  "ingilizceKelime":"wonderful",
+  "turkceKelime":"müthiş",
+  "okunus":"vandırful",
+},
+{
+  "ingilizceKelime":"impossible",
+  "turkceKelime":"imkansız",
+  "okunus":"impasıbıl",
+},
+{
+  "ingilizceKelime":"serious",
+  "turkceKelime":"ciddi",
+  "okunus":"siğriyıs",
+},
+
+]},{ 
+"isim":"3",  
+ "data":[
+{
+  "ingilizceKelime":"huge",
+  "turkceKelime":"Kocaman",
+  "okunus":"hüuğc",
+},
+{
+  "ingilizceKelime":"rare",
+  "turkceKelime":"nadir",
+  "okunus":"reğır",
+},
+{
+  "ingilizceKelime":"technical",
+  "turkceKelime":"teknik",
+  "okunus":"teknikıl",
+},
+{
+  "ingilizceKelime":"typical",
+  "turkceKelime":"tipik",
+  "okunus":"tipikıl",
+},
+{
+  "ingilizceKelime":"competitive",
+  "turkceKelime":"rekabetçi",
+  "okunus":"kımpatıtiv",
+},
+{
+  "ingilizceKelime":"critical",
+  "turkceKelime":"kritik",
+  "okunus":"kritikıl",
+},
+{
+  "ingilizceKelime":"electronic",
+  "turkceKelime":"elektronik",
+  "okunus":"elektronik",
+},
+{
+  "ingilizceKelime":"immediate",
+  "turkceKelime":"acil",
+  "okunus":"ımiğdiyıt",
+},
+{
+  "ingilizceKelime":"aware",
+  "turkceKelime":"farkında,haberdar",
+  "okunus":"ığveyr",
+},
+{
+  "ingilizceKelime":"educational",
+  "turkceKelime":"eğitici",
+  "okunus":"ecukeyşınıl",
+},
+{
+  "ingilizceKelime":"environmental",
+  "turkceKelime":"çevre",
+  "okunus":"invayırmentıl",
+},
+{
+  "ingilizceKelime":"global",
+  "turkceKelime":"küresel",
+  "okunus":"globıl",
+},
+{
+  "ingilizceKelime":"legal",
+  "turkceKelime":"yasal",
+  "okunus":"ligıl",
+},
+{
+  "ingilizceKelime":"relevant",
+  "turkceKelime":"uygun,ilgili",
+  "okunus":"relıvınt",
+},
+{
+  "ingilizceKelime":"accurate",
+  "turkceKelime":"kesin",
+  "okunus":"aküğrıt",
+},
+{
+  "ingilizceKelime":"capable",
+  "turkceKelime":"yetenekli",
+  "okunus":"keypıbıl",
+},
+{
+  "ingilizceKelime":"dangerous",
+  "turkceKelime":"tehlikeli",
+  "okunus":"denycırıs",
+},
+{
+  "ingilizceKelime":"dramatic",
+  "turkceKelime":"dramatik",
+  "okunus":"dramatik",
+},
+{
+  "ingilizceKelime":"efficient",
+  "turkceKelime":"verimli",
+  "okunus":"efişınt",
+},
+{
+  "ingilizceKelime":"powerful",
+  "turkceKelime":"güçlü",
+  "okunus":"pavırful",
+},
+{
+  "ingilizceKelime":"foreign",
+  "turkceKelime":"yabancı",
+  "okunus":"forın",
+},
+{
+  "ingilizceKelime":"hungry",
+  "turkceKelime":"aç",
+  "okunus":"hangri",
+},
+{
+  "ingilizceKelime":"practical",
+  "turkceKelime":"pratik",
+  "okunus":"pratikıl",
+},
+{
+  "ingilizceKelime":"psychological",
+  "turkceKelime":"psikolojik",
+  "okunus":"saykolocikıl",
+},
+{
+  "ingilizceKelime":"severe",
+  "turkceKelime":"şiddetli",
+  "okunus":"seviğır",
+},
+
+]},{ 
+"isim":"4",  
+ "data":[
+{
+  "ingilizceKelime":"suitable",
+  "turkceKelime":"uygun",
+  "okunus":"süğdıbıl",
+},
+{
+  "ingilizceKelime":"numerous",
+  "turkceKelime":"sayısız",
+  "okunus":"nüymrıs",
+},
+{
+  "ingilizceKelime":"sufficient",
+  "turkceKelime":"yeterli",
+  "okunus":"soğfişın",
+},
+{
+  "ingilizceKelime":"unusual",
+  "turkceKelime":"olağan dışı",
+  "okunus":"anyujıvıl",
+},
+{
+  "ingilizceKelime":"consistent",
+  "turkceKelime":"tutarlı",
+  "okunus":"kınsistınt",
+},
+{
+  "ingilizceKelime":"cultural",
+  "turkceKelime":"kültürel",
+  "okunus":"kalçırıl",
+},
+{
+  "ingilizceKelime":"existing",
+  "turkceKelime":"var olan",
+  "okunus":"ekzistin",
+},
+{
+  "ingilizceKelime":"famous",
+  "turkceKelime":"tanınmış",
+  "okunus":"feymıs",
+},
+{
+  "ingilizceKelime":"pure",
+  "turkceKelime":"saf",
+  "okunus":"püğur",
+},
+{
+  "ingilizceKelime":"afraid",
+  "turkceKelime":"korkmuş",
+  "okunus":"afreyd",
+},
+{
+  "ingilizceKelime":"obvious",
+  "turkceKelime":"bariz",
+  "okunus":"obviğyız",
+},
+{
+  "ingilizceKelime":"careful",
+  "turkceKelime":"dikkatli olmak",
+  "okunus":"kerıfıl",
+},
+{
+  "ingilizceKelime":"latter",
+  "turkceKelime":"son",
+  "okunus":"lağdır",
+},
+{
+  "ingilizceKelime":"unhappy",
+  "turkceKelime":"mutsuz",
+  "okunus":"anhepiğ",
+},
+{
+  "ingilizceKelime":"acceptable",
+  "turkceKelime":"kabul edilebilir",
+  "okunus":"ikseptıbıl",
+},
+{
+  "ingilizceKelime":"aggressive",
+  "turkceKelime":"agresif",
+  "okunus":"agreğsiv",
+},
+{
+  "ingilizceKelime":"boring",
+  "turkceKelime":"sıkıcı",
+  "okunus":"boriğng",
+},
+{
+  "ingilizceKelime":"distinct",
+  "turkceKelime":"belirgin",
+  "okunus":"distinkt",
+},
+{
+  "ingilizceKelime":"eastern",
+  "turkceKelime":"doğu",
+  "okunus":"istırn",
+},
+{
+  "ingilizceKelime":"logical",
+  "turkceKelime":"mantıklı",
+  "okunus":"locikıl",
+},
+{
+  "ingilizceKelime":"reasonable",
+  "turkceKelime":"mantıklı",
+  "okunus":"riğzınıbıl",
+},
+{
+  "ingilizceKelime":"strict",
+  "turkceKelime":"sıkı",
+  "okunus":"strikt",
+},
+{
+  "ingilizceKelime":"administrative",
+  "turkceKelime":"idari",
+  "okunus":"edministreydıv",
+},
+{
+  "ingilizceKelime":"automatic",
+  "turkceKelime":"otomatik",
+  "okunus":"oğtomatik",
+},
+{
+  "ingilizceKelime":"civil",
+  "turkceKelime":"sivil",
+  "okunus":"sivıl",
+},
+
+]},{ 
+"isim":"5",  
+ "data":[
+{
+  "ingilizceKelime":"former",
+  "turkceKelime":"eski,önceki",
+  "okunus":"formır",
+},
+{
+  "ingilizceKelime":"massive",
+  "turkceKelime":"cüsseli",
+  "okunus":"mağsiv",
+},
+{
+  "ingilizceKelime":"southern",
+  "turkceKelime":"güney",
+  "okunus":"sadın",
+},
+{
+  "ingilizceKelime":"unfair",
+  "turkceKelime":"haksız",
+  "okunus":"anfeğır",
+},
+{
+  "ingilizceKelime":"visible",
+  "turkceKelime":"gözle görülür",
+  "okunus":"vizibıl",
+},
+{
+  "ingilizceKelime":"alive",
+  "turkceKelime":"canlı",
+  "okunus":"elayv",
+},
+{
+  "ingilizceKelime":"angry",
+  "turkceKelime":"sinirli",
+  "okunus":"engriğ",
+},
+{
+  "ingilizceKelime":"desperate",
+  "turkceKelime":"çaresiz",
+  "okunus":"despırıt",
+},
+{
+  "ingilizceKelime":"exciting",
+  "turkceKelime":"heyecan verici",
+  "okunus":"ikzayting",
+},
+{
+  "ingilizceKelime":"friendly",
+  "turkceKelime":"arkadaş canlısı",
+  "okunus":"frendliğ",
+},
+{
+  "ingilizceKelime":"lucky",
+  "turkceKelime":"şanslı",
+  "okunus":"lakiğ",
+},
+{
+  "ingilizceKelime":"realistic",
+  "turkceKelime":"gerçekçi",
+  "okunus":"riılistik",
+},
+{
+  "ingilizceKelime":"sorry",
+  "turkceKelime":"üzgün",
+  "okunus":"soğriy",
+},
+{
+  "ingilizceKelime":"ugly",
+  "turkceKelime":"çirkin",
+  "okunus":"agli",
+},
+{
+  "ingilizceKelime":"unlikely",
+  "turkceKelime":"olası olmayan",
+  "okunus":"anlaykli",
+},
+{
+  "ingilizceKelime":"anxious",
+  "turkceKelime":"endişeli",
+  "okunus":"enkşıs",
+},
+{
+  "ingilizceKelime":"comprehensive",
+  "turkceKelime":"kapsamlı",
+  "okunus":"kağmpırhensiğv",
+},
+{
+  "ingilizceKelime":"curious",
+  "turkceKelime":"Meraklı",
+  "okunus":"küğriğıs",
+},
+{
+  "ingilizceKelime":"impressive",
+  "turkceKelime":"etkileyici",
+  "okunus":"imprasiğv",
+},
+{
+  "ingilizceKelime":"informal",
+  "turkceKelime":"resmi olmayan",
+  "okunus":"informıl",
+},
+{
+  "ingilizceKelime":"inner",
+  "turkceKelime":"iç",
+  "okunus":"inır",
+},
+{
+  "ingilizceKelime":"pleasant",
+  "turkceKelime":"güzel",
+  "okunus":"plezınt",
+},
+{
+  "ingilizceKelime":"sudden",
+  "turkceKelime":"birden",
+  "okunus":"sadın",
+},
+{
+  "ingilizceKelime":"terrible",
+  "turkceKelime":"korkunç",
+  "okunus":"teğrıbıl",
+},
+{
+  "ingilizceKelime":"unable",
+  "turkceKelime":"aciz",
+  "okunus":"aneybıl",
+},
+
+]},{ 
+"isim":"6",  
+ "data":[
+{
+  "ingilizceKelime":"weak",
+  "turkceKelime":"güçsüz",
+  "okunus":"viğk",
+},
+{
+  "ingilizceKelime":"wooden",
+  "turkceKelime":"ahşap",
+  "okunus":"vuğdın",
+},
+{
+  "ingilizceKelime":"confident",
+  "turkceKelime":"kendinden emin",
+  "okunus":"kanfidıt",
+},
+{
+  "ingilizceKelime":"conscious",
+  "turkceKelime":"bilinçli",
+  "okunus":"kançıs",
+},
+{
+  "ingilizceKelime":"decent",
+  "turkceKelime":"terbiyeli",
+  "okunus":"diğsınt",
+},
+{
+  "ingilizceKelime":"embarrassed",
+  "turkceKelime":"utanmış",
+  "okunus":"amberısd",
+},
+{
+  "ingilizceKelime":"guilty",
+  "turkceKelime":"suçlu",
+  "okunus":"giğlty",
+},
+{
+  "ingilizceKelime":"lonely",
+  "turkceKelime":"yalnız",
+  "okunus":"loğnliy",
+},
+{
+  "ingilizceKelime":"mad",
+  "turkceKelime":"deli",
+  "okunus":"meğd",
+},
+{
+  "ingilizceKelime":"nervous",
+  "turkceKelime":"sinirli",
+  "okunus":"nörvıs",
+},
+{
+  "ingilizceKelime":"odd",
+  "turkceKelime":"garip",
+  "okunus":"ağğd",
+},
+{
+  "ingilizceKelime":"remarkable",
+  "turkceKelime":"dikkat çekici",
+  "okunus":"rimarkıbıl",
+},
+{
+  "ingilizceKelime":"substantial",
+  "turkceKelime":"varlıklı",
+  "okunus":"sabstenşıl",
+},
+{
+  "ingilizceKelime":"suspicious",
+  "turkceKelime":"şüpheli",
+  "okunus":"sıspişıs",
+},
+{
+  "ingilizceKelime":"tall",
+  "turkceKelime":"uzun",
+  "okunus":"toğl",
+},
+{
+  "ingilizceKelime":"tiny",
+  "turkceKelime":"çok küçük",
+  "okunus":"tayni",
+},
+{
+  "ingilizceKelime":"more",
+  "turkceKelime":"daha fazla",
+  "okunus":"moğr",
+},
+{
+  "ingilizceKelime":"some",
+  "turkceKelime":"bazı",
+  "okunus":"sam",
+},
+{
+  "ingilizceKelime":"one",
+  "turkceKelime":"bir",
+  "okunus":"van",
+},
+{
+  "ingilizceKelime":"all",
+  "turkceKelime":"tüm",
+  "okunus":"oğl",
+},
+{
+  "ingilizceKelime":"many",
+  "turkceKelime":"birçok",
+  "okunus":"meny",
+},
+{
+  "ingilizceKelime":"most",
+  "turkceKelime":"çoğu",
+  "okunus":"most",
+},
+{
+  "ingilizceKelime":"other",
+  "turkceKelime":"başka",
+  "okunus":"ağdır",
+},
+{
+  "ingilizceKelime":"such",
+  "turkceKelime":"çok",
+  "okunus":"saç",
+},
+{
+  "ingilizceKelime":"even",
+  "turkceKelime":"Bile",
+  "okunus":"ivın",
+},
+
+]},{ 
+"isim":"7",  
+ "data":[
+{
+  "ingilizceKelime":"new",
+  "turkceKelime":"yeni",
+  "okunus":"niğüv",
+},
+{
+  "ingilizceKelime":"just",
+  "turkceKelime":"sadece",
+  "okunus":"cast",
+},
+{
+  "ingilizceKelime":"good",
+  "turkceKelime":"iyi",
+  "okunus":"guud",
+},
+{
+  "ingilizceKelime":"any",
+  "turkceKelime":"hiç",
+  "okunus":"eny",
+},
+{
+  "ingilizceKelime":"each",
+  "turkceKelime":"her biri",
+  "okunus":"iğç",
+},
+{
+  "ingilizceKelime":"much",
+  "turkceKelime":"fazla",
+  "okunus":"maç",
+},
+{
+  "ingilizceKelime":"own",
+  "turkceKelime":"sahip olmak",
+  "okunus":"ovn",
+},
+{
+  "ingilizceKelime":"great",
+  "turkceKelime":"İyi",
+  "okunus":"greyt",
+},
+{
+  "ingilizceKelime":"another",
+  "turkceKelime":"bir diğer",
+  "okunus":"enağdır",
+},
+{
+  "ingilizceKelime":"same",
+  "turkceKelime":"aynı",
+  "okunus":"seym",
+},
+{
+  "ingilizceKelime":"few",
+  "turkceKelime":"az",
+  "okunus":"fiğü",
+},
+{
+  "ingilizceKelime":"free",
+  "turkceKelime":"Bedava",
+  "okunus":"friğ",
+},
+{
+  "ingilizceKelime":"right",
+  "turkceKelime":"Sağ",
+  "okunus":"rayt",
+},
+{
+  "ingilizceKelime":"still",
+  "turkceKelime":"hâlâ",
+  "okunus":"stiğl",
+},
+{
+  "ingilizceKelime":"best",
+  "turkceKelime":"en iyi",
+  "okunus":"best",
+},
+{
+  "ingilizceKelime":"public",
+  "turkceKelime":"halka açık",
+  "okunus":"pablik",
+},
+{
+  "ingilizceKelime":"human",
+  "turkceKelime":"insan",
+  "okunus":"hüymın",
+},
+{
+  "ingilizceKelime":"both",
+  "turkceKelime":"ikisi birden",
+  "okunus":"boğt",
+},
+{
+  "ingilizceKelime":"local",
+  "turkceKelime":"yerel",
+  "okunus":"lokıl",
+},
+{
+  "ingilizceKelime":"sure",
+  "turkceKelime":"Elbette",
+  "okunus":"şur",
+},
+{
+  "ingilizceKelime":"better",
+  "turkceKelime":"daha iyi",
+  "okunus":"beğdır",
+},
+{
+  "ingilizceKelime":"general",
+  "turkceKelime":"genel",
+  "okunus":"cenırıl",
+},
+{
+  "ingilizceKelime":"specific",
+  "turkceKelime":"özel",
+  "okunus":"spesifik",
+},
+{
+  "ingilizceKelime":"enough",
+  "turkceKelime":"yeterli",
+  "okunus":"enaf",
+},
+{
+  "ingilizceKelime":"long",
+  "turkceKelime":"uzun",
+  "okunus":"long",
+},
+
+]},{ 
+"isim":"8",  
+ "data":[
+{
+  "ingilizceKelime":"small",
+  "turkceKelime":"küçük",
+  "okunus":"smoğl",
+},
+{
+  "ingilizceKelime":"less",
+  "turkceKelime":"az",
+  "okunus":"les",
+},
+{
+  "ingilizceKelime":"high",
+  "turkceKelime":"yüksek",
+  "okunus":"hay",
+},
+{
+  "ingilizceKelime":"certain",
+  "turkceKelime":"belirli",
+  "okunus":"sörğın",
+},
+{
+  "ingilizceKelime":"little",
+  "turkceKelime":"biraz",
+  "okunus":"lidıl",
+},
+{
+  "ingilizceKelime":"common",
+  "turkceKelime":"yaygın",
+  "okunus":"kağmın",
+},
+{
+  "ingilizceKelime":"next",
+  "turkceKelime":"sonraki",
+  "okunus":"nekst",
+},
+{
+  "ingilizceKelime":"simple",
+  "turkceKelime":"basit",
+  "okunus":"simpıl",
+},
+{
+  "ingilizceKelime":"hard",
+  "turkceKelime":"sert",
+  "okunus":"hard",
+},
+{
+  "ingilizceKelime":"past",
+  "turkceKelime":"geçmiş",
+  "okunus":"pest",
+},
+{
+  "ingilizceKelime":"big",
+  "turkceKelime":"büyük",
+  "okunus":"big",
+},
+{
+  "ingilizceKelime":"possible",
+  "turkceKelime":"mümkün",
+  "okunus":"pasıbıl",
+},
+{
+  "ingilizceKelime":"particular",
+  "turkceKelime":"özel",
+  "okunus":"petikılır",
+},
+{
+  "ingilizceKelime":"real",
+  "turkceKelime":"gerçek",
+  "okunus":"riğıl",
+},
+{
+  "ingilizceKelime":"major",
+  "turkceKelime":"ana",
+  "okunus":"meycır",
+},
+{
+  "ingilizceKelime":"personal",
+  "turkceKelime":"kişiye özel",
+  "okunus":"pörsınıl",
+},
+{
+  "ingilizceKelime":"current",
+  "turkceKelime":"akım",
+  "okunus":"körınt",
+},
+{
+  "ingilizceKelime":"left",
+  "turkceKelime":"sol",
+  "okunus":"left",
+},
+{
+  "ingilizceKelime":"national",
+  "turkceKelime":"Ulusal",
+  "okunus":"nağşınıl",
+},
+{
+  "ingilizceKelime":"least",
+  "turkceKelime":"en az",
+  "okunus":"liğst",
+},
+{
+  "ingilizceKelime":"natural",
+  "turkceKelime":"doğal",
+  "okunus":"nağçrıl",
+},
+{
+  "ingilizceKelime":"physical",
+  "turkceKelime":"fiziksel",
+  "okunus":"fizikıl",
+},
+{
+  "ingilizceKelime":"short",
+  "turkceKelime":"kısa",
+  "okunus":"şort",
+},
+{
+  "ingilizceKelime":"last",
+  "turkceKelime":"geçen",
+  "okunus":"lağst",
+},
+{
+  "ingilizceKelime":"single",
+  "turkceKelime":"bekar",
+  "okunus":"singıl",
+},
+
+]},{ 
+"isim":"9",  
+ "data":[
+{
+  "ingilizceKelime":"individual",
+  "turkceKelime":"bireysel",
+  "okunus":"indivicuıl",
+},
+{
+  "ingilizceKelime":"main",
+  "turkceKelime":"ana",
+  "okunus":"meyn",
+},
+{
+  "ingilizceKelime":"potential",
+  "turkceKelime":"potansiyel",
+  "okunus":"potenşıl",
+},
+{
+  "ingilizceKelime":"professional",
+  "turkceKelime":"profesyonel",
+  "okunus":"profeğşınıl",
+},
+{
+  "ingilizceKelime":"international",
+  "turkceKelime":"Uluslararası",
+  "okunus":"inırneğşınıl",
+},
+{
+  "ingilizceKelime":"lower",
+  "turkceKelime":"daha düşük",
+  "okunus":"lovır",
+},
+{
+  "ingilizceKelime":"open",
+  "turkceKelime":"açık",
+  "okunus":"opın",
+},
+{
+  "ingilizceKelime":"alternative",
+  "turkceKelime":"alternatif",
+  "okunus":"altörnediv",
+},
+{
+  "ingilizceKelime":"special",
+  "turkceKelime":"özel",
+  "okunus":"speşıl",
+},
+{
+  "ingilizceKelime":"working",
+  "turkceKelime":"çalışan",
+  "okunus":"vorkin",
+},
+{
+  "ingilizceKelime":"true",
+  "turkceKelime":"doğru",
+  "okunus":"truğ",
+},
+{
+  "ingilizceKelime":"whole",
+  "turkceKelime":"tüm",
+  "okunus":"huğl",
+},
+{
+  "ingilizceKelime":"clear",
+  "turkceKelime":"açık",
+  "okunus":"kliır",
+},
+{
+  "ingilizceKelime":"dry",
+  "turkceKelime":"kuru",
+  "okunus":"dray",
+},
+{
+  "ingilizceKelime":"easy",
+  "turkceKelime":"kolay",
+  "okunus":"iğzi",
+},
+{
+  "ingilizceKelime":"cold",
+  "turkceKelime":"soğuk",
+  "okunus":"kold",
+},
+{
+  "ingilizceKelime":"commercial",
+  "turkceKelime":"reklam",
+  "okunus":"komırşıl",
+},
+{
+  "ingilizceKelime":"full",
+  "turkceKelime":"tam dolu",
+  "okunus":"fuğl",
+},
+{
+  "ingilizceKelime":"low",
+  "turkceKelime":"düşük",
+  "okunus":"loğv",
+},
+{
+  "ingilizceKelime":"primary",
+  "turkceKelime":"öncelik",
+  "okunus":"praymeriğ",
+},
+{
+  "ingilizceKelime":"worth",
+  "turkceKelime":"değer",
+  "okunus":"voğrt",
+},
+{
+  "ingilizceKelime":"necessary",
+  "turkceKelime":"gerekli",
+  "okunus":"nesıseriğ",
+},
+{
+  "ingilizceKelime":"positive",
+  "turkceKelime":"pozitif",
+  "okunus":"pozitiv",
+},
+{
+  "ingilizceKelime":"present",
+  "turkceKelime":"mevcut",
+  "okunus":"prezın",
+},
+{
+  "ingilizceKelime":"close",
+  "turkceKelime":"yakın",
+  "okunus":"kloğs",
+},
+
+]},{ 
+"isim":"10",  
+ "data":[
+{
+  "ingilizceKelime":"creative",
+  "turkceKelime":"yaratıcı",
+  "okunus":"kriediv",
+},
+{
+  "ingilizceKelime":"green",
+  "turkceKelime":"Yeşil",
+  "okunus":"griğn",
+},
+{
+  "ingilizceKelime":"late",
+  "turkceKelime":"geç",
+  "okunus":"leyt",
+},
+{
+  "ingilizceKelime":"fit",
+  "turkceKelime":"Uygun",
+  "okunus":"fiğt",
+},
+{
+  "ingilizceKelime":"glad",
+  "turkceKelime":"memnun",
+  "okunus":"glağd",
+},
+{
+  "ingilizceKelime":"proper",
+  "turkceKelime":"düzgün",
+  "okunus":"prapır",
+},
+{
+  "ingilizceKelime":"complex",
+  "turkceKelime":"karmaşık",
+  "okunus":"kampleks",
+},
+{
+  "ingilizceKelime":"content",
+  "turkceKelime":"içerik",
+  "okunus":"kantınt",
+},
+{
+  "ingilizceKelime":"due",
+  "turkceKelime":"gereken,beklenen",
+  "okunus":"düuğ",
+},
+{
+  "ingilizceKelime":"effective",
+  "turkceKelime":"etkili",
+  "okunus":"afektiv",
+},
+{
+  "ingilizceKelime":"middle",
+  "turkceKelime":"orta",
+  "okunus":"midıl",
+},
+{
+  "ingilizceKelime":"regular",
+  "turkceKelime":"düzenli",
+  "okunus":"regyulır",
+},
+{
+  "ingilizceKelime":"fast",
+  "turkceKelime":"hızlı",
+  "okunus":"feğst",
+},
+{
+  "ingilizceKelime":"independent",
+  "turkceKelime":"bağımsız",
+  "okunus":"indıpendınt",
+},
+{
+  "ingilizceKelime":"original",
+  "turkceKelime":"orijinal",
+  "okunus":"oricinıl",
+},
+{
+  "ingilizceKelime":"wide",
+  "turkceKelime":"geniş",
+  "okunus":"vayd",
+},
+{
+  "ingilizceKelime":"beautiful",
+  "turkceKelime":"güzel",
+  "okunus":"biğudıful",
+},
+{
+  "ingilizceKelime":"active",
+  "turkceKelime":"aktif",
+  "okunus":"aktığv",
+},
+{
+  "ingilizceKelime":"negative",
+  "turkceKelime":"olumsuz",
+  "okunus":"negadiv",
+},
+{
+  "ingilizceKelime":"safe",
+  "turkceKelime":"güvenli",
+  "okunus":"seyf",
+},
+{
+  "ingilizceKelime":"visual",
+  "turkceKelime":"görsel",
+  "okunus":"vijuğl",
+},
+{
+  "ingilizceKelime":"wrong",
+  "turkceKelime":"yanlış",
+  "okunus":"roğng",
+},
+{
+  "ingilizceKelime":"ago",
+  "turkceKelime":"evvel",
+  "okunus":"ego",
+},
+{
+  "ingilizceKelime":"quick",
+  "turkceKelime":"hızlı",
+  "okunus":"kuik",
+},
+{
+  "ingilizceKelime":"ready",
+  "turkceKelime":"hazır",
+  "okunus":"reğdi",
+},
+
+]},{ 
+"isim":"11",  
+ "data":[
+{
+  "ingilizceKelime":"straight",
+  "turkceKelime":"dümdüz",
+  "okunus":"streyt",
+},
+{
+  "ingilizceKelime":"white",
+  "turkceKelime":"beyaz",
+  "okunus":"vayt",
+},
+{
+  "ingilizceKelime":"direct",
+  "turkceKelime":"doğrudan",
+  "okunus":"dayrekt",
+},
+{
+  "ingilizceKelime":"excellent",
+  "turkceKelime":"harika",
+  "okunus":"eksılınt",
+},
+{
+  "ingilizceKelime":"extra",
+  "turkceKelime":"ekstra",
+  "okunus":"ekstra",
+},
+{
+  "ingilizceKelime":"junior",
+  "turkceKelime":"genç",
+  "okunus":"cüğnyır",
+},
+{
+  "ingilizceKelime":"pretty",
+  "turkceKelime":"tatlı",
+  "okunus":"pridiğ",
+},
+{
+  "ingilizceKelime":"unique",
+  "turkceKelime":"benzersiz",
+  "okunus":"yuğnik",
+},
+{
+  "ingilizceKelime":"classic",
+  "turkceKelime":"klasik",
+  "okunus":"klasik",
+},
+{
+  "ingilizceKelime":"final",
+  "turkceKelime":"son",
+  "okunus":"faynıl",
+},
+{
+  "ingilizceKelime":"overall",
+  "turkceKelime":"etraflı",
+  "okunus":"ovıroğl",
+},
+{
+  "ingilizceKelime":"private",
+  "turkceKelime":"özel",
+  "okunus":"prayvıt",
+},
+{
+  "ingilizceKelime":"separate",
+  "turkceKelime":"ayırmak",
+  "okunus":"sepıreyt",
+},
+{
+  "ingilizceKelime":"western",
+  "turkceKelime":"batılı",
+  "okunus":"vestırn",
+},
+{
+  "ingilizceKelime":"alone",
+  "turkceKelime":"yalnız",
+  "okunus":"eloğn",
+},
+{
+  "ingilizceKelime":"familiar",
+  "turkceKelime":"tanıdık",
+  "okunus":"femilyır",
+},
+{
+  "ingilizceKelime":"official",
+  "turkceKelime":"resmi",
+  "okunus":"ofişıl",
+},
+{
+  "ingilizceKelime":"perfect",
+  "turkceKelime":"mükemmel",
+  "okunus":"pörfekt",
+},
+{
+  "ingilizceKelime":"bright",
+  "turkceKelime":"parlak",
+  "okunus":"brayt",
+},
+{
+  "ingilizceKelime":"broad",
+  "turkceKelime":"kalın",
+  "okunus":"broğd",
+},
+{
+  "ingilizceKelime":"comfortable",
+  "turkceKelime":"rahat",
+  "okunus":"kamfıtıbıl",
+},
+{
+  "ingilizceKelime":"flat",
+  "turkceKelime":"düz",
+  "okunus":"flağt",
+},
+{
+  "ingilizceKelime":"rich",
+  "turkceKelime":"zengin",
+  "okunus":"riğç",
+},
+{
+  "ingilizceKelime":"warm",
+  "turkceKelime":"ılık",
+  "okunus":"vorğm",
+},
+{
+  "ingilizceKelime":"young",
+  "turkceKelime":"genç",
+  "okunus":"yang",
+},
+
+]},{ 
+"isim":"12",  
+ "data":[
+{
+  "ingilizceKelime":"heavy",
+  "turkceKelime":"ağır",
+  "okunus":"heviğ",
+},
+{
+  "ingilizceKelime":"valuable",
+  "turkceKelime":"değerli",
+  "okunus":"valüğıbıl",
+},
+{
+  "ingilizceKelime":"correct",
+  "turkceKelime":"doğru",
+  "okunus":"korrekt",
+},
+{
+  "ingilizceKelime":"leading",
+  "turkceKelime":"lider",
+  "okunus":"liding",
+},
+{
+  "ingilizceKelime":"slow",
+  "turkceKelime":"yavaş",
+  "okunus":"slov",
+},
+{
+  "ingilizceKelime":"clean",
+  "turkceKelime":"temiz",
+  "okunus":"kliğn",
+},
+{
+  "ingilizceKelime":"fresh",
+  "turkceKelime":"taze",
+  "okunus":"freş",
+},
+{
+  "ingilizceKelime":"normal",
+  "turkceKelime":"normal",
+  "okunus":"normıl",
+},
+{
+  "ingilizceKelime":"secret",
+  "turkceKelime":"gizli",
+  "okunus":"sikrıt",
+},
+{
+  "ingilizceKelime":"tough",
+  "turkceKelime":"zorlu",
+  "okunus":"tağf",
+},
+{
+  "ingilizceKelime":"brown",
+  "turkceKelime":"Kahverengi",
+  "okunus":"brağun",
+},
+{
+  "ingilizceKelime":"cheap",
+  "turkceKelime":"ucuz",
+  "okunus":"çiğp",
+},
+{
+  "ingilizceKelime":"deep",
+  "turkceKelime":"derin",
+  "okunus":"diğp",
+},
+{
+  "ingilizceKelime":"objective",
+  "turkceKelime":"nesnel",
+  "okunus":"obcektiv",
+},
+{
+  "ingilizceKelime":"secure",
+  "turkceKelime":"güvenli",
+  "okunus":"seğkür",
+},
+{
+  "ingilizceKelime":"thin",
+  "turkceKelime":"ince",
+  "okunus":"tiğn",
+},
+{
+  "ingilizceKelime":"chemical",
+  "turkceKelime":"kimyasal",
+  "okunus":"kemikıl",
+},
+{
+  "ingilizceKelime":"cool",
+  "turkceKelime":"serin",
+  "okunus":"kuğl",
+},
+{
+  "ingilizceKelime":"extreme",
+  "turkceKelime":"aşırı",
+  "okunus":"ikstriğm",
+},
+{
+  "ingilizceKelime":"exact",
+  "turkceKelime":"bire bir aynı",
+  "okunus":"igzekt",
+},
+{
+  "ingilizceKelime":"fair",
+  "turkceKelime":"adil",
+  "okunus":"feğır",
+},
+{
+  "ingilizceKelime":"fine",
+  "turkceKelime":"iyi",
+  "okunus":"fayn",
+},
+{
+  "ingilizceKelime":"formal",
+  "turkceKelime":"resmi",
+  "okunus":"formıl",
+},
+{
+  "ingilizceKelime":"opposite",
+  "turkceKelime":"karşısında",
+  "okunus":"opozit",
+},
+{
+  "ingilizceKelime":"remote",
+  "turkceKelime":"uzak",
+  "okunus":"rimuğt",
+},
+
+]},{ 
+"isim":"13",  
+ "data":[
+{
+  "ingilizceKelime":"total",
+  "turkceKelime":"tüm,toplam",
+  "okunus":"todıl",
+},
+{
+  "ingilizceKelime":"vast",
+  "turkceKelime":"büyüklük",
+  "okunus":"veğst",
+},
+{
+  "ingilizceKelime":"lost",
+  "turkceKelime":"kayıp",
+  "okunus":"lost",
+},
+{
+  "ingilizceKelime":"smooth",
+  "turkceKelime":"düz",
+  "okunus":"smuğt",
+},
+{
+  "ingilizceKelime":"dark",
+  "turkceKelime":"karanlık",
+  "okunus":"dark",
+},
+{
+  "ingilizceKelime":"double",
+  "turkceKelime":"çift",
+  "okunus":"dabıl",
+},
+{
+  "ingilizceKelime":"equal",
+  "turkceKelime":"eşit",
+  "okunus":"ikvıl",
+},
+{
+  "ingilizceKelime":"frequent",
+  "turkceKelime":"sık",
+  "okunus":"friğkuın",
+},
+{
+  "ingilizceKelime":"internal",
+  "turkceKelime":"dahili",
+  "okunus":"intörnıl",
+},
+{
+  "ingilizceKelime":"sensitive",
+  "turkceKelime":"duyarlı",
+  "okunus":"sensidiv",
+},
+{
+  "ingilizceKelime":"constant",
+  "turkceKelime":"sabit",
+  "okunus":"kanstın",
+},
+{
+  "ingilizceKelime":"minor",
+  "turkceKelime":"küçük",
+  "okunus":"maynır",
+},
+{
+  "ingilizceKelime":"previous",
+  "turkceKelime":"öncesi",
+  "okunus":"priviıs",
+},
+{
+  "ingilizceKelime":"crude",
+  "turkceKelime":"ham",
+  "okunus":"krüğd",
+},
+{
+  "ingilizceKelime":"soft",
+  "turkceKelime":"yumuşak",
+  "okunus":"sağft",
+},
+{
+  "ingilizceKelime":"solid",
+  "turkceKelime":"sağlam",
+  "okunus":"salid",
+},
+{
+  "ingilizceKelime":"weird",
+  "turkceKelime":"garip",
+  "okunus":"viırd",
+},
+{
+  "ingilizceKelime":"amazing",
+  "turkceKelime":"Harika",
+  "okunus":"emeyzing",
+},
+{
+  "ingilizceKelime":"annual",
+  "turkceKelime":"yıllık",
+  "okunus":"enyuğıl",
+},
+{
+  "ingilizceKelime":"busy",
+  "turkceKelime":"meşgul",
+  "okunus":"biziğ",
+},
+{
+  "ingilizceKelime":"dead",
+  "turkceKelime":"ölü",
+  "okunus":"ded",
+},
+{
+  "ingilizceKelime":"false",
+  "turkceKelime":"yanlış",
+  "okunus":"foğls",
+},
+{
+  "ingilizceKelime":"round",
+  "turkceKelime":"yuvarlak",
+  "okunus":"rağnd",
+},
+{
+  "ingilizceKelime":"sharp",
+  "turkceKelime":"keskin",
+  "okunus":"şarp",
+},
+{
+  "ingilizceKelime":"thick",
+  "turkceKelime":"kalın",
+  "okunus":"tik",
+},
+
+]},{ 
+"isim":"14",  
+ "data":[
+{
+  "ingilizceKelime":"wise",
+  "turkceKelime":"bilge",
+  "okunus":"vayz",
+},
+{
+  "ingilizceKelime":"equivalent",
+  "turkceKelime":"eşdeğer",
+  "okunus":"ekviulınt",
+},
+{
+  "ingilizceKelime":"initial",
+  "turkceKelime":"ilk",
+  "okunus":"iniğşıl",
+},
+{
+  "ingilizceKelime":"narrow",
+  "turkceKelime":"dar",
+  "okunus":"neroğ",
+},
+{
+  "ingilizceKelime":"nearby",
+  "turkceKelime":"yakında",
+  "okunus":"niğrbay",
+},
+{
+  "ingilizceKelime":"proud",
+  "turkceKelime":"gururlu",
+  "okunus":"prağud",
+},
+{
+  "ingilizceKelime":"spiritual",
+  "turkceKelime":"manevi",
+  "okunus":"spiriçuğl",
+},
+{
+  "ingilizceKelime":"wild",
+  "turkceKelime":"vahşi",
+  "okunus":"vayld",
+},
+{
+  "ingilizceKelime":"adult",
+  "turkceKelime":"yetişkin",
+  "okunus":"edalt",
+},
+{
+  "ingilizceKelime":"apart",
+  "turkceKelime":"ayrı",
+  "okunus":"epart",
+},
+{
+  "ingilizceKelime":"brief",
+  "turkceKelime":"özet,kısa ve öz",
+  "okunus":"briğf",
+},
+{
+  "ingilizceKelime":"crazy",
+  "turkceKelime":"deli",
+  "okunus":"kreyzi",
+},
+{
+  "ingilizceKelime":"prior",
+  "turkceKelime":"önceki",
+  "okunus":"prayır",
+},
+{
+  "ingilizceKelime":"rough",
+  "turkceKelime":"kaba",
+  "okunus":"rağf",
+},
+{
+  "ingilizceKelime":"sad",
+  "turkceKelime":"üzgün",
+  "okunus":"sed",
+},
+{
+  "ingilizceKelime":"sick",
+  "turkceKelime":"hasta",
+  "okunus":"siğk",
+},
+{
+  "ingilizceKelime":"strange",
+  "turkceKelime":"garip",
+  "okunus":"streync",
+},
+{
+  "ingilizceKelime":"external",
+  "turkceKelime":"harici",
+  "okunus":"ikstörnıl",
+},
+{
+  "ingilizceKelime":"illegal",
+  "turkceKelime":"yasadışı",
+  "okunus":"ıligıl",
+},
+{
+  "ingilizceKelime":"loud",
+  "turkceKelime":"gürültülü",
+  "okunus":"la(ğ)ud",
+},
+{
+  "ingilizceKelime":"mobile",
+  "turkceKelime":"mobil",
+  "okunus":"mobıl",
+},
+{
+  "ingilizceKelime":"nasty",
+  "turkceKelime":"edepsiz",
+  "okunus":"nastiğ",
+},
+{
+  "ingilizceKelime":"ordinary",
+  "turkceKelime":"sıradan",
+  "okunus":"ordinariy",
+},
+{
+  "ingilizceKelime":"royal",
+  "turkceKelime":"asil",
+  "okunus":"royıl",
+},
+{
+  "ingilizceKelime":"senior",
+  "turkceKelime":"kıdemli",
+  "okunus":"siğnyır",
+},
+
+]},{ 
+"isim":"15",  
+ "data":[
+{
+  "ingilizceKelime":"super",
+  "turkceKelime":"süper",
+  "okunus":"suğpır",
+},
+{
+  "ingilizceKelime":"tight",
+  "turkceKelime":"sıkı",
+  "okunus":"tayt",
+},
+{
+  "ingilizceKelime":"upper",
+  "turkceKelime":"üst",
+  "okunus":"apır",
+},
+{
+  "ingilizceKelime":"yellow",
+  "turkceKelime":"Sarı",
+  "okunus":"yeloğ",
+},
+{
+  "ingilizceKelime":"dependent",
+  "turkceKelime":"bağımlı",
+  "okunus":"dıpendın",
+},
+{
+  "ingilizceKelime":"funny",
+  "turkceKelime":"eğlenceli",
+  "okunus":"fani",
+},
+{
+  "ingilizceKelime":"gross",
+  "turkceKelime":"brüt,gayrisafi",
+  "okunus":"groğs",
+},
+{
+  "ingilizceKelime":"ill",
+  "turkceKelime":"hasta",
+  "okunus":"iğl",
+},
+{
+  "ingilizceKelime":"spare",
+  "turkceKelime":"kıyamamak",
+  "okunus":"speğır",
+},
+{
+  "ingilizceKelime":"sweet",
+  "turkceKelime":"tatlı",
+  "okunus":"sviğt",
+},
+{
+  "ingilizceKelime":"usual",
+  "turkceKelime":"her zamanki",
+  "okunus":"yujığl",
+},
+{
+  "ingilizceKelime":"brave",
+  "turkceKelime":"cesur",
+  "okunus":"breyv",
+},
+{
+  "ingilizceKelime":"calm",
+  "turkceKelime":"sakinlik",
+  "okunus":"kağlm",
+},
+{
+  "ingilizceKelime":"dirty",
+  "turkceKelime":"kirli",
+  "okunus":"dördiğ",
+},
+{
+  "ingilizceKelime":"downtown",
+  "turkceKelime":"şehir merkezi",
+  "okunus":"davntağvn",
+},
+{
+  "ingilizceKelime":"grand",
+  "turkceKelime":"büyük",
+  "okunus":"grend",
+},
+{
+  "ingilizceKelime":"honest",
+  "turkceKelime":"açık sözlü",
+  "okunus":"ağnıst",
+},
+{
+  "ingilizceKelime":"loose",
+  "turkceKelime":"gevşetmek",
+  "okunus":"luuğz",
+},
+{
+  "ingilizceKelime":"male",
+  "turkceKelime":"erkek",
+  "okunus":"meyl",
+},
+{
+  "ingilizceKelime":"quiet",
+  "turkceKelime":"sessiz",
+  "okunus":"kuayıt",
+},
+{
+  "ingilizceKelime":"brilliant",
+  "turkceKelime":"muhteşem",
+  "okunus":"brilyınt",
+},
+{
+  "ingilizceKelime":"dear",
+  "turkceKelime":"sevgili",
+  "okunus":"diğır",
+},
+{
+  "ingilizceKelime":"drunk",
+  "turkceKelime":"sarhoş",
+  "okunus":"drank",
+},
+{
+  "ingilizceKelime":"empty",
+  "turkceKelime":"boş",
+  "okunus":"empti",
+},
+{
+  "ingilizceKelime":"female",
+  "turkceKelime":"dişi",
+  "okunus":"fimeyl",
+},
+
+]},{ 
+"isim":"16",  
+ "data":[
+{
+  "ingilizceKelime":"inevitable",
+  "turkceKelime":"kaçınılmaz",
+  "okunus":"inevıdıbıl",
+},
+{
+  "ingilizceKelime":"neat",
+  "turkceKelime":"düzenli",
+  "okunus":"niğt",
+},
+{
+  "ingilizceKelime":"representative",
+  "turkceKelime":"temsilci",
+  "okunus":"repırzenitiv",
+},
+{
+  "ingilizceKelime":"silly",
+  "turkceKelime":"şapşal",
+  "okunus":"siliğ",
+},
+{
+  "ingilizceKelime":"slight",
+  "turkceKelime":"hafif",
+  "okunus":"slayt",
+},
+{
+  "ingilizceKelime":"smart",
+  "turkceKelime":"akıllı",
+  "okunus":"smart",
+},
+{
+  "ingilizceKelime":"stupid",
+  "turkceKelime":"Aptal",
+  "okunus":"stupid",
+},
+{
+  "ingilizceKelime":"temporary",
+  "turkceKelime":"geçici",
+  "okunus":"temparariğ",
+},
+{
+  "ingilizceKelime":"weekly",
+  "turkceKelime":"haftalık",
+  "okunus":"viğkli",
+},
+{
+  "ingilizceKelime":"native",
+  "turkceKelime":"yerli",
+  "okunus":"neydiv",
+},
+{
+  "ingilizceKelime":"away",
+  "turkceKelime":"deplasmanda",
+  "okunus":"ıvey",
+},
+{
+  "ingilizceKelime":"either",
+  "turkceKelime":"her iki",
+  "okunus":"iğdır",
+},
+{
+  "ingilizceKelime":"fat",
+  "turkceKelime":"kilolu",
+  "okunus":"fet",
+},
+{
+  "ingilizceKelime":"key",
+  "turkceKelime":"kilit",
+  "okunus":"kiğ",
+},
+{
+  "ingilizceKelime":"expert",
+  "turkceKelime":"uzman",
+  "okunus":"ekspırt",
+},
+{
+  "ingilizceKelime":"top",
+  "turkceKelime":"en iyi",
+  "okunus":"tap",
+},
+{
+  "ingilizceKelime":"level",
+  "turkceKelime":"seviyeli",
+  "okunus":"levıl",
+},
+{
+  "ingilizceKelime":"far",
+  "turkceKelime":"uzak",
+  "okunus":"far",
+},
+{
+  "ingilizceKelime":"patient",
+  "turkceKelime":"sabırlı",
+  "okunus":"peyşın",
+},
+{
+  "ingilizceKelime":"routine",
+  "turkceKelime":"rutin",
+  "okunus":"rutiğn",
+},
+{
+  "ingilizceKelime":"kind",
+  "turkceKelime":"kibar",
+  "okunus":"kaynd",
+},
+{
+  "ingilizceKelime":"future",
+  "turkceKelime":"gelecek",
+  "okunus":"füçır",
+},
+{
+  "ingilizceKelime":"corner",
+  "turkceKelime":"köşe",
+  "okunus":"kornır",
+},
+{
+  "ingilizceKelime":"live",
+  "turkceKelime":"canlı",
+  "okunus":"layv",
+},
+{
+  "ingilizceKelime":"upset",
+  "turkceKelime":"üzgün",
+  "okunus":"apset",
+},
+
+]},
+];

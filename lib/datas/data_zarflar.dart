@@ -1,0 +1,906 @@
+List<Map> zarflar=[
+  { 
+"isim":"1",  
+ "data":[
+{
+  "ingilizceKelime":"not",
+  "turkceKelime":"değil",
+  "okunus":"nat",
+},
+{
+  "ingilizceKelime":"also",
+  "turkceKelime":"ayrıca",
+  "okunus":"olso",
+},
+{
+  "ingilizceKelime":"very",
+  "turkceKelime":"çok",
+  "okunus":"veriğ",
+},
+{
+  "ingilizceKelime":"often",
+  "turkceKelime":"sıklıkla",
+  "okunus":"ofın",
+},
+{
+  "ingilizceKelime":"however",
+  "turkceKelime":"fakat",
+  "okunus":"havevır",
+},
+{
+  "ingilizceKelime":"too",
+  "turkceKelime":"fazla",
+  "okunus":"tuu",
+},
+{
+  "ingilizceKelime":"usually",
+  "turkceKelime":"genellikle",
+  "okunus":"yuğjıli",
+},
+{
+  "ingilizceKelime":"really",
+  "turkceKelime":"Gerçekten",
+  "okunus":"riğıli",
+},
+{
+  "ingilizceKelime":"early",
+  "turkceKelime":"erken",
+  "okunus":"öğrli",
+},
+{
+  "ingilizceKelime":"never",
+  "turkceKelime":"asla",
+  "okunus":"nevır",
+},
+{
+  "ingilizceKelime":"always",
+  "turkceKelime":"Her zaman",
+  "okunus":"olveys",
+},
+{
+  "ingilizceKelime":"sometimes",
+  "turkceKelime":"Bazen",
+  "okunus":"samtayms",
+},
+{
+  "ingilizceKelime":"together",
+  "turkceKelime":"bir arada",
+  "okunus":"tugedır",
+},
+{
+  "ingilizceKelime":"likely",
+  "turkceKelime":"büyük ihtimalle",
+  "okunus":"laykli",
+},
+{
+  "ingilizceKelime":"simply",
+  "turkceKelime":"basitçe",
+  "okunus":"simpli",
+},
+{
+  "ingilizceKelime":"generally",
+  "turkceKelime":"genel olarak",
+  "okunus":"cenırıli",
+},
+{
+  "ingilizceKelime":"instead",
+  "turkceKelime":"yerine",
+  "okunus":"insteğd",
+},
+{
+  "ingilizceKelime":"actually",
+  "turkceKelime":"aslında",
+  "okunus":"ekşıli",
+},
+{
+  "ingilizceKelime":"again",
+  "turkceKelime":"Yeniden",
+  "okunus":"ageğn",
+},
+{
+  "ingilizceKelime":"rather",
+  "turkceKelime":"yerine",
+  "okunus":"rağdır",
+},
+{
+  "ingilizceKelime":"almost",
+  "turkceKelime":"hemen hemen",
+  "okunus":"olmost",
+},
+{
+  "ingilizceKelime":"especially",
+  "turkceKelime":"özellikle",
+  "okunus":"esıpeşıli",
+},
+{
+  "ingilizceKelime":"ever",
+  "turkceKelime":"durmadan",
+  "okunus":"evır",
+},
+{
+  "ingilizceKelime":"quickly",
+  "turkceKelime":"hızlı bir şekilde",
+  "okunus":"kuikli",
+},
+{
+  "ingilizceKelime":"probably",
+  "turkceKelime":"muhtemelen",
+  "okunus":"prababli",
+},
+
+]},{ 
+"isim":"2",  
+ "data":[
+{
+  "ingilizceKelime":"already",
+  "turkceKelime":"çoktan",
+  "okunus":"olredi",
+},
+{
+  "ingilizceKelime":"below",
+  "turkceKelime":"aşağıda",
+  "okunus":"bılov",
+},
+{
+  "ingilizceKelime":"directly",
+  "turkceKelime":"direkt olarak",
+  "okunus":"dırekli",
+},
+{
+  "ingilizceKelime":"therefore",
+  "turkceKelime":"öyleyse",
+  "okunus":"değfoğr",
+},
+{
+  "ingilizceKelime":"else",
+  "turkceKelime":"başka",
+  "okunus":"els",
+},
+{
+  "ingilizceKelime":"thus",
+  "turkceKelime":"böylece",
+  "okunus":"das",
+},
+{
+  "ingilizceKelime":"easily",
+  "turkceKelime":"kolayca",
+  "okunus":"iğzıli",
+},
+{
+  "ingilizceKelime":"eventually",
+  "turkceKelime":"sonunda",
+  "okunus":"evençıliy",
+},
+{
+  "ingilizceKelime":"certainly",
+  "turkceKelime":"kesinlikle",
+  "okunus":"sörtınli",
+},
+{
+  "ingilizceKelime":"normally",
+  "turkceKelime":"normalde",
+  "okunus":"normıli",
+},
+{
+  "ingilizceKelime":"currently",
+  "turkceKelime":"şu anda",
+  "okunus":"körıntli",
+},
+{
+  "ingilizceKelime":"extremely",
+  "turkceKelime":"aşırı",
+  "okunus":"ikstriğmli",
+},
+{
+  "ingilizceKelime":"finally",
+  "turkceKelime":"en sonunda",
+  "okunus":"faynıli",
+},
+{
+  "ingilizceKelime":"constantly",
+  "turkceKelime":"sürekli",
+  "okunus":"kanstınli",
+},
+{
+  "ingilizceKelime":"properly",
+  "turkceKelime":"düzgün bir şekilde",
+  "okunus":"prapırli",
+},
+{
+  "ingilizceKelime":"soon",
+  "turkceKelime":"yakında",
+  "okunus":"süğun",
+},
+{
+  "ingilizceKelime":"specifically",
+  "turkceKelime":"özellikle",
+  "okunus":"spesifikli",
+},
+{
+  "ingilizceKelime":"ahead",
+  "turkceKelime":"ilerde",
+  "okunus":"ehed",
+},
+{
+  "ingilizceKelime":"daily",
+  "turkceKelime":"günlük",
+  "okunus":"değyli",
+},
+{
+  "ingilizceKelime":"highly",
+  "turkceKelime":"büyük ölçüde",
+  "okunus":"hayhli",
+},
+{
+  "ingilizceKelime":"immediately",
+  "turkceKelime":"hemen",
+  "okunus":"ımidiıtli",
+},
+{
+  "ingilizceKelime":"relatively",
+  "turkceKelime":"Nispeten",
+  "okunus":"rölatıvli",
+},
+{
+  "ingilizceKelime":"slowly",
+  "turkceKelime":"yavaş yavaş",
+  "okunus":"slovli",
+},
+{
+  "ingilizceKelime":"fairly",
+  "turkceKelime":"adil bir şekilde",
+  "okunus":"feırli",
+},
+{
+  "ingilizceKelime":"primarily",
+  "turkceKelime":"öncelikle",
+  "okunus":"praymerıli",
+},
+
+]},{ 
+"isim":"3",  
+ "data":[
+{
+  "ingilizceKelime":"completely",
+  "turkceKelime":"tamamen",
+  "okunus":"komplitli",
+},
+{
+  "ingilizceKelime":"ultimately",
+  "turkceKelime":"geniş ölçüde",
+  "okunus":"ağltımıtli",
+},
+{
+  "ingilizceKelime":"widely",
+  "turkceKelime":"yaygın olarak",
+  "okunus":"vaydli",
+},
+{
+  "ingilizceKelime":"recently",
+  "turkceKelime":"Geçenlerde",
+  "okunus":"risıntli",
+},
+{
+  "ingilizceKelime":"seriously",
+  "turkceKelime":"Cidden",
+  "okunus":"siğriyısli",
+},
+{
+  "ingilizceKelime":"frequently",
+  "turkceKelime":"sık sık",
+  "okunus":"frikvıntli",
+},
+{
+  "ingilizceKelime":"fully",
+  "turkceKelime":"tamamen",
+  "okunus":"fuğli",
+},
+{
+  "ingilizceKelime":"mostly",
+  "turkceKelime":"çoğunlukla",
+  "okunus":"mostli",
+},
+{
+  "ingilizceKelime":"naturally",
+  "turkceKelime":"doğal olarak",
+  "okunus":"nağçrıli",
+},
+{
+  "ingilizceKelime":"nearly",
+  "turkceKelime":"az kalsın",
+  "okunus":"niğırli",
+},
+{
+  "ingilizceKelime":"occasionally",
+  "turkceKelime":"ara sıra",
+  "okunus":"okeğjınıli",
+},
+{
+  "ingilizceKelime":"carefully",
+  "turkceKelime":"dikkatlice",
+  "okunus":"kerıfıli",
+},
+{
+  "ingilizceKelime":"clearly",
+  "turkceKelime":"Açıkça",
+  "okunus":"kliğrli",
+},
+{
+  "ingilizceKelime":"essentially",
+  "turkceKelime":"esasen",
+  "okunus":"esençıli",
+},
+{
+  "ingilizceKelime":"possibly",
+  "turkceKelime":"muhtemelen",
+  "okunus":"pasıbli",
+},
+{
+  "ingilizceKelime":"slightly",
+  "turkceKelime":"biraz",
+  "okunus":"slaydli",
+},
+{
+  "ingilizceKelime":"somewhat",
+  "turkceKelime":"biraz",
+  "okunus":"so",
+},
+{
+  "ingilizceKelime":"equally",
+  "turkceKelime":"eşit olarak",
+  "okunus":"ikuli",
+},
+{
+  "ingilizceKelime":"greatly",
+  "turkceKelime":"büyük ölçüde",
+  "okunus":"greytli",
+},
+{
+  "ingilizceKelime":"necessarily",
+  "turkceKelime":"şart",
+  "okunus":"nesıserıli",
+},
+{
+  "ingilizceKelime":"personally",
+  "turkceKelime":"Şahsen",
+  "okunus":"pörsınıli",
+},
+{
+  "ingilizceKelime":"rarely",
+  "turkceKelime":"seyrek",
+  "okunus":"reğrli",
+},
+{
+  "ingilizceKelime":"regularly",
+  "turkceKelime":"düzenli olarak",
+  "okunus":"regilırli",
+},
+{
+  "ingilizceKelime":"similarly",
+  "turkceKelime":"benzer şekilde",
+  "okunus":"similırli",
+},
+{
+  "ingilizceKelime":"basically",
+  "turkceKelime":"temel olarak",
+  "okunus":"beyzıkli",
+},
+
+]},{ 
+"isim":"4",  
+ "data":[
+{
+  "ingilizceKelime":"closely",
+  "turkceKelime":"yakından",
+  "okunus":"kloğsli",
+},
+{
+  "ingilizceKelime":"effectively",
+  "turkceKelime":"etkili bir şekilde",
+  "okunus":"afektıvli",
+},
+{
+  "ingilizceKelime":"initially",
+  "turkceKelime":"ilk olarak",
+  "okunus":"ığnişıli",
+},
+{
+  "ingilizceKelime":"literally",
+  "turkceKelime":"kelimenin tam anlamıyla",
+  "okunus":"lidırıli",
+},
+{
+  "ingilizceKelime":"mainly",
+  "turkceKelime":"daha çok",
+  "okunus":"meynli",
+},
+{
+  "ingilizceKelime":"gently",
+  "turkceKelime":"nazikçe",
+  "okunus":"centli",
+},
+{
+  "ingilizceKelime":"hopefully",
+  "turkceKelime":"inşallah,umutla",
+  "okunus":"hoğfuli",
+},
+{
+  "ingilizceKelime":"originally",
+  "turkceKelime":"aslında",
+  "okunus":"oricınıli",
+},
+{
+  "ingilizceKelime":"roughly",
+  "turkceKelime":"kabaca",
+  "okunus":"rağfli",
+},
+{
+  "ingilizceKelime":"significantly",
+  "turkceKelime":"önemli ölçüde",
+  "okunus":"signifikıntli",
+},
+{
+  "ingilizceKelime":"totally",
+  "turkceKelime":"tamamen",
+  "okunus":"toduli",
+},
+{
+  "ingilizceKelime":"twice",
+  "turkceKelime":"iki defa",
+  "okunus":"tvays",
+},
+{
+  "ingilizceKelime":"elsewhere",
+  "turkceKelime":"başka yerde",
+  "okunus":"elsveeğr",
+},
+{
+  "ingilizceKelime":"everywhere",
+  "turkceKelime":"her yerde",
+  "okunus":"evriveeğr",
+},
+{
+  "ingilizceKelime":"obviously",
+  "turkceKelime":"açıkça",
+  "okunus":"abviısli",
+},
+{
+  "ingilizceKelime":"perfectly",
+  "turkceKelime":"mükemmel bir şekilde",
+  "okunus":"pörfektli",
+},
+{
+  "ingilizceKelime":"physically",
+  "turkceKelime":"fiziksel olarak",
+  "okunus":"fizikliğ",
+},
+{
+  "ingilizceKelime":"merely",
+  "turkceKelime":"sadece",
+  "okunus":"mirili",
+},
+{
+  "ingilizceKelime":"successfully",
+  "turkceKelime":"başarıyla",
+  "okunus":"sıksesfıli",
+},
+{
+  "ingilizceKelime":"suddenly",
+  "turkceKelime":"birden",
+  "okunus":"sadınli",
+},
+{
+  "ingilizceKelime":"truly",
+  "turkceKelime":"tamamen",
+  "okunus":"truli",
+},
+{
+  "ingilizceKelime":"virtually",
+  "turkceKelime":"sanal olarak",
+  "okunus":"vöçığli",
+},
+{
+  "ingilizceKelime":"anyway",
+  "turkceKelime":"her neyse",
+  "okunus":"enivey",
+},
+{
+  "ingilizceKelime":"automatically",
+  "turkceKelime":"otomatik olarak",
+  "okunus":"otomatıkli",
+},
+{
+  "ingilizceKelime":"deeply",
+  "turkceKelime":"derinden",
+  "okunus":"diipli",
+},
+
+]},{ 
+"isim":"5",  
+ "data":[
+{
+  "ingilizceKelime":"definitely",
+  "turkceKelime":"kesinlikle",
+  "okunus":"defınıtli",
+},
+{
+  "ingilizceKelime":"deliberately",
+  "turkceKelime":"kasten",
+  "okunus":"dılibrıtli",
+},
+{
+  "ingilizceKelime":"hardly",
+  "turkceKelime":"zorlu",
+  "okunus":"hardli",
+},
+{
+  "ingilizceKelime":"readily",
+  "turkceKelime":"kolayca",
+  "okunus":"redıli",
+},
+{
+  "ingilizceKelime":"terribly",
+  "turkceKelime":"korkunç",
+  "okunus":"teribli",
+},
+{
+  "ingilizceKelime":"unfortunately",
+  "turkceKelime":"maalesef",
+  "okunus":"anforçunutli",
+},
+{
+  "ingilizceKelime":"forth",
+  "turkceKelime":"ileri",
+  "okunus":"foğrt",
+},
+{
+  "ingilizceKelime":"briefly",
+  "turkceKelime":"kısaca",
+  "okunus":"brifliğ",
+},
+{
+  "ingilizceKelime":"moreover",
+  "turkceKelime":"dahası",
+  "okunus":"moroğvır",
+},
+{
+  "ingilizceKelime":"strongly",
+  "turkceKelime":"şiddetle",
+  "okunus":"strongli",
+},
+{
+  "ingilizceKelime":"honestly",
+  "turkceKelime":"gerçekten",
+  "okunus":"ağnıstli",
+},
+{
+  "ingilizceKelime":"previously",
+  "turkceKelime":"Önceden",
+  "okunus":"priğviyısli",
+},
+{
+  "ingilizceKelime":"as",
+  "turkceKelime":"olarak",
+  "okunus":"eğz",
+},
+{
+  "ingilizceKelime":"there",
+  "turkceKelime":"orada",
+  "okunus":"değır",
+},
+{
+  "ingilizceKelime":"when",
+  "turkceKelime":"ne zaman",
+  "okunus":"ven",
+},
+{
+  "ingilizceKelime":"how",
+  "turkceKelime":"nasıl",
+  "okunus":"hÂv",
+},
+{
+  "ingilizceKelime":"so",
+  "turkceKelime":"böyle",
+  "okunus":"so",
+},
+{
+  "ingilizceKelime":"up",
+  "turkceKelime":"yukarı",
+  "okunus":"ap",
+},
+{
+  "ingilizceKelime":"out",
+  "turkceKelime":"dışarı",
+  "okunus":"Âut",
+},
+{
+  "ingilizceKelime":"only",
+  "turkceKelime":"sadece",
+  "okunus":"onli",
+},
+{
+  "ingilizceKelime":"well",
+  "turkceKelime":"iyi",
+  "okunus":"veğl",
+},
+{
+  "ingilizceKelime":"then",
+  "turkceKelime":"sonra",
+  "okunus":"den",
+},
+{
+  "ingilizceKelime":"first",
+  "turkceKelime":"ilk",
+  "okunus":"först",
+},
+{
+  "ingilizceKelime":"where",
+  "turkceKelime":"nerede",
+  "okunus":"vÊğr",
+},
+{
+  "ingilizceKelime":"why",
+  "turkceKelime":"Niye",
+  "okunus":"vay",
+},
+
+]},{ 
+"isim":"6",  
+ "data":[
+{
+  "ingilizceKelime":"altogether",
+  "turkceKelime":"tamamen",
+  "okunus":"oltugedır",
+},
+{
+  "ingilizceKelime":"now",
+  "turkceKelime":"şimdi",
+  "okunus":"NÊÂV",
+},
+{
+  "ingilizceKelime":"exactly",
+  "turkceKelime":"kesinlikle",
+  "okunus":"igzakli",
+},
+{
+  "ingilizceKelime":"around",
+  "turkceKelime":"etrafında",
+  "okunus":"eraund",
+},
+{
+  "ingilizceKelime":"once",
+  "turkceKelime":"bir Zamanlar",
+  "okunus":"vans",
+},
+{
+  "ingilizceKelime":"down",
+  "turkceKelime":"aşağı",
+  "okunus":"dağvn",
+},
+{
+  "ingilizceKelime":"off",
+  "turkceKelime":"kapalı",
+  "okunus":"oğf",
+},
+{
+  "ingilizceKelime":"here",
+  "turkceKelime":"burada",
+  "okunus":"hiır",
+},
+{
+  "ingilizceKelime":"tonight",
+  "turkceKelime":"Bu gece",
+  "okunus":"tunayt",
+},
+{
+  "ingilizceKelime":"away",
+  "turkceKelime":"uzak",
+  "okunus":"evey",
+},
+{
+  "ingilizceKelime":"today",
+  "turkceKelime":"bugün",
+  "okunus":"tudey",
+},
+{
+  "ingilizceKelime":"far",
+  "turkceKelime":"uzak",
+  "okunus":"far",
+},
+{
+  "ingilizceKelime":"quite",
+  "turkceKelime":"epeyce",
+  "okunus":"kuayt",
+},
+{
+  "ingilizceKelime":"later",
+  "turkceKelime":"sonra",
+  "okunus":"leydır",
+},
+{
+  "ingilizceKelime":"above",
+  "turkceKelime":"üstünde",
+  "okunus":"aboğv",
+},
+{
+  "ingilizceKelime":"yet",
+  "turkceKelime":"henüz",
+  "okunus":"yet",
+},
+{
+  "ingilizceKelime":"maybe",
+  "turkceKelime":"belki",
+  "okunus":"meybi",
+},
+{
+  "ingilizceKelime":"otherwise",
+  "turkceKelime":"aksi halde",
+  "okunus":"adırvayz",
+},
+{
+  "ingilizceKelime":"near",
+  "turkceKelime":"yakın",
+  "okunus":"niır",
+},
+{
+  "ingilizceKelime":"forward",
+  "turkceKelime":"ileri",
+  "okunus":"forvır",
+},
+{
+  "ingilizceKelime":"somewhere",
+  "turkceKelime":"bir yerde",
+  "okunus":"samveeğr",
+},
+{
+  "ingilizceKelime":"anywhere",
+  "turkceKelime":"herhangi bir yer",
+  "okunus":"eniveeğr",
+},
+{
+  "ingilizceKelime":"please",
+  "turkceKelime":"lütfen",
+  "okunus":"pliğz",
+},
+{
+  "ingilizceKelime":"forever",
+  "turkceKelime":"sonsuza dek",
+  "okunus":"forevır",
+},
+{
+  "ingilizceKelime":"somehow",
+  "turkceKelime":"bir şekilde",
+  "okunus":"samhağv",
+},
+
+]},{ 
+"isim":"7",  
+ "data":[
+{
+  "ingilizceKelime":"absolutely",
+  "turkceKelime":"kesinlikle",
+  "okunus":"ebsulutli",
+},
+{
+  "ingilizceKelime":"abroad",
+  "turkceKelime":"yurt dışı",
+  "okunus":"ebroğvd",
+},
+{
+  "ingilizceKelime":"nowhere",
+  "turkceKelime":"Hiçbir yerde",
+  "okunus":"noveeğr",
+},
+{
+  "ingilizceKelime":"tomorrow",
+  "turkceKelime":"yarın",
+  "okunus":"tumoğrov",
+},
+{
+  "ingilizceKelime":"yesterday",
+  "turkceKelime":"dün",
+  "okunus":"yestırdey",
+},
+{
+  "ingilizceKelime":"clean",
+  "turkceKelime":"iyice",
+  "okunus":"kliğn",
+},
+{
+  "ingilizceKelime":"fresh",
+  "turkceKelime":"taptaze",
+  "okunus":"freğş",
+},
+{
+  "ingilizceKelime":"clear",
+  "turkceKelime":"açıkça",
+  "okunus":"kliğı",
+},
+{
+  "ingilizceKelime":"easy",
+  "turkceKelime":"kolay",
+  "okunus":"iğzi",
+},
+{
+  "ingilizceKelime":"full",
+  "turkceKelime":"tam dolu",
+  "okunus":"full",
+},
+{
+  "ingilizceKelime":"close",
+  "turkceKelime":"kapat",
+  "okunus":"kloğz",
+},
+{
+  "ingilizceKelime":"proper",
+  "turkceKelime":"uygun",
+  "okunus":"prapır",
+},
+{
+  "ingilizceKelime":"fast",
+  "turkceKelime":"hızlı",
+  "okunus":"feğst",
+},
+{
+  "ingilizceKelime":"wide",
+  "turkceKelime":"ardına kadar",
+  "okunus":"vayd",
+},
+{
+  "ingilizceKelime":"straight",
+  "turkceKelime":"dümdüz",
+  "okunus":"streyt",
+},
+{
+  "ingilizceKelime":"direct",
+  "turkceKelime":"doğrudan",
+  "okunus":"dayrekt",
+},
+{
+  "ingilizceKelime":"extra",
+  "turkceKelime":"ekstra",
+  "okunus":"ekstra",
+},
+{
+  "ingilizceKelime":"wild",
+  "turkceKelime":"vahşice",
+  "okunus":"vayld",
+},
+{
+  "ingilizceKelime":"apart",
+  "turkceKelime":"ayrı",
+  "okunus":"epart",
+},
+{
+  "ingilizceKelime":"false",
+  "turkceKelime":"yalandan",
+  "okunus":"foğls",
+},
+{
+  "ingilizceKelime":"loud",
+  "turkceKelime":"yüksek sesle",
+  "okunus":"lağvd",
+},
+{
+  "ingilizceKelime":"super",
+  "turkceKelime":"Süper",
+  "okunus":"süpır",
+},
+{
+  "ingilizceKelime":"tight",
+  "turkceKelime":"sıkı",
+  "okunus":"tayt",
+},
+{
+  "ingilizceKelime":"aside",
+  "turkceKelime":"kenara",
+  "okunus":"esayd",
+},
+{
+  "ingilizceKelime":"badly",
+  "turkceKelime":"kötü",
+  "okunus":"bedliğ",
+},
+
+]},
+];

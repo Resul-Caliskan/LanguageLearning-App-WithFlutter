@@ -1,0 +1,4905 @@
+List<Map> fiiller =[
+  { 
+"isim":"1",  
+ "data":[
+{
+  "ingilizceKelime":"be",
+  "turkceKelime":"olmak",
+  "okunus":"biğ",
+},
+{
+  "ingilizceKelime":"have",
+  "turkceKelime":"Sahip olmak",
+  "okunus":"hev",
+},
+{
+  "ingilizceKelime":"do",
+  "turkceKelime":"yapmak",
+  "okunus":"du",
+},
+{
+  "ingilizceKelime":"would",
+  "turkceKelime":"istemek",
+  "okunus":"vuld",
+},
+{
+  "ingilizceKelime":"will",
+  "turkceKelime":"niyet",
+  "okunus":"vil",
+},
+{
+  "ingilizceKelime":"can",
+  "turkceKelime":"Yapabilmek",
+  "okunus":"ken",
+},
+{
+  "ingilizceKelime":"know",
+  "turkceKelime":"bilmek",
+  "okunus":"nov",
+},
+{
+  "ingilizceKelime":"see",
+  "turkceKelime":"görmek",
+  "okunus":"sii",
+},
+{
+  "ingilizceKelime":"may",
+  "turkceKelime":"mümkün olmak",
+  "okunus":"mey",
+},
+{
+  "ingilizceKelime":"should",
+  "turkceKelime":"meli",
+  "okunus":"şuld",
+},
+{
+  "ingilizceKelime":"get",
+  "turkceKelime":"almak",
+  "okunus":"get",
+},
+{
+  "ingilizceKelime":"think",
+  "turkceKelime":"düşünmek",
+  "okunus":"tink",
+},
+{
+  "ingilizceKelime":"go",
+  "turkceKelime":"Git",
+  "okunus":"go",
+},
+{
+  "ingilizceKelime":"make",
+  "turkceKelime":"Yapmak",
+  "okunus":"meyk",
+},
+{
+  "ingilizceKelime":"must",
+  "turkceKelime":"zorunlu",
+  "okunus":"mast",
+},
+{
+  "ingilizceKelime":"come",
+  "turkceKelime":"gelmek",
+  "okunus":"kam",
+},
+{
+  "ingilizceKelime":"say",
+  "turkceKelime":"söylemek",
+  "okunus":"sey",
+},
+{
+  "ingilizceKelime":"put",
+  "turkceKelime":"koy",
+  "okunus":"put",
+},
+{
+  "ingilizceKelime":"want",
+  "turkceKelime":"istek",
+  "okunus":"vant",
+},
+{
+  "ingilizceKelime":"give",
+  "turkceKelime":"vermek",
+  "okunus":"giv",
+},
+{
+  "ingilizceKelime":"look",
+  "turkceKelime":"bakmak",
+  "okunus":"luk",
+},
+{
+  "ingilizceKelime":"find",
+  "turkceKelime":"bulmak",
+  "okunus":"faynd",
+},
+{
+  "ingilizceKelime":"need",
+  "turkceKelime":"gerekmek",
+  "okunus":"niid",
+},
+{
+  "ingilizceKelime":"like",
+  "turkceKelime":"beğenmek",
+  "okunus":"layk",
+},
+{
+  "ingilizceKelime":"use",
+  "turkceKelime":"kullanmak",
+  "okunus":"yuğz",
+},
+
+]},{ 
+"isim":"2",  
+ "data":[
+{
+  "ingilizceKelime":"set",
+  "turkceKelime":"Ayarlamak",
+  "okunus":"set",
+},
+{
+  "ingilizceKelime":"take",
+  "turkceKelime":"almak",
+  "okunus":"teyk",
+},
+{
+  "ingilizceKelime":"become",
+  "turkceKelime":"olmak",
+  "okunus":"bikam",
+},
+{
+  "ingilizceKelime":"tell",
+  "turkceKelime":"söylemek",
+  "okunus":"tel",
+},
+{
+  "ingilizceKelime":"keep",
+  "turkceKelime":"Tut",
+  "okunus":"kiip",
+},
+{
+  "ingilizceKelime":"help",
+  "turkceKelime":"Yardım Edin",
+  "okunus":"help",
+},
+{
+  "ingilizceKelime":"work",
+  "turkceKelime":"çalışmak",
+  "okunus":"vork",
+},
+{
+  "ingilizceKelime":"let",
+  "turkceKelime":"İzin Vermek",
+  "okunus":"let",
+},
+{
+  "ingilizceKelime":"feel",
+  "turkceKelime":"hissetmek",
+  "okunus":"fiğl",
+},
+{
+  "ingilizceKelime":"provide",
+  "turkceKelime":"sağlamak",
+  "okunus":"provayd",
+},
+{
+  "ingilizceKelime":"believe",
+  "turkceKelime":"inanmak",
+  "okunus":"bıliv",
+},
+{
+  "ingilizceKelime":"try",
+  "turkceKelime":"denemek",
+  "okunus":"tray",
+},
+{
+  "ingilizceKelime":"shall",
+  "turkceKelime":"acak",
+  "okunus":"şel",
+},
+{
+  "ingilizceKelime":"ask",
+  "turkceKelime":"sormak",
+  "okunus":"esk",
+},
+{
+  "ingilizceKelime":"remember",
+  "turkceKelime":"hatırlamak",
+  "okunus":"rimembır",
+},
+{
+  "ingilizceKelime":"leave",
+  "turkceKelime":"ayrılmak",
+  "okunus":"liğv",
+},
+{
+  "ingilizceKelime":"show",
+  "turkceKelime":"göstermek",
+  "okunus":"şov",
+},
+{
+  "ingilizceKelime":"pay",
+  "turkceKelime":"ödemek",
+  "okunus":"pey",
+},
+{
+  "ingilizceKelime":"run",
+  "turkceKelime":"koşmak",
+  "okunus":"ran",
+},
+{
+  "ingilizceKelime":"read",
+  "turkceKelime":"okumak",
+  "okunus":"riğd",
+},
+{
+  "ingilizceKelime":"seem",
+  "turkceKelime":"gözükmek",
+  "okunus":"siim",
+},
+{
+  "ingilizceKelime":"include",
+  "turkceKelime":"Dahil etmek",
+  "okunus":"inkluğd",
+},
+{
+  "ingilizceKelime":"bring",
+  "turkceKelime":"getirmek",
+  "okunus":"bring",
+},
+{
+  "ingilizceKelime":"understand",
+  "turkceKelime":"anlamak",
+  "okunus":"andırstend",
+},
+{
+  "ingilizceKelime":"start",
+  "turkceKelime":"Başlamak",
+  "okunus":"start",
+},
+
+]},{ 
+"isim":"3",  
+ "data":[
+{
+  "ingilizceKelime":"play",
+  "turkceKelime":"Oynamak",
+  "okunus":"pley",
+},
+{
+  "ingilizceKelime":"cut",
+  "turkceKelime":"kesmek",
+  "okunus":"kat",
+},
+{
+  "ingilizceKelime":"live",
+  "turkceKelime":"yaşamak",
+  "okunus":"liv",
+},
+{
+  "ingilizceKelime":"meet",
+  "turkceKelime":"tanışmak",
+  "okunus":"miit",
+},
+{
+  "ingilizceKelime":"move",
+  "turkceKelime":"hareket",
+  "okunus":"muv",
+},
+{
+  "ingilizceKelime":"hear",
+  "turkceKelime":"duymak",
+  "okunus":"hiır",
+},
+{
+  "ingilizceKelime":"call",
+  "turkceKelime":"aramak",
+  "okunus":"koğl",
+},
+{
+  "ingilizceKelime":"stop",
+  "turkceKelime":"Durmak",
+  "okunus":"stap",
+},
+{
+  "ingilizceKelime":"turn",
+  "turkceKelime":"dönüş",
+  "okunus":"törn",
+},
+{
+  "ingilizceKelime":"talk",
+  "turkceKelime":"konuşmak",
+  "okunus":"toğk",
+},
+{
+  "ingilizceKelime":"buy",
+  "turkceKelime":"satın almak",
+  "okunus":"bay",
+},
+{
+  "ingilizceKelime":"thank",
+  "turkceKelime":"teşekkür",
+  "okunus":"tenk",
+},
+{
+  "ingilizceKelime":"change",
+  "turkceKelime":"değiştirmek",
+  "okunus":"çeync",
+},
+{
+  "ingilizceKelime":"continue",
+  "turkceKelime":"devam et",
+  "okunus":"kıntinyu",
+},
+{
+  "ingilizceKelime":"consider",
+  "turkceKelime":"düşünmek",
+  "okunus":"kansidır",
+},
+{
+  "ingilizceKelime":"allow",
+  "turkceKelime":"izin vermek",
+  "okunus":"elov",
+},
+{
+  "ingilizceKelime":"hope",
+  "turkceKelime":"Ümit etmek",
+  "okunus":"hop",
+},
+{
+  "ingilizceKelime":"produce",
+  "turkceKelime":"üretmek",
+  "okunus":"prodüğus",
+},
+{
+  "ingilizceKelime":"stay",
+  "turkceKelime":"kalmak",
+  "okunus":"stey",
+},
+{
+  "ingilizceKelime":"appear",
+  "turkceKelime":"belli olmak",
+  "okunus":"epiır",
+},
+{
+  "ingilizceKelime":"write",
+  "turkceKelime":"yazmak",
+  "okunus":"rayt",
+},
+{
+  "ingilizceKelime":"hold",
+  "turkceKelime":"tutmak",
+  "okunus":"hold",
+},
+{
+  "ingilizceKelime":"expect",
+  "turkceKelime":"beklemek",
+  "okunus":"ekspekt",
+},
+{
+  "ingilizceKelime":"ensure",
+  "turkceKelime":"emin olmak",
+  "okunus":"enşuğr",
+},
+{
+  "ingilizceKelime":"suppose",
+  "turkceKelime":"sanmak",
+  "okunus":"supoğz",
+},
+
+]},{ 
+"isim":"4",  
+ "data":[
+{
+  "ingilizceKelime":"wish",
+  "turkceKelime":"dilemek",
+  "okunus":"viş",
+},
+{
+  "ingilizceKelime":"carry",
+  "turkceKelime":"taşımak",
+  "okunus":"keğry",
+},
+{
+  "ingilizceKelime":"follow",
+  "turkceKelime":"takip et",
+  "okunus":"folov",
+},
+{
+  "ingilizceKelime":"offer",
+  "turkceKelime":"teklif etmek",
+  "okunus":"ofır",
+},
+{
+  "ingilizceKelime":"support",
+  "turkceKelime":"destek olmak",
+  "okunus":"sıport",
+},
+{
+  "ingilizceKelime":"accept",
+  "turkceKelime":"kabul etmek",
+  "okunus":"eksept",
+},
+{
+  "ingilizceKelime":"speak",
+  "turkceKelime":"konuşmak",
+  "okunus":"spik",
+},
+{
+  "ingilizceKelime":"lead",
+  "turkceKelime":"öncülük etmek",
+  "okunus":"liğd",
+},
+{
+  "ingilizceKelime":"remain",
+  "turkceKelime":"kalmak",
+  "okunus":"rımeyn",
+},
+{
+  "ingilizceKelime":"stand",
+  "turkceKelime":"durmak",
+  "okunus":"stend",
+},
+{
+  "ingilizceKelime":"suggest",
+  "turkceKelime":"önermek",
+  "okunus":"sacest",
+},
+{
+  "ingilizceKelime":"hit",
+  "turkceKelime":"vurmak",
+  "okunus":"hit",
+},
+{
+  "ingilizceKelime":"develop",
+  "turkceKelime":"geliştirmek",
+  "okunus":"divelop",
+},
+{
+  "ingilizceKelime":"happen",
+  "turkceKelime":"olmak",
+  "okunus":"hepın",
+},
+{
+  "ingilizceKelime":"sit",
+  "turkceKelime":"oturmak",
+  "okunus":"sit",
+},
+{
+  "ingilizceKelime":"win",
+  "turkceKelime":"kazanç",
+  "okunus":"vin",
+},
+{
+  "ingilizceKelime":"love",
+  "turkceKelime":"sevmek",
+  "okunus":"lav",
+},
+{
+  "ingilizceKelime":"add",
+  "turkceKelime":"Eklemek",
+  "okunus":"ed",
+},
+{
+  "ingilizceKelime":"learn",
+  "turkceKelime":"öğrenmek",
+  "okunus":"lörn",
+},
+{
+  "ingilizceKelime":"create",
+  "turkceKelime":"oluşturmak",
+  "okunus":"kreyt",
+},
+{
+  "ingilizceKelime":"let's",
+  "turkceKelime":"Haydi",
+  "okunus":"lets",
+},
+{
+  "ingilizceKelime":"agree",
+  "turkceKelime":"Katılmak",
+  "okunus":"agriiğ",
+},
+{
+  "ingilizceKelime":"apply",
+  "turkceKelime":"uygulamak",
+  "okunus":"eplay",
+},
+{
+  "ingilizceKelime":"wait",
+  "turkceKelime":"beklemek",
+  "okunus":"veyt",
+},
+{
+  "ingilizceKelime":"avoid",
+  "turkceKelime":"kaçınmak",
+  "okunus":"evoyt",
+},
+
+]},{ 
+"isim":"5",  
+ "data":[
+{
+  "ingilizceKelime":"send",
+  "turkceKelime":"göndermek",
+  "okunus":"sent",
+},
+{
+  "ingilizceKelime":"explain",
+  "turkceKelime":"açıklamak",
+  "okunus":"ikspleyn",
+},
+{
+  "ingilizceKelime":"return",
+  "turkceKelime":"dönüş",
+  "okunus":"ritörn",
+},
+{
+  "ingilizceKelime":"sell",
+  "turkceKelime":"satmak",
+  "okunus":"sel",
+},
+{
+  "ingilizceKelime":"receive",
+  "turkceKelime":"almak",
+  "okunus":"rısiıv",
+},
+{
+  "ingilizceKelime":"open",
+  "turkceKelime":"açmak",
+  "okunus":"opın",
+},
+{
+  "ingilizceKelime":"begin",
+  "turkceKelime":"başlamak",
+  "okunus":"bıgin",
+},
+{
+  "ingilizceKelime":"eat",
+  "turkceKelime":"yemek",
+  "okunus":"iğt",
+},
+{
+  "ingilizceKelime":"increase",
+  "turkceKelime":"arttırmak",
+  "okunus":"inkriıs",
+},
+{
+  "ingilizceKelime":"voice",
+  "turkceKelime":"söylemek",
+  "okunus":"voys",
+},
+{
+  "ingilizceKelime":"spend",
+  "turkceKelime":"harcamak",
+  "okunus":"spend",
+},
+{
+  "ingilizceKelime":"join",
+  "turkceKelime":"katılmak",
+  "okunus":"join",
+},
+{
+  "ingilizceKelime":"reduce",
+  "turkceKelime":"azaltmak",
+  "okunus":"riduus",
+},
+{
+  "ingilizceKelime":"save",
+  "turkceKelime":"kaydetmek",
+  "okunus":"seyv",
+},
+{
+  "ingilizceKelime":"require",
+  "turkceKelime":"gerekmek",
+  "okunus":"rikuayır",
+},
+{
+  "ingilizceKelime":"fall",
+  "turkceKelime":"düşmek",
+  "okunus":"fal",
+},
+{
+  "ingilizceKelime":"mind",
+  "turkceKelime":"düşünmek",
+  "okunus":"maynd",
+},
+{
+  "ingilizceKelime":"build",
+  "turkceKelime":"inşa etmek",
+  "okunus":"biıld",
+},
+{
+  "ingilizceKelime":"achieve",
+  "turkceKelime":"başarmak",
+  "okunus":"eçiv",
+},
+{
+  "ingilizceKelime":"choose",
+  "turkceKelime":"Seçmek",
+  "okunus":"çuuğs",
+},
+{
+  "ingilizceKelime":"prevent",
+  "turkceKelime":"engel olmak",
+  "okunus":"pırvent",
+},
+{
+  "ingilizceKelime":"reach",
+  "turkceKelime":"ulaşmak",
+  "okunus":"riğç",
+},
+{
+  "ingilizceKelime":"decide",
+  "turkceKelime":"karar vermek",
+  "okunus":"disayd",
+},
+{
+  "ingilizceKelime":"deal",
+  "turkceKelime":"anlaşmak",
+  "okunus":"diıl",
+},
+{
+  "ingilizceKelime":"face",
+  "turkceKelime":"yüzleşmek",
+  "okunus":"feys",
+},
+
+]},{ 
+"isim":"6",  
+ "data":[
+{
+  "ingilizceKelime":"enjoy",
+  "turkceKelime":"eğlence",
+  "okunus":"incoy",
+},
+{
+  "ingilizceKelime":"watch",
+  "turkceKelime":"izlemek",
+  "okunus":"voğç",
+},
+{
+  "ingilizceKelime":"lose",
+  "turkceKelime":"kaybetmek",
+  "okunus":"luz",
+},
+{
+  "ingilizceKelime":"walk",
+  "turkceKelime":"yürümek",
+  "okunus":"volk",
+},
+{
+  "ingilizceKelime":"cover",
+  "turkceKelime":"örtmek",
+  "okunus":"kavır",
+},
+{
+  "ingilizceKelime":"improve",
+  "turkceKelime":"geliştirmek",
+  "okunus":"impruv",
+},
+{
+  "ingilizceKelime":"tend",
+  "turkceKelime":"Bakmak,yatkın olmak",
+  "okunus":"tend",
+},
+{
+  "ingilizceKelime":"raise",
+  "turkceKelime":"artırmak",
+  "okunus":"reyz",
+},
+{
+  "ingilizceKelime":"draw",
+  "turkceKelime":"çizmek",
+  "okunus":"drov",
+},
+{
+  "ingilizceKelime":"forget",
+  "turkceKelime":"unutmak",
+  "okunus":"forget",
+},
+{
+  "ingilizceKelime":"imagine",
+  "turkceKelime":"hayal etmek",
+  "okunus":"ımacın",
+},
+{
+  "ingilizceKelime":"act",
+  "turkceKelime":"davranmak",
+  "okunus":"ekt",
+},
+{
+  "ingilizceKelime":"pick",
+  "turkceKelime":"seçmek",
+  "okunus":"pik",
+},
+{
+  "ingilizceKelime":"cause",
+  "turkceKelime":"neden olmak",
+  "okunus":"kağğz",
+},
+{
+  "ingilizceKelime":"cost",
+  "turkceKelime":"mal olmak",
+  "okunus":"kost",
+},
+{
+  "ingilizceKelime":"pass",
+  "turkceKelime":"geçmek",
+  "okunus":"pes",
+},
+{
+  "ingilizceKelime":"break",
+  "turkceKelime":"kırmak",
+  "okunus":"breyk",
+},
+{
+  "ingilizceKelime":"prove",
+  "turkceKelime":"kanıtlamak",
+  "okunus":"pruv",
+},
+{
+  "ingilizceKelime":"occur",
+  "turkceKelime":"meydana gelmek",
+  "okunus":"okör",
+},
+{
+  "ingilizceKelime":"discuss",
+  "turkceKelime":"tartışmak",
+  "okunus":"diskaz",
+},
+{
+  "ingilizceKelime":"listen",
+  "turkceKelime":"dinlemek",
+  "okunus":"lisın",
+},
+{
+  "ingilizceKelime":"maintain",
+  "turkceKelime":"sürdürmek",
+  "okunus":"meynteyn",
+},
+{
+  "ingilizceKelime":"end",
+  "turkceKelime":"son bulmak",
+  "okunus":"end",
+},
+{
+  "ingilizceKelime":"exist",
+  "turkceKelime":"var olmak",
+  "okunus":"ekzist",
+},
+{
+  "ingilizceKelime":"seek",
+  "turkceKelime":"aramak",
+  "okunus":"siik",
+},
+
+]},{ 
+"isim":"7",  
+ "data":[
+{
+  "ingilizceKelime":"grow",
+  "turkceKelime":"büyümek",
+  "okunus":"grov",
+},
+{
+  "ingilizceKelime":"check",
+  "turkceKelime":"Kontrol etmek",
+  "okunus":"çek",
+},
+{
+  "ingilizceKelime":"serve",
+  "turkceKelime":"servis yapmak",
+  "okunus":"sörv",
+},
+{
+  "ingilizceKelime":"share",
+  "turkceKelime":"Paylaşmak",
+  "okunus":"şeır",
+},
+{
+  "ingilizceKelime":"establish",
+  "turkceKelime":"kurmak",
+  "okunus":"establış",
+},
+{
+  "ingilizceKelime":"enter",
+  "turkceKelime":"girmek",
+  "okunus":"entır",
+},
+{
+  "ingilizceKelime":"control",
+  "turkceKelime":"kontrol etmek",
+  "okunus":"kıntrol",
+},
+{
+  "ingilizceKelime":"die",
+  "turkceKelime":"ölmek",
+  "okunus":"day",
+},
+{
+  "ingilizceKelime":"encourage",
+  "turkceKelime":"cesaretlendirmek",
+  "okunus":"inkarıc",
+},
+{
+  "ingilizceKelime":"answer",
+  "turkceKelime":"Cevap vermek",
+  "okunus":"ensvır",
+},
+{
+  "ingilizceKelime":"protect",
+  "turkceKelime":"korumak",
+  "okunus":"protekt",
+},
+{
+  "ingilizceKelime":"identify",
+  "turkceKelime":"tanımlamak",
+  "okunus":"aydenifay",
+},
+{
+  "ingilizceKelime":"visit",
+  "turkceKelime":"ziyaret etmek",
+  "okunus":"vizit",
+},
+{
+  "ingilizceKelime":"care",
+  "turkceKelime":"bakım yapmak",
+  "okunus":"keyr",
+},
+{
+  "ingilizceKelime":"enable",
+  "turkceKelime":"etkinleştirme",
+  "okunus":"ineybıl",
+},
+{
+  "ingilizceKelime":"affect",
+  "turkceKelime":"etkilemek",
+  "okunus":"efekt",
+},
+{
+  "ingilizceKelime":"claim",
+  "turkceKelime":"iddia etmek",
+  "okunus":"kleym",
+},
+{
+  "ingilizceKelime":"note",
+  "turkceKelime":"Not almak",
+  "okunus":"noğt",
+},
+{
+  "ingilizceKelime":"obtain",
+  "turkceKelime":"elde etmek",
+  "okunus":"obteyn",
+},
+{
+  "ingilizceKelime":"represent",
+  "turkceKelime":"temsil etmek",
+  "okunus":"reprızent",
+},
+{
+  "ingilizceKelime":"contain",
+  "turkceKelime":"içermek",
+  "okunus":"konteyn",
+},
+{
+  "ingilizceKelime":"beat",
+  "turkceKelime":"vurmak",
+  "okunus":"biğt",
+},
+{
+  "ingilizceKelime":"spread",
+  "turkceKelime":"yayılmış",
+  "okunus":"spred",
+},
+{
+  "ingilizceKelime":"worry",
+  "turkceKelime":"endişe etmek",
+  "okunus":"voğri",
+},
+{
+  "ingilizceKelime":"shut",
+  "turkceKelime":"kapamak",
+  "okunus":"şad",
+},
+
+]},{ 
+"isim":"8",  
+ "data":[
+{
+  "ingilizceKelime":"wonder",
+  "turkceKelime":"merak etmek",
+  "okunus":"vandır",
+},
+{
+  "ingilizceKelime":"afford",
+  "turkceKelime":"parası yetmek",
+  "okunus":"eford",
+},
+{
+  "ingilizceKelime":"fit",
+  "turkceKelime":"uymak",
+  "okunus":"fit",
+},
+{
+  "ingilizceKelime":"kill",
+  "turkceKelime":"öldürmek",
+  "okunus":"kiğıl",
+},
+{
+  "ingilizceKelime":"regard",
+  "turkceKelime":"saymak,göz önüne almak",
+  "okunus":"rigard",
+},
+{
+  "ingilizceKelime":"describe",
+  "turkceKelime":"betimlemek,tanımlamak",
+  "okunus":"diskrayb",
+},
+{
+  "ingilizceKelime":"place",
+  "turkceKelime":"yerleştirmek",
+  "okunus":"pleys",
+},
+{
+  "ingilizceKelime":"drive",
+  "turkceKelime":"sürmek",
+  "okunus":"drayv",
+},
+{
+  "ingilizceKelime":"wear",
+  "turkceKelime":"giymek",
+  "okunus":"viır",
+},
+{
+  "ingilizceKelime":"argue",
+  "turkceKelime":"tartışmak",
+  "okunus":"argyu",
+},
+{
+  "ingilizceKelime":"involve",
+  "turkceKelime":"içermek",
+  "okunus":"invalv",
+},
+{
+  "ingilizceKelime":"lie",
+  "turkceKelime":"Yalan söylemek",
+  "okunus":"lay",
+},
+{
+  "ingilizceKelime":"contact",
+  "turkceKelime":"İletişim kurmak",
+  "okunus":"kontakt",
+},
+{
+  "ingilizceKelime":"catch",
+  "turkceKelime":"tutmak",
+  "okunus":"keğç",
+},
+{
+  "ingilizceKelime":"assume",
+  "turkceKelime":"farz etmek",
+  "okunus":"esüym",
+},
+{
+  "ingilizceKelime":"indicate",
+  "turkceKelime":"belirtmek",
+  "okunus":"indıkeyt",
+},
+{
+  "ingilizceKelime":"operate",
+  "turkceKelime":"işletmek",
+  "okunus":"opıreyt",
+},
+{
+  "ingilizceKelime":"manage",
+  "turkceKelime":"üstesinden gelmek",
+  "okunus":"menıc",
+},
+{
+  "ingilizceKelime":"cope",
+  "turkceKelime":"başa çıkmak",
+  "okunus":"koğp",
+},
+{
+  "ingilizceKelime":"remove",
+  "turkceKelime":"kaldırmak",
+  "okunus":"rimuuv",
+},
+{
+  "ingilizceKelime":"determine",
+  "turkceKelime":"belirlemek",
+  "okunus":"dıtörmın",
+},
+{
+  "ingilizceKelime":"fight",
+  "turkceKelime":"kavga etmek",
+  "okunus":"fayt",
+},
+{
+  "ingilizceKelime":"pull",
+  "turkceKelime":"çekmek",
+  "okunus":"pul",
+},
+{
+  "ingilizceKelime":"realise",
+  "turkceKelime":"fark etmek",
+  "okunus":"riılayz",
+},
+{
+  "ingilizceKelime":"reflect",
+  "turkceKelime":"yansıtmak",
+  "okunus":"rıflekt",
+},
+
+]},{ 
+"isim":"9",  
+ "data":[
+{
+  "ingilizceKelime":"fill",
+  "turkceKelime":"doldurmak",
+  "okunus":"fiğl",
+},
+{
+  "ingilizceKelime":"refer",
+  "turkceKelime":"bahsetmek",
+  "okunus":"rifır",
+},
+{
+  "ingilizceKelime":"gain",
+  "turkceKelime":"kazanmak",
+  "okunus":"geyn",
+},
+{
+  "ingilizceKelime":"examine",
+  "turkceKelime":"muayene etmek,incelemek",
+  "okunus":"igzemın",
+},
+{
+  "ingilizceKelime":"prefer",
+  "turkceKelime":"tercih etmek",
+  "okunus":"pırfeğr",
+},
+{
+  "ingilizceKelime":"travel",
+  "turkceKelime":"seyahat etmek",
+  "okunus":"trevıl",
+},
+{
+  "ingilizceKelime":"admit",
+  "turkceKelime":"Kabul etmek",
+  "okunus":"dmit",
+},
+{
+  "ingilizceKelime":"recognise",
+  "turkceKelime":"tanımak",
+  "okunus":"rekıgnayz",
+},
+{
+  "ingilizceKelime":"attend",
+  "turkceKelime":"katılmak",
+  "okunus":"etend",
+},
+{
+  "ingilizceKelime":"hurt",
+  "turkceKelime":"acıtmak",
+  "okunus":"hört",
+},
+{
+  "ingilizceKelime":"respond",
+  "turkceKelime":"cevap vermek",
+  "okunus":"rispond",
+},
+{
+  "ingilizceKelime":"sleep",
+  "turkceKelime":"uyumak",
+  "okunus":"slip",
+},
+{
+  "ingilizceKelime":"introduce",
+  "turkceKelime":"takdim etmek",
+  "okunus":"introdüus",
+},
+{
+  "ingilizceKelime":"depend",
+  "turkceKelime":"bağlı olmak",
+  "okunus":"dipend",
+},
+{
+  "ingilizceKelime":"survive",
+  "turkceKelime":"hayatta kalmak",
+  "okunus":"sörvayv",
+},
+{
+  "ingilizceKelime":"suffer",
+  "turkceKelime":"acı çekmek",
+  "okunus":"safır",
+},
+{
+  "ingilizceKelime":"notice",
+  "turkceKelime":"fark etme",
+  "okunus":"nodıs",
+},
+{
+  "ingilizceKelime":"close",
+  "turkceKelime":"kapatmak",
+  "okunus":"klos",
+},
+{
+  "ingilizceKelime":"result",
+  "turkceKelime":"sonucu olmak",
+  "okunus":"rizalt",
+},
+{
+  "ingilizceKelime":"replace",
+  "turkceKelime":"yer değiştirmek",
+  "okunus":"repleys",
+},
+{
+  "ingilizceKelime":"complete",
+  "turkceKelime":"tamamlamak",
+  "okunus":"komplit",
+},
+{
+  "ingilizceKelime":"miss",
+  "turkceKelime":"Özlemek",
+  "okunus":"mis",
+},
+{
+  "ingilizceKelime":"rise",
+  "turkceKelime":"yükselmek",
+  "okunus":"rayz",
+},
+{
+  "ingilizceKelime":"present",
+  "turkceKelime":"Sunmak",
+  "okunus":"prezınt",
+},
+{
+  "ingilizceKelime":"arise",
+  "turkceKelime":"ortaya çıkmak",
+  "okunus":"erayz",
+},
+
+]},{ 
+"isim":"10",  
+ "data":[
+{
+  "ingilizceKelime":"point",
+  "turkceKelime":"işaret etmek",
+  "okunus":"point",
+},
+{
+  "ingilizceKelime":"fail",
+  "turkceKelime":"başarısız olmak",
+  "okunus":"feyl",
+},
+{
+  "ingilizceKelime":"promote",
+  "turkceKelime":"terfi etmek",
+  "okunus":"pırmout",
+},
+{
+  "ingilizceKelime":"perform",
+  "turkceKelime":"rol yapmak",
+  "okunus":"pırform",
+},
+{
+  "ingilizceKelime":"discover",
+  "turkceKelime":"keşfetmek",
+  "okunus":"diskavır",
+},
+{
+  "ingilizceKelime":"express",
+  "turkceKelime":"ifade etmek",
+  "okunus":"ikspres",
+},
+{
+  "ingilizceKelime":"extend",
+  "turkceKelime":"uzatmak",
+  "okunus":"ekstend",
+},
+{
+  "ingilizceKelime":"drink",
+  "turkceKelime":"İçmek",
+  "okunus":"drink",
+},
+{
+  "ingilizceKelime":"mention",
+  "turkceKelime":"bahsetmek",
+  "okunus":"menşın",
+},
+{
+  "ingilizceKelime":"vary",
+  "turkceKelime":"çeşitlemek,değiştirmek",
+  "okunus":"very",
+},
+{
+  "ingilizceKelime":"concentrate",
+  "turkceKelime":"yoğunlaşmak",
+  "okunus":"kansıntri",
+},
+{
+  "ingilizceKelime":"benefit",
+  "turkceKelime":"yaralanmak,faydası dokunmak",
+  "okunus":"benefit",
+},
+{
+  "ingilizceKelime":"treat",
+  "turkceKelime":"davranmak",
+  "okunus":"tıreyt",
+},
+{
+  "ingilizceKelime":"hang",
+  "turkceKelime":"asmak",
+  "okunus":"heng",
+},
+{
+  "ingilizceKelime":"throw",
+  "turkceKelime":"atmak",
+  "okunus":"trov",
+},
+{
+  "ingilizceKelime":"prepare",
+  "turkceKelime":"HAZIRLAMA",
+  "okunus":"pırpeyr",
+},
+{
+  "ingilizceKelime":"drop",
+  "turkceKelime":"düşürmek",
+  "okunus":"drap",
+},
+{
+  "ingilizceKelime":"study",
+  "turkceKelime":"ders çalışma",
+  "okunus":"stadi",
+},
+{
+  "ingilizceKelime":"push",
+  "turkceKelime":"itmek",
+  "okunus":"puş",
+},
+{
+  "ingilizceKelime":"press",
+  "turkceKelime":"basmak",
+  "okunus":"pres",
+},
+{
+  "ingilizceKelime":"report",
+  "turkceKelime":"bildirmek",
+  "okunus":"report",
+},
+{
+  "ingilizceKelime":"cast",
+  "turkceKelime":"rol vermek,biçim vermek",
+  "okunus":"kest",
+},
+{
+  "ingilizceKelime":"arrive",
+  "turkceKelime":"varmak",
+  "okunus":"erayv",
+},
+{
+  "ingilizceKelime":"sound",
+  "turkceKelime":"ses çıkartmak",
+  "okunus":"saund",
+},
+{
+  "ingilizceKelime":"finish",
+  "turkceKelime":"bitirmek",
+  "okunus":"finiş",
+},
+
+]},{ 
+"isim":"11",  
+ "data":[
+{
+  "ingilizceKelime":"ring",
+  "turkceKelime":"çalmak(zil),yüzük takmak",
+  "okunus":"ring",
+},
+{
+  "ingilizceKelime":"test",
+  "turkceKelime":"test etmek",
+  "okunus":"test",
+},
+{
+  "ingilizceKelime":"secure",
+  "turkceKelime":"korumak",
+  "okunus":"seküğr",
+},
+{
+  "ingilizceKelime":"collect",
+  "turkceKelime":"toplamak",
+  "okunus":"kollekt",
+},
+{
+  "ingilizceKelime":"escape",
+  "turkceKelime":"kaçmak",
+  "okunus":"eskeyp",
+},
+{
+  "ingilizceKelime":"teach",
+  "turkceKelime":"öğretmek",
+  "okunus":"tiğç",
+},
+{
+  "ingilizceKelime":"last",
+  "turkceKelime":"yetmek,süregelmek",
+  "okunus":"last",
+},
+{
+  "ingilizceKelime":"welcome",
+  "turkceKelime":"Hoşgelmek",
+  "okunus":"velkam",
+},
+{
+  "ingilizceKelime":"rely",
+  "turkceKelime":"güvenmek",
+  "okunus":"rilay",
+},
+{
+  "ingilizceKelime":"trust",
+  "turkceKelime":"güvenmek",
+  "okunus":"trast",
+},
+{
+  "ingilizceKelime":"match",
+  "turkceKelime":"eşleştirmek",
+  "okunus":"meğç",
+},
+{
+  "ingilizceKelime":"assess",
+  "turkceKelime":"değerlendirmek",
+  "okunus":"eseğs",
+},
+{
+  "ingilizceKelime":"contribute",
+  "turkceKelime":"katkıda bulunmak",
+  "okunus":"kontribüut",
+},
+{
+  "ingilizceKelime":"repeat",
+  "turkceKelime":"tekrar et",
+  "okunus":"rıpiğt",
+},
+{
+  "ingilizceKelime":"supply",
+  "turkceKelime":"arz",
+  "okunus":"sıplay",
+},
+{
+  "ingilizceKelime":"plan",
+  "turkceKelime":"planlamak",
+  "okunus":"plen",
+},
+{
+  "ingilizceKelime":"reveal",
+  "turkceKelime":"ortaya çıkartmak",
+  "okunus":"rıviıl",
+},
+{
+  "ingilizceKelime":"state",
+  "turkceKelime":"belirtmek",
+  "okunus":"steyt",
+},
+{
+  "ingilizceKelime":"confirm",
+  "turkceKelime":"onaylamak",
+  "okunus":"kınförm",
+},
+{
+  "ingilizceKelime":"appreciate",
+  "turkceKelime":"takdir etmek",
+  "okunus":"aprışieyt",
+},
+{
+  "ingilizceKelime":"hate",
+  "turkceKelime":"nefret etmek",
+  "okunus":"heyt",
+},
+{
+  "ingilizceKelime":"relate",
+  "turkceKelime":"ilgili olmak",
+  "okunus":"rıleyt",
+},
+{
+  "ingilizceKelime":"overcome",
+  "turkceKelime":"üstesinden gelmek",
+  "okunus":"overkam",
+},
+{
+  "ingilizceKelime":"rid",
+  "turkceKelime":"kurtulmak",
+  "okunus":"rid",
+},
+{
+  "ingilizceKelime":"marry",
+  "turkceKelime":"evlenmek",
+  "okunus":"merry",
+},
+
+]},{ 
+"isim":"12",  
+ "data":[
+{
+  "ingilizceKelime":"attempt",
+  "turkceKelime":"teşebbüs etmek",
+  "okunus":"etempt",
+},
+{
+  "ingilizceKelime":"retain",
+  "turkceKelime":"sürdürmek",
+  "okunus":"riteyn",
+},
+{
+  "ingilizceKelime":"handle",
+  "turkceKelime":"üstesinden gelmek",
+  "okunus":"hendıl",
+},
+{
+  "ingilizceKelime":"attract",
+  "turkceKelime":"cezbetmek",
+  "okunus":"etrekt",
+},
+{
+  "ingilizceKelime":"assist",
+  "turkceKelime":"yardım etmek",
+  "okunus":"asiıst",
+},
+{
+  "ingilizceKelime":"influence",
+  "turkceKelime":"etkilemek",
+  "okunus":"infuuns",
+},
+{
+  "ingilizceKelime":"mark",
+  "turkceKelime":"işaret etmek",
+  "okunus":"mark",
+},
+{
+  "ingilizceKelime":"split",
+  "turkceKelime":"bölmek",
+  "okunus":"split",
+},
+{
+  "ingilizceKelime":"experience",
+  "turkceKelime":"deneyimlemek",
+  "okunus":"ikspiryıns",
+},
+{
+  "ingilizceKelime":"recall",
+  "turkceKelime":"hatırlamak",
+  "okunus":"rikal",
+},
+{
+  "ingilizceKelime":"adopt",
+  "turkceKelime":"evlat edinmek",
+  "okunus":"ıdapt",
+},
+{
+  "ingilizceKelime":"sign",
+  "turkceKelime":"imzalamak",
+  "okunus":"sayn",
+},
+{
+  "ingilizceKelime":"touch",
+  "turkceKelime":"dokunmak",
+  "okunus":"taç",
+},
+{
+  "ingilizceKelime":"fear",
+  "turkceKelime":"korkmak",
+  "okunus":"fiır",
+},
+{
+  "ingilizceKelime":"stick",
+  "turkceKelime":"ayrılmamak,yapışmak",
+  "okunus":"stik",
+},
+{
+  "ingilizceKelime":"settle",
+  "turkceKelime":"yerleşmek",
+  "okunus":"sedıl",
+},
+{
+  "ingilizceKelime":"ignore",
+  "turkceKelime":"aldırmamak",
+  "okunus":"ignoğr",
+},
+{
+  "ingilizceKelime":"compare",
+  "turkceKelime":"karşılaştırmak",
+  "okunus":"kımpeyır",
+},
+{
+  "ingilizceKelime":"define",
+  "turkceKelime":"tanımlamak",
+  "okunus":"difayn",
+},
+{
+  "ingilizceKelime":"exercise",
+  "turkceKelime":"egzersiz yapmak",
+  "okunus":"eksırsayz",
+},
+{
+  "ingilizceKelime":"demonstrate",
+  "turkceKelime":"göstermek,örnekle açıklamak",
+  "okunus":"dimınstreyt",
+},
+{
+  "ingilizceKelime":"account",
+  "turkceKelime":"açıklamasını yapmak",
+  "okunus":"ekaunt",
+},
+{
+  "ingilizceKelime":"persuade",
+  "turkceKelime":"ikna etmek",
+  "okunus":"pörsveyd",
+},
+{
+  "ingilizceKelime":"investigate",
+  "turkceKelime":"incelemek",
+  "okunus":"investigeyt",
+},
+{
+  "ingilizceKelime":"clear",
+  "turkceKelime":"temizlemek",
+  "okunus":"kliır",
+},
+
+]},{ 
+"isim":"13",  
+ "data":[
+{
+  "ingilizceKelime":"guess",
+  "turkceKelime":"tahmin etmek",
+  "okunus":"ges",
+},
+{
+  "ingilizceKelime":"record",
+  "turkceKelime":"kaydetmek",
+  "okunus":"rekord",
+},
+{
+  "ingilizceKelime":"vote",
+  "turkceKelime":"oy kullanmak",
+  "okunus":"voğt",
+},
+{
+  "ingilizceKelime":"explore",
+  "turkceKelime":"keşfetmek",
+  "okunus":"eksplor",
+},
+{
+  "ingilizceKelime":"blame",
+  "turkceKelime":"suçlamak",
+  "okunus":"bleym",
+},
+{
+  "ingilizceKelime":"arrange",
+  "turkceKelime":"düzenlemek",
+  "okunus":"ıreync",
+},
+{
+  "ingilizceKelime":"cross",
+  "turkceKelime":"geçmek",
+  "okunus":"kros",
+},
+{
+  "ingilizceKelime":"deny",
+  "turkceKelime":"reddetmek",
+  "okunus":"dınay",
+},
+{
+  "ingilizceKelime":"realize",
+  "turkceKelime":"fark etmek",
+  "okunus":"riılayz",
+},
+{
+  "ingilizceKelime":"hide",
+  "turkceKelime":"saklamak",
+  "okunus":"hayd",
+},
+{
+  "ingilizceKelime":"focus",
+  "turkceKelime":"odaklanmak",
+  "okunus":"fokıs",
+},
+{
+  "ingilizceKelime":"deliver",
+  "turkceKelime":"teslim etmek",
+  "okunus":"dılivır",
+},
+{
+  "ingilizceKelime":"proceed",
+  "turkceKelime":"ilerlemek",
+  "okunus":"pırsiid",
+},
+{
+  "ingilizceKelime":"succeed",
+  "turkceKelime":"başarmak",
+  "okunus":"sıksiid",
+},
+{
+  "ingilizceKelime":"bother",
+  "turkceKelime":"zahmet vermek",
+  "okunus":"badır",
+},
+{
+  "ingilizceKelime":"force",
+  "turkceKelime":"Kuvvet uygulamak",
+  "okunus":"fors",
+},
+{
+  "ingilizceKelime":"demand",
+  "turkceKelime":"talep etmek",
+  "okunus":"dimend",
+},
+{
+  "ingilizceKelime":"recognize",
+  "turkceKelime":"tanımak",
+  "okunus":"rekıgnayz",
+},
+{
+  "ingilizceKelime":"count",
+  "turkceKelime":"saymak",
+  "okunus":"keğunt",
+},
+{
+  "ingilizceKelime":"doubt",
+  "turkceKelime":"şüphelenmek",
+  "okunus":"daut",
+},
+{
+  "ingilizceKelime":"reckon",
+  "turkceKelime":"Hesaba katmak",
+  "okunus":"rekın",
+},
+{
+  "ingilizceKelime":"belong",
+  "turkceKelime":"ait olmak",
+  "okunus":"bilong",
+},
+{
+  "ingilizceKelime":"emerge",
+  "turkceKelime":"ortaya çıkmak",
+  "okunus":"emığrc",
+},
+{
+  "ingilizceKelime":"sing",
+  "turkceKelime":"şarkı söyle",
+  "okunus":"sing",
+},
+{
+  "ingilizceKelime":"intend",
+  "turkceKelime":"niyet etmek",
+  "okunus":"intend",
+},
+
+]},{ 
+"isim":"14",  
+ "data":[
+{
+  "ingilizceKelime":"justify",
+  "turkceKelime":"savunmak",
+  "okunus":"castifay",
+},
+{
+  "ingilizceKelime":"advise",
+  "turkceKelime":"öğüt vermek",
+  "okunus":"edvayz",
+},
+{
+  "ingilizceKelime":"defend",
+  "turkceKelime":"savunmak",
+  "okunus":"difend",
+},
+{
+  "ingilizceKelime":"laugh",
+  "turkceKelime":"gülmek,kahkaha atmak",
+  "okunus":"lağf",
+},
+{
+  "ingilizceKelime":"dare",
+  "turkceKelime":"cesaret etmek",
+  "okunus":"değr",
+},
+{
+  "ingilizceKelime":"acquire",
+  "turkceKelime":"elde etmek",
+  "okunus":"ekvuayır",
+},
+{
+  "ingilizceKelime":"recover",
+  "turkceKelime":"iyileşmek",
+  "okunus":"rikavır",
+},
+{
+  "ingilizceKelime":"generate",
+  "turkceKelime":"üretmek",
+  "okunus":"cenıreyt",
+},
+{
+  "ingilizceKelime":"distinguish",
+  "turkceKelime":"ayırt etmek",
+  "okunus":"distinguiş",
+},
+{
+  "ingilizceKelime":"earn",
+  "turkceKelime":"para kazanmak",
+  "okunus":"örn",
+},
+{
+  "ingilizceKelime":"finance",
+  "turkceKelime":"finans",
+  "okunus":"faynens",
+},
+{
+  "ingilizceKelime":"bet",
+  "turkceKelime":"iddia etmek",
+  "okunus":"bet",
+},
+{
+  "ingilizceKelime":"destroy",
+  "turkceKelime":"tahrip etmek",
+  "okunus":"destroy",
+},
+{
+  "ingilizceKelime":"rest",
+  "turkceKelime":"dinlenmek",
+  "okunus":"rest",
+},
+{
+  "ingilizceKelime":"judge",
+  "turkceKelime":"yargılamak",
+  "okunus":"cac",
+},
+{
+  "ingilizceKelime":"pursue",
+  "turkceKelime":"izlemek",
+  "okunus":"pursüuğ",
+},
+{
+  "ingilizceKelime":"comment",
+  "turkceKelime":"yorum yapmak",
+  "okunus":"kamınt",
+},
+{
+  "ingilizceKelime":"satisfy",
+  "turkceKelime":"tatmin etmek",
+  "okunus":"satisfay",
+},
+{
+  "ingilizceKelime":"compete",
+  "turkceKelime":"rekabet etmek",
+  "okunus":"kımpiğt",
+},
+{
+  "ingilizceKelime":"resist",
+  "turkceKelime":"direnmek",
+  "okunus":"riziğst",
+},
+{
+  "ingilizceKelime":"suit",
+  "turkceKelime":"uymak,yakışmak",
+  "okunus":"süuğt",
+},
+{
+  "ingilizceKelime":"address",
+  "turkceKelime":"adres yazmak,hitap etmek",
+  "okunus":"edres",
+},
+{
+  "ingilizceKelime":"solve",
+  "turkceKelime":"çözmek",
+  "okunus":"soğlv",
+},
+{
+  "ingilizceKelime":"lift",
+  "turkceKelime":"kaldırmak",
+  "okunus":"lift",
+},
+{
+  "ingilizceKelime":"alter",
+  "turkceKelime":"değiştirmek",
+  "okunus":"altır",
+},
+
+]},{ 
+"isim":"15",  
+ "data":[
+{
+  "ingilizceKelime":"impose",
+  "turkceKelime":"empoze etmek",
+  "okunus":"impoğz",
+},
+{
+  "ingilizceKelime":"display",
+  "turkceKelime":"Görüntülemek",
+  "okunus":"displey",
+},
+{
+  "ingilizceKelime":"appeal",
+  "turkceKelime":"müracaat etmek",
+  "okunus":"apiğıl",
+},
+{
+  "ingilizceKelime":"release",
+  "turkceKelime":"serbest bırakmak",
+  "okunus":"rıliğz",
+},
+{
+  "ingilizceKelime":"sort",
+  "turkceKelime":"sınıflandırmak",
+  "okunus":"sort",
+},
+{
+  "ingilizceKelime":"differ",
+  "turkceKelime":"farklı olmak,benzememek",
+  "okunus":"diffır",
+},
+{
+  "ingilizceKelime":"select",
+  "turkceKelime":"seçmek",
+  "okunus":"sılekt",
+},
+{
+  "ingilizceKelime":"measure",
+  "turkceKelime":"ölçmek",
+  "okunus":"mejır",
+},
+{
+  "ingilizceKelime":"recommend",
+  "turkceKelime":"tavsiye etmek",
+  "okunus":"rekımeğnd",
+},
+{
+  "ingilizceKelime":"order",
+  "turkceKelime":"emretmek",
+  "okunus":"ordır",
+},
+{
+  "ingilizceKelime":"transfer",
+  "turkceKelime":"Aktarmak,transfer etmek",
+  "okunus":"trensfır",
+},
+{
+  "ingilizceKelime":"attack",
+  "turkceKelime":"saldırmak",
+  "okunus":"eteğk",
+},
+{
+  "ingilizceKelime":"expand",
+  "turkceKelime":"genişletmek",
+  "okunus":"ikspend",
+},
+{
+  "ingilizceKelime":"roll",
+  "turkceKelime":"yuvarlamak",
+  "okunus":"rol",
+},
+{
+  "ingilizceKelime":"burst",
+  "turkceKelime":"patlamak",
+  "okunus":"börst",
+},
+{
+  "ingilizceKelime":"undertake",
+  "turkceKelime":"üstlenmek",
+  "okunus":"andırteyk",
+},
+{
+  "ingilizceKelime":"relax",
+  "turkceKelime":"rahatlamak",
+  "okunus":"rıleks",
+},
+{
+  "ingilizceKelime":"participate",
+  "turkceKelime":"Katıl",
+  "okunus":"partısıpeyt",
+},
+{
+  "ingilizceKelime":"behave",
+  "turkceKelime":"Davranmak",
+  "okunus":"biheyv",
+},
+{
+  "ingilizceKelime":"strike",
+  "turkceKelime":"vuruş yapmak",
+  "okunus":"strayk",
+},
+{
+  "ingilizceKelime":"remind",
+  "turkceKelime":"hatırlatmak",
+  "okunus":"rimaynd",
+},
+{
+  "ingilizceKelime":"review",
+  "turkceKelime":"gözden geçirmek",
+  "okunus":"rıvyuğ",
+},
+{
+  "ingilizceKelime":"approach",
+  "turkceKelime":"yaklaşmak",
+  "okunus":"eproç",
+},
+{
+  "ingilizceKelime":"employ",
+  "turkceKelime":"kullanmak",
+  "okunus":"employ",
+},
+{
+  "ingilizceKelime":"restore",
+  "turkceKelime":"eski haline getirmek",
+  "okunus":"ristor",
+},
+
+]},{ 
+"isim":"16",  
+ "data":[
+{
+  "ingilizceKelime":"wash",
+  "turkceKelime":"yıkamak",
+  "okunus":"vaş",
+},
+{
+  "ingilizceKelime":"observe",
+  "turkceKelime":"gözlemek",
+  "okunus":"obzörv",
+},
+{
+  "ingilizceKelime":"combine",
+  "turkceKelime":"birleştirmek",
+  "okunus":"kombayn",
+},
+{
+  "ingilizceKelime":"insist",
+  "turkceKelime":"ısrar etmek",
+  "okunus":"insist",
+},
+{
+  "ingilizceKelime":"issue",
+  "turkceKelime":"yayınlamak,çıkarmak",
+  "okunus":"işüğ",
+},
+{
+  "ingilizceKelime":"ride",
+  "turkceKelime":"sürmek",
+  "okunus":"rayd",
+},
+{
+  "ingilizceKelime":"constitute",
+  "turkceKelime":"oluşturmak",
+  "okunus":"konstitüüd",
+},
+{
+  "ingilizceKelime":"jump",
+  "turkceKelime":"zıplamak",
+  "okunus":"camp",
+},
+{
+  "ingilizceKelime":"cook",
+  "turkceKelime":"pişirmek",
+  "okunus":"kuuk",
+},
+{
+  "ingilizceKelime":"switch",
+  "turkceKelime":"değiştirmek",
+  "okunus":"sıviç",
+},
+{
+  "ingilizceKelime":"train",
+  "turkceKelime":"antrenman yapmak",
+  "okunus":"treyn",
+},
+{
+  "ingilizceKelime":"cry",
+  "turkceKelime":"Ağlamak",
+  "okunus":"kray",
+},
+{
+  "ingilizceKelime":"clean",
+  "turkceKelime":"temizlemek",
+  "okunus":"kliğn",
+},
+{
+  "ingilizceKelime":"invest",
+  "turkceKelime":"yatırım yapmak",
+  "okunus":"invest",
+},
+{
+  "ingilizceKelime":"step",
+  "turkceKelime":"adım atmak",
+  "okunus":"step",
+},
+{
+  "ingilizceKelime":"suspect",
+  "turkceKelime":"şüphelenmek",
+  "okunus":"şüpheli",
+},
+{
+  "ingilizceKelime":"limit",
+  "turkceKelime":"sınırlamak",
+  "okunus":"limit",
+},
+{
+  "ingilizceKelime":"illustrate",
+  "turkceKelime":"gözünde canlandırmak",
+  "okunus":"ilüstreyt",
+},
+{
+  "ingilizceKelime":"own",
+  "turkceKelime":"sahip olmak",
+  "okunus":"ovn",
+},
+{
+  "ingilizceKelime":"tackle",
+  "turkceKelime":"olta takımı",
+  "okunus":"tekıl",
+},
+{
+  "ingilizceKelime":"challenge",
+  "turkceKelime":"meydan okumak",
+  "okunus":"çelınc",
+},
+{
+  "ingilizceKelime":"view",
+  "turkceKelime":"görmek,seyretmek",
+  "okunus":"vyuğ",
+},
+{
+  "ingilizceKelime":"withdraw",
+  "turkceKelime":"Çekilmek,para çekmek",
+  "okunus":"vitdrav",
+},
+{
+  "ingilizceKelime":"possess",
+  "turkceKelime":"elinde bulundurmak",
+  "okunus":"pozes",
+},
+{
+  "ingilizceKelime":"communicate",
+  "turkceKelime":"iletişim kurmak",
+  "okunus":"komyunikeyt",
+},
+
+]},{ 
+"isim":"17",  
+ "data":[
+{
+  "ingilizceKelime":"climb",
+  "turkceKelime":"tırmanmak",
+  "okunus":"klaymb",
+},
+{
+  "ingilizceKelime":"gather",
+  "turkceKelime":"toplamak,toplanmak",
+  "okunus":"gedır",
+},
+{
+  "ingilizceKelime":"separate",
+  "turkceKelime":"ayırmak",
+  "okunus":"sepıreyt",
+},
+{
+  "ingilizceKelime":"preserve",
+  "turkceKelime":"korumak",
+  "okunus":"pırzörv",
+},
+{
+  "ingilizceKelime":"implement",
+  "turkceKelime":"uygulamak",
+  "okunus":"implımınt",
+},
+{
+  "ingilizceKelime":"shift",
+  "turkceKelime":"yerini değiştirmek,lafı çevirmek",
+  "okunus":"şift",
+},
+{
+  "ingilizceKelime":"resolve",
+  "turkceKelime":"çözmek",
+  "okunus":"rizalv",
+},
+{
+  "ingilizceKelime":"reject",
+  "turkceKelime":"reddetmek",
+  "okunus":"ricekt",
+},
+{
+  "ingilizceKelime":"inform",
+  "turkceKelime":"bilgi vermek",
+  "okunus":"inform",
+},
+{
+  "ingilizceKelime":"imply",
+  "turkceKelime":"ima etmek",
+  "okunus":"implay",
+},
+{
+  "ingilizceKelime":"acknowledge",
+  "turkceKelime":"kabullenmek",
+  "okunus":"eknalıc",
+},
+{
+  "ingilizceKelime":"conclude",
+  "turkceKelime":"sonuçlandırmak",
+  "okunus":"kınkluud",
+},
+{
+  "ingilizceKelime":"shoot",
+  "turkceKelime":"vurmak,ateş etmek",
+  "okunus":"şuğt",
+},
+{
+  "ingilizceKelime":"guarantee",
+  "turkceKelime":"garanti etmek",
+  "okunus":"gerıntiğ",
+},
+{
+  "ingilizceKelime":"comply",
+  "turkceKelime":"uymak,razı olmak",
+  "okunus":"komplay",
+},
+{
+  "ingilizceKelime":"borrow",
+  "turkceKelime":"ödünç almak",
+  "okunus":"barov",
+},
+{
+  "ingilizceKelime":"question",
+  "turkceKelime":"sormak",
+  "okunus":"kuesçın",
+},
+{
+  "ingilizceKelime":"promise",
+  "turkceKelime":"söz vermek",
+  "okunus":"promis",
+},
+{
+  "ingilizceKelime":"enhance",
+  "turkceKelime":"genişletmek",
+  "okunus":"inhens",
+},
+{
+  "ingilizceKelime":"monitor",
+  "turkceKelime":"izlemek,gözlemlek",
+  "okunus":"monıdır",
+},
+{
+  "ingilizceKelime":"risk",
+  "turkceKelime":"riske atmak",
+  "okunus":"risk",
+},
+{
+  "ingilizceKelime":"permit",
+  "turkceKelime":"izin vermek",
+  "okunus":"pörmit",
+},
+{
+  "ingilizceKelime":"purchase",
+  "turkceKelime":"satın alma",
+  "okunus":"pörçıs",
+},
+{
+  "ingilizceKelime":"propose",
+  "turkceKelime":"teklif etmek, önermek",
+  "okunus":"pörpoğz",
+},
+{
+  "ingilizceKelime":"celebrate",
+  "turkceKelime":"kutlamak",
+  "okunus":"selıbreyt",
+},
+
+]},{ 
+"isim":"18",  
+ "data":[
+{
+  "ingilizceKelime":"charge",
+  "turkceKelime":"şarj etmek",
+  "okunus":"çarc",
+},
+{
+  "ingilizceKelime":"research",
+  "turkceKelime":"Araştırmak",
+  "okunus":"risörç",
+},
+{
+  "ingilizceKelime":"aim",
+  "turkceKelime":"hedeflemek",
+  "okunus":"eym",
+},
+{
+  "ingilizceKelime":"accommodate",
+  "turkceKelime":"yerleştirmek,karşılamak",
+  "okunus":"ekamıdeyt",
+},
+{
+  "ingilizceKelime":"phone",
+  "turkceKelime":"telefon etmek",
+  "okunus":"fon",
+},
+{
+  "ingilizceKelime":"waste",
+  "turkceKelime":"boşa harcamak",
+  "okunus":"veyst",
+},
+{
+  "ingilizceKelime":"dance",
+  "turkceKelime":"dans etmek",
+  "okunus":"dens",
+},
+{
+  "ingilizceKelime":"wake",
+  "turkceKelime":"uyanmak",
+  "okunus":"veyk",
+},
+{
+  "ingilizceKelime":"pray",
+  "turkceKelime":"dua etmek",
+  "okunus":"prey",
+},
+{
+  "ingilizceKelime":"disappear",
+  "turkceKelime":"kaybolmak",
+  "okunus":"disepiır",
+},
+{
+  "ingilizceKelime":"predict",
+  "turkceKelime":"tahmin etmek",
+  "okunus":"predikt",
+},
+{
+  "ingilizceKelime":"score",
+  "turkceKelime":"Puan",
+  "okunus":"skoğr",
+},
+{
+  "ingilizceKelime":"slip",
+  "turkceKelime":"kaymak,sürçmek",
+  "okunus":"slip",
+},
+{
+  "ingilizceKelime":"commit",
+  "turkceKelime":"işlemek",
+  "okunus":"komiğt",
+},
+{
+  "ingilizceKelime":"complain",
+  "turkceKelime":"şikayet etmek",
+  "okunus":"kompleyn",
+},
+{
+  "ingilizceKelime":"detect",
+  "turkceKelime":"tespit etmek",
+  "okunus":"dıtekt",
+},
+{
+  "ingilizceKelime":"exclude",
+  "turkceKelime":"hariç tutmak",
+  "okunus":"ekskluud",
+},
+{
+  "ingilizceKelime":"excuse",
+  "turkceKelime":"affetmek",
+  "okunus":"eksküuz",
+},
+{
+  "ingilizceKelime":"interpret",
+  "turkceKelime":"yorumlamak",
+  "okunus":"intırpret",
+},
+{
+  "ingilizceKelime":"publish",
+  "turkceKelime":"Yayınla",
+  "okunus":"pabliş",
+},
+{
+  "ingilizceKelime":"forgive",
+  "turkceKelime":"affetmek",
+  "okunus":"forgiv",
+},
+{
+  "ingilizceKelime":"negotiate",
+  "turkceKelime":"müzakere etmek",
+  "okunus":"negoşieyt",
+},
+{
+  "ingilizceKelime":"analyse",
+  "turkceKelime":"analiz etmek",
+  "okunus":"enılayz",
+},
+{
+  "ingilizceKelime":"name",
+  "turkceKelime":"isim vermek,ismiyle çağırmak",
+  "okunus":"neym",
+},
+{
+  "ingilizceKelime":"stretch",
+  "turkceKelime":"germek,gerinmek",
+  "okunus":"streç",
+},
+
+]},{ 
+"isim":"19",  
+ "data":[
+{
+  "ingilizceKelime":"upset",
+  "turkceKelime":"üzülmek",
+  "okunus":"apset",
+},
+{
+  "ingilizceKelime":"qualify",
+  "turkceKelime":"nitelemek",
+  "okunus":"kualifay",
+},
+{
+  "ingilizceKelime":"damage",
+  "turkceKelime":"zarar vermek",
+  "okunus":"demıc",
+},
+{
+  "ingilizceKelime":"launch",
+  "turkceKelime":"başlatmak",
+  "okunus":"lanç",
+},
+{
+  "ingilizceKelime":"paint",
+  "turkceKelime":"boyamak",
+  "okunus":"peyint",
+},
+{
+  "ingilizceKelime":"specify",
+  "turkceKelime":"belirtmek",
+  "okunus":"spesifay",
+},
+{
+  "ingilizceKelime":"grant",
+  "turkceKelime":"burs vermek",
+  "okunus":"grent",
+},
+{
+  "ingilizceKelime":"lend",
+  "turkceKelime":"ödünç vermek",
+  "okunus":"lend",
+},
+{
+  "ingilizceKelime":"construct",
+  "turkceKelime":"kurmak",
+  "okunus":"kınstract",
+},
+{
+  "ingilizceKelime":"react",
+  "turkceKelime":"tepki vermek",
+  "okunus":"riakt",
+},
+{
+  "ingilizceKelime":"organise",
+  "turkceKelime":"düzenlemek",
+  "okunus":"orgenayz",
+},
+{
+  "ingilizceKelime":"deserve",
+  "turkceKelime":"hak etmek",
+  "okunus":"dizörv",
+},
+{
+  "ingilizceKelime":"head",
+  "turkceKelime":"başında olmak,başı çekmek",
+  "okunus":"hed",
+},
+{
+  "ingilizceKelime":"direct",
+  "turkceKelime":"yönlendirmek,yol göstermek",
+  "okunus":"dayrekt",
+},
+{
+  "ingilizceKelime":"land",
+  "turkceKelime":"yere inmek",
+  "okunus":"lend",
+},
+{
+  "ingilizceKelime":"conduct",
+  "turkceKelime":"yönetmek",
+  "okunus":"kondakt",
+},
+{
+  "ingilizceKelime":"refuse",
+  "turkceKelime":"reddetmek",
+  "okunus":"rifüuz",
+},
+{
+  "ingilizceKelime":"sustain",
+  "turkceKelime":"güç vermek",
+  "okunus":"sısteyn",
+},
+{
+  "ingilizceKelime":"submit",
+  "turkceKelime":"Sunmak",
+  "okunus":"sabmit",
+},
+{
+  "ingilizceKelime":"consist",
+  "turkceKelime":"meydana gelmek",
+  "okunus":"kınsist",
+},
+{
+  "ingilizceKelime":"blow",
+  "turkceKelime":"üflemek",
+  "okunus":"blov",
+},
+{
+  "ingilizceKelime":"mix",
+  "turkceKelime":"karıştırmak",
+  "okunus":"miks",
+},
+{
+  "ingilizceKelime":"guide",
+  "turkceKelime":"rehberlik etmek",
+  "okunus":"gayd",
+},
+{
+  "ingilizceKelime":"owe",
+  "turkceKelime":"sahip olmak",
+  "okunus":"oğv",
+},
+{
+  "ingilizceKelime":"convince",
+  "turkceKelime":"ikna etmek",
+  "okunus":"kınvins",
+},
+
+]},{ 
+"isim":"20",  
+ "data":[
+{
+  "ingilizceKelime":"practise",
+  "turkceKelime":"pratik yapmak,uygulama",
+  "okunus":"praktıs",
+},
+{
+  "ingilizceKelime":"strengthen",
+  "turkceKelime":"güçlendirmek",
+  "okunus":"strengtın",
+},
+{
+  "ingilizceKelime":"knock",
+  "turkceKelime":"vurmak",
+  "okunus":"nak",
+},
+{
+  "ingilizceKelime":"invite",
+  "turkceKelime":"Davet etmek",
+  "okunus":"invayt",
+},
+{
+  "ingilizceKelime":"burn",
+  "turkceKelime":"yakmak",
+  "okunus":"börn",
+},
+{
+  "ingilizceKelime":"abandon",
+  "turkceKelime":"terk etmek",
+  "okunus":"abendın",
+},
+{
+  "ingilizceKelime":"reply",
+  "turkceKelime":"cevap vermek",
+  "okunus":"replay",
+},
+{
+  "ingilizceKelime":"shake",
+  "turkceKelime":"sallamak",
+  "okunus":"şeyk",
+},
+{
+  "ingilizceKelime":"fix",
+  "turkceKelime":"düzeltmek",
+  "okunus":"fiks",
+},
+{
+  "ingilizceKelime":"pretend",
+  "turkceKelime":"numara yapmak",
+  "okunus":"pritend",
+},
+{
+  "ingilizceKelime":"consult",
+  "turkceKelime":"danışmak",
+  "okunus":"kınsoğlt",
+},
+{
+  "ingilizceKelime":"divide",
+  "turkceKelime":"bölmek",
+  "okunus":"divayd",
+},
+{
+  "ingilizceKelime":"engage",
+  "turkceKelime":"tutmak",
+  "okunus":"ingeyc",
+},
+{
+  "ingilizceKelime":"search",
+  "turkceKelime":"arama",
+  "okunus":"sörç",
+},
+{
+  "ingilizceKelime":"fulfil",
+  "turkceKelime":"yerine getirmek",
+  "okunus":"fulfil",
+},
+{
+  "ingilizceKelime":"exploit",
+  "turkceKelime":"faydalanmak",
+  "okunus":"ıksployt",
+},
+{
+  "ingilizceKelime":"rule",
+  "turkceKelime":"yönetmek",
+  "okunus":"ruğl",
+},
+{
+  "ingilizceKelime":"process",
+  "turkceKelime":"işlemek",
+  "okunus":"proses",
+},
+{
+  "ingilizceKelime":"fetch",
+  "turkceKelime":"gidip getirmek",
+  "okunus":"feç",
+},
+{
+  "ingilizceKelime":"convey",
+  "turkceKelime":"iletmek",
+  "okunus":"kınvey",
+},
+{
+  "ingilizceKelime":"market",
+  "turkceKelime":"pazarlamak",
+  "okunus":"markıt",
+},
+{
+  "ingilizceKelime":"smoke",
+  "turkceKelime":"Sigara içmek",
+  "okunus":"smok",
+},
+{
+  "ingilizceKelime":"smell",
+  "turkceKelime":"kokmak,koklamak",
+  "okunus":"smel",
+},
+{
+  "ingilizceKelime":"thrust",
+  "turkceKelime":"itme",
+  "okunus":"trast",
+},
+{
+  "ingilizceKelime":"incorporate",
+  "turkceKelime":"firma kurmak",
+  "okunus":"inkorpıreyt",
+},
+
+]},{ 
+"isim":"21",  
+ "data":[
+{
+  "ingilizceKelime":"restrict",
+  "turkceKelime":"kısıtlamak",
+  "okunus":"restrikt",
+},
+{
+  "ingilizceKelime":"warn",
+  "turkceKelime":"uyarmak",
+  "okunus":"vorn",
+},
+{
+  "ingilizceKelime":"eliminate",
+  "turkceKelime":"bertaraf etmek",
+  "okunus":"ilımıneyt",
+},
+{
+  "ingilizceKelime":"kiss",
+  "turkceKelime":"öpmek",
+  "okunus":"kis",
+},
+{
+  "ingilizceKelime":"announce",
+  "turkceKelime":"duyuru yapmak",
+  "okunus":"anouns",
+},
+{
+  "ingilizceKelime":"evaluate",
+  "turkceKelime":"değerlendirmek",
+  "okunus":"ivalüeyt",
+},
+{
+  "ingilizceKelime":"convert",
+  "turkceKelime":"dönüştürmek",
+  "okunus":"kınvört",
+},
+{
+  "ingilizceKelime":"retire",
+  "turkceKelime":"emekli olmak",
+  "okunus":"ritayır",
+},
+{
+  "ingilizceKelime":"adjust",
+  "turkceKelime":"ayarlamak",
+  "okunus":"edcast",
+},
+{
+  "ingilizceKelime":"ease",
+  "turkceKelime":"kolaylaştırmak",
+  "okunus":"iğz",
+},
+{
+  "ingilizceKelime":"breathe",
+  "turkceKelime":"nefes almak",
+  "okunus":"brit(h)",
+},
+{
+  "ingilizceKelime":"pour",
+  "turkceKelime":"dökmek",
+  "okunus":"poğr",
+},
+{
+  "ingilizceKelime":"knit",
+  "turkceKelime":"örgü örmek",
+  "okunus":"nit",
+},
+{
+  "ingilizceKelime":"exceed",
+  "turkceKelime":"aşmak",
+  "okunus":"iksiid",
+},
+{
+  "ingilizceKelime":"back",
+  "turkceKelime":"destek olmak",
+  "okunus":"bek",
+},
+{
+  "ingilizceKelime":"approve",
+  "turkceKelime":"onaylamak",
+  "okunus":"apruğv",
+},
+{
+  "ingilizceKelime":"trace",
+  "turkceKelime":"izinden gitmek",
+  "okunus":"treys",
+},
+{
+  "ingilizceKelime":"register",
+  "turkceKelime":"Kaydolmak",
+  "okunus":"recistır",
+},
+{
+  "ingilizceKelime":"calculate",
+  "turkceKelime":"hesaplamak",
+  "okunus":"kalküleyt",
+},
+{
+  "ingilizceKelime":"occupy",
+  "turkceKelime":"işgal etmek",
+  "okunus":"oküpay",
+},
+{
+  "ingilizceKelime":"stimulate",
+  "turkceKelime":"canlandırmak",
+  "okunus":"stimyüleyt",
+},
+{
+  "ingilizceKelime":"print",
+  "turkceKelime":"yazdırmak,basmak",
+  "okunus":"print",
+},
+{
+  "ingilizceKelime":"stress",
+  "turkceKelime":"vurgulamak",
+  "okunus":"stres",
+},
+{
+  "ingilizceKelime":"appoint",
+  "turkceKelime":"tayin etmek",
+  "okunus":"apoyınt",
+},
+{
+  "ingilizceKelime":"free",
+  "turkceKelime":"serbest bırakmak",
+  "okunus":"frii",
+},
+
+]},{ 
+"isim":"22",  
+ "data":[
+{
+  "ingilizceKelime":"interfere",
+  "turkceKelime":"karışmak,müdahale etmek",
+  "okunus":"in(t)ırfiığr",
+},
+{
+  "ingilizceKelime":"object",
+  "turkceKelime":"itiraz etmek",
+  "okunus":"obcekt",
+},
+{
+  "ingilizceKelime":"boost",
+  "turkceKelime":"artırmak",
+  "okunus":"buuğst",
+},
+{
+  "ingilizceKelime":"smile",
+  "turkceKelime":"gülümsemek",
+  "okunus":"smayl",
+},
+{
+  "ingilizceKelime":"facilitate",
+  "turkceKelime":"kolaylaştırmak",
+  "okunus":"fesılıteyt",
+},
+{
+  "ingilizceKelime":"lack",
+  "turkceKelime":"yoksun olmak",
+  "okunus":"lak",
+},
+{
+  "ingilizceKelime":"enforce",
+  "turkceKelime":"uygulamak",
+  "okunus":"infors",
+},
+{
+  "ingilizceKelime":"adapt",
+  "turkceKelime":"adapte olmak",
+  "okunus":"edept",
+},
+{
+  "ingilizceKelime":"tie",
+  "turkceKelime":"bağlamak",
+  "okunus":"tay",
+},
+{
+  "ingilizceKelime":"quote",
+  "turkceKelime":"alıntı yapmak",
+  "okunus":"kuvot",
+},
+{
+  "ingilizceKelime":"dominate",
+  "turkceKelime":"egemen olmak",
+  "okunus":"damıneyt",
+},
+{
+  "ingilizceKelime":"pop",
+  "turkceKelime":"patlatmak",
+  "okunus":"pop",
+},
+{
+  "ingilizceKelime":"please",
+  "turkceKelime":"hoşnut etmek",
+  "okunus":"pliz",
+},
+{
+  "ingilizceKelime":"design",
+  "turkceKelime":"tasarlamak",
+  "okunus":"dizayn",
+},
+{
+  "ingilizceKelime":"intervene",
+  "turkceKelime":"araya girmek",
+  "okunus":"in(t)ıviğn",
+},
+{
+  "ingilizceKelime":"yield",
+  "turkceKelime":"teslim olmak",
+  "okunus":"yiğıld",
+},
+{
+  "ingilizceKelime":"resign",
+  "turkceKelime":"çekilmek",
+  "okunus":"rizayn",
+},
+{
+  "ingilizceKelime":"spell",
+  "turkceKelime":"harf harf kodlamak",
+  "okunus":"spel",
+},
+{
+  "ingilizceKelime":"shout",
+  "turkceKelime":"bağırmak",
+  "okunus":"şaut",
+},
+{
+  "ingilizceKelime":"stir",
+  "turkceKelime":"karıştırmak",
+  "okunus":"stır",
+},
+{
+  "ingilizceKelime":"spare",
+  "turkceKelime":"kıyamamak",
+  "okunus":"speğr",
+},
+{
+  "ingilizceKelime":"estimate",
+  "turkceKelime":"tahmin etmek",
+  "okunus":"estımıt",
+},
+{
+  "ingilizceKelime":"kick",
+  "turkceKelime":"tekme atmak",
+  "okunus":"kik",
+},
+{
+  "ingilizceKelime":"regret",
+  "turkceKelime":"pişman olmak",
+  "okunus":"rigret",
+},
+{
+  "ingilizceKelime":"offset",
+  "turkceKelime":"dengelemek",
+  "okunus":"ofset",
+},
+
+]},{ 
+"isim":"23",  
+ "data":[
+{
+  "ingilizceKelime":"list",
+  "turkceKelime":"listelemek",
+  "okunus":"list",
+},
+{
+  "ingilizceKelime":"dress",
+  "turkceKelime":"giyinmek",
+  "okunus":"dres",
+},
+{
+  "ingilizceKelime":"declare",
+  "turkceKelime":"bildirmek",
+  "okunus":"dekleyır",
+},
+{
+  "ingilizceKelime":"assure",
+  "turkceKelime":"garanti etmek",
+  "okunus":"eşuğr",
+},
+{
+  "ingilizceKelime":"derive",
+  "turkceKelime":"türetmek",
+  "okunus":"dırayv",
+},
+{
+  "ingilizceKelime":"access",
+  "turkceKelime":"erişim",
+  "okunus":"akses",
+},
+{
+  "ingilizceKelime":"delay",
+  "turkceKelime":"gecikmek",
+  "okunus":"dılay",
+},
+{
+  "ingilizceKelime":"clarify",
+  "turkceKelime":"açıklamak",
+  "okunus":"klerıfay",
+},
+{
+  "ingilizceKelime":"copy",
+  "turkceKelime":"kopyalamak",
+  "okunus":"kapiğ",
+},
+{
+  "ingilizceKelime":"favour",
+  "turkceKelime":"iyilik yapmak",
+  "okunus":"feyvır",
+},
+{
+  "ingilizceKelime":"dig",
+  "turkceKelime":"kazmak",
+  "okunus":"dig",
+},
+{
+  "ingilizceKelime":"respect",
+  "turkceKelime":"saygı göstermek",
+  "okunus":"rıspekt",
+},
+{
+  "ingilizceKelime":"hand",
+  "turkceKelime":"yardım etmek",
+  "okunus":"hend",
+},
+{
+  "ingilizceKelime":"capture",
+  "turkceKelime":"ele geçirmek",
+  "okunus":"kepçır",
+},
+{
+  "ingilizceKelime":"reinforce",
+  "turkceKelime":"takviye etmek",
+  "okunus":"riğınfors",
+},
+{
+  "ingilizceKelime":"transform",
+  "turkceKelime":"dönüştürmek",
+  "okunus":"trensform",
+},
+{
+  "ingilizceKelime":"perceive",
+  "turkceKelime":"algılamak",
+  "okunus":"pörsiv",
+},
+{
+  "ingilizceKelime":"function",
+  "turkceKelime":"işlevini yerine getirmek",
+  "okunus":"fankşın",
+},
+{
+  "ingilizceKelime":"threaten",
+  "turkceKelime":"tehdit etmek",
+  "okunus":"tıretığn",
+},
+{
+  "ingilizceKelime":"quit",
+  "turkceKelime":"çıkış yapmak",
+  "okunus":"kuit",
+},
+{
+  "ingilizceKelime":"accompany",
+  "turkceKelime":"eşlik etmek",
+  "okunus":"ekampani",
+},
+{
+  "ingilizceKelime":"swim",
+  "turkceKelime":"yüzmek",
+  "okunus":"svim",
+},
+{
+  "ingilizceKelime":"pack",
+  "turkceKelime":"paketlemek",
+  "okunus":"pek",
+},
+{
+  "ingilizceKelime":"correct",
+  "turkceKelime":"düzeltmek",
+  "okunus":"korrekt",
+},
+{
+  "ingilizceKelime":"cancel",
+  "turkceKelime":"iptal etmek",
+  "okunus":"kansıl",
+},
+
+]},{ 
+"isim":"24",  
+ "data":[
+{
+  "ingilizceKelime":"sail",
+  "turkceKelime":"denize açılmak",
+  "okunus":"seyıl",
+},
+{
+  "ingilizceKelime":"compensate",
+  "turkceKelime":"tazmin etmek",
+  "okunus":"kampınseyt",
+},
+{
+  "ingilizceKelime":"steal",
+  "turkceKelime":"hırsızlık yapmak",
+  "okunus":"stiğl",
+},
+{
+  "ingilizceKelime":"undermine",
+  "turkceKelime":"baltalamak",
+  "okunus":"andırmayn",
+},
+{
+  "ingilizceKelime":"range",
+  "turkceKelime":"dizmek,sıra haline getirmek",
+  "okunus":"renc",
+},
+{
+  "ingilizceKelime":"oppose",
+  "turkceKelime":"karşı çıkmak",
+  "okunus":"opoğz",
+},
+{
+  "ingilizceKelime":"locate",
+  "turkceKelime":"yerini belirlemek",
+  "okunus":"lokeyt",
+},
+{
+  "ingilizceKelime":"hurry",
+  "turkceKelime":"acele etmek",
+  "okunus":"höry",
+},
+{
+  "ingilizceKelime":"tap",
+  "turkceKelime":"hafifçe vurmak",
+  "okunus":"tep",
+},
+{
+  "ingilizceKelime":"broadcast",
+  "turkceKelime":"yaymak",
+  "okunus":"brodkest",
+},
+{
+  "ingilizceKelime":"sue",
+  "turkceKelime":"Dava açmak",
+  "okunus":"süuğ",
+},
+{
+  "ingilizceKelime":"store",
+  "turkceKelime":"depolamak",
+  "okunus":"stoğr",
+},
+{
+  "ingilizceKelime":"trade",
+  "turkceKelime":"ticaret yapmak",
+  "okunus":"treyd",
+},
+{
+  "ingilizceKelime":"emphasise",
+  "turkceKelime":"vurgu yapmak",
+  "okunus":"emfasayz",
+},
+{
+  "ingilizceKelime":"bid",
+  "turkceKelime":"teklif etmek",
+  "okunus":"bid",
+},
+{
+  "ingilizceKelime":"organize",
+  "turkceKelime":"düzenlemek",
+  "okunus":"orgenayz",
+},
+{
+  "ingilizceKelime":"light",
+  "turkceKelime":"aydınlatmak",
+  "okunus":"layt",
+},
+{
+  "ingilizceKelime":"slow",
+  "turkceKelime":"yavaşlatmak",
+  "okunus":"slov",
+},
+{
+  "ingilizceKelime":"concern",
+  "turkceKelime":"ilgilendirmek",
+  "okunus":"kınsörn",
+},
+{
+  "ingilizceKelime":"dismiss",
+  "turkceKelime":"reddetmek",
+  "okunus":"dismis",
+},
+{
+  "ingilizceKelime":"swear",
+  "turkceKelime":"yemin etmek",
+  "okunus":"sver",
+},
+{
+  "ingilizceKelime":"repair",
+  "turkceKelime":"onarmak",
+  "okunus":"ripeır",
+},
+{
+  "ingilizceKelime":"conform",
+  "turkceKelime":"uymak",
+  "okunus":"kınform",
+},
+{
+  "ingilizceKelime":"amount",
+  "turkceKelime":"toplama ulaşmak",
+  "okunus":"emaunt",
+},
+{
+  "ingilizceKelime":"attach",
+  "turkceKelime":"eklemek",
+  "okunus":"etağç",
+},
+
+]},{ 
+"isim":"25",  
+ "data":[
+{
+  "ingilizceKelime":"dream",
+  "turkceKelime":"hayal etmek",
+  "okunus":"driğm",
+},
+{
+  "ingilizceKelime":"rush",
+  "turkceKelime":"acele etmek",
+  "okunus":"raş",
+},
+{
+  "ingilizceKelime":"absorb",
+  "turkceKelime":"absorbe etmek",
+  "okunus":"abzorb",
+},
+{
+  "ingilizceKelime":"sink",
+  "turkceKelime":"batırmak",
+  "okunus":"sink",
+},
+{
+  "ingilizceKelime":"grab",
+  "turkceKelime":"yakalamak",
+  "okunus":"greb",
+},
+{
+  "ingilizceKelime":"calm",
+  "turkceKelime":"sakinleştirmek",
+  "okunus":"kalm",
+},
+{
+  "ingilizceKelime":"protest",
+  "turkceKelime":"protesto etmek",
+  "okunus":"protest",
+},
+{
+  "ingilizceKelime":"balance",
+  "turkceKelime":"dengelemek",
+  "okunus":"balıns",
+},
+{
+  "ingilizceKelime":"beg",
+  "turkceKelime":"yalvarmak",
+  "okunus":"beg",
+},
+{
+  "ingilizceKelime":"install",
+  "turkceKelime":"Yüklemek",
+  "okunus":"instol",
+},
+{
+  "ingilizceKelime":"advance",
+  "turkceKelime":"ilerlemek",
+  "okunus":"edveğns",
+},
+{
+  "ingilizceKelime":"fire",
+  "turkceKelime":"ateş etmek",
+  "okunus":"fayır",
+},
+{
+  "ingilizceKelime":"block",
+  "turkceKelime":"engellemek",
+  "okunus":"blak",
+},
+{
+  "ingilizceKelime":"aid",
+  "turkceKelime":"yardım etmek",
+  "okunus":"eyd",
+},
+{
+  "ingilizceKelime":"flow",
+  "turkceKelime":"akmak",
+  "okunus":"flov",
+},
+{
+  "ingilizceKelime":"drag",
+  "turkceKelime":"sürüklemek",
+  "okunus":"dreg",
+},
+{
+  "ingilizceKelime":"correspond",
+  "turkceKelime":"haberleşmek",
+  "okunus":"korspand",
+},
+{
+  "ingilizceKelime":"pose",
+  "turkceKelime":"poz vermek",
+  "okunus":"poğz",
+},
+{
+  "ingilizceKelime":"admire",
+  "turkceKelime":"beğenmek",
+  "okunus":"edmayır",
+},
+{
+  "ingilizceKelime":"relieve",
+  "turkceKelime":"rahatlatmak",
+  "okunus":"rıliğv",
+},
+{
+  "ingilizceKelime":"reverse",
+  "turkceKelime":"tersine çevirmek",
+  "okunus":"rivörs",
+},
+{
+  "ingilizceKelime":"time",
+  "turkceKelime":"zamanlamak",
+  "okunus":"taym",
+},
+{
+  "ingilizceKelime":"combat",
+  "turkceKelime":"dövüşmek",
+  "okunus":"koğmbat",
+},
+{
+  "ingilizceKelime":"integrate",
+  "turkceKelime":"birleştirmek",
+  "okunus":"inırgreyt",
+},
+{
+  "ingilizceKelime":"disagree",
+  "turkceKelime":"aynı fikirde olmamak",
+  "okunus":"disegriğ",
+},
+
+]},{ 
+"isim":"26",  
+ "data":[
+{
+  "ingilizceKelime":"connect",
+  "turkceKelime":"bağlamak",
+  "okunus":"kınnekt",
+},
+{
+  "ingilizceKelime":"update",
+  "turkceKelime":"Güncellemek",
+  "okunus":"updeyt",
+},
+{
+  "ingilizceKelime":"modify",
+  "turkceKelime":"değiştirmek",
+  "okunus":"modıfay",
+},
+{
+  "ingilizceKelime":"anticipate",
+  "turkceKelime":"beklemek",
+  "okunus":"antisıpeyt",
+},
+{
+  "ingilizceKelime":"tax",
+  "turkceKelime":"vergilendirmek",
+  "okunus":"teks",
+},
+{
+  "ingilizceKelime":"opt",
+  "turkceKelime":"tercih etmek",
+  "okunus":"apt",
+},
+{
+  "ingilizceKelime":"stare",
+  "turkceKelime":"dik dik bakmak",
+  "okunus":"steır",
+},
+{
+  "ingilizceKelime":"spot",
+  "turkceKelime":"lekelemek,benek benek olmak",
+  "okunus":"spat",
+},
+{
+  "ingilizceKelime":"command",
+  "turkceKelime":"komuta etmek",
+  "okunus":"kommend",
+},
+{
+  "ingilizceKelime":"obey",
+  "turkceKelime":"itaat etmek",
+  "okunus":"obeğy",
+},
+{
+  "ingilizceKelime":"house",
+  "turkceKelime":"barındırmak",
+  "okunus":"haus",
+},
+{
+  "ingilizceKelime":"extract",
+  "turkceKelime":"Ayıklamak",
+  "okunus":"ekstrakt",
+},
+{
+  "ingilizceKelime":"slide",
+  "turkceKelime":"kaymak",
+  "okunus":"slayd",
+},
+{
+  "ingilizceKelime":"counter",
+  "turkceKelime":"karşı atak yapmak",
+  "okunus":"keğnır",
+},
+{
+  "ingilizceKelime":"resume",
+  "turkceKelime":"sürdürmek",
+  "okunus":"rizüğm",
+},
+{
+  "ingilizceKelime":"grasp",
+  "turkceKelime":"sıkı sıkı tutmak",
+  "okunus":"gresp",
+},
+{
+  "ingilizceKelime":"swing",
+  "turkceKelime":"sallanmak",
+  "okunus":"sving",
+},
+{
+  "ingilizceKelime":"render",
+  "turkceKelime":"renderlamak",
+  "okunus":"rendır",
+},
+{
+  "ingilizceKelime":"speed",
+  "turkceKelime":"hız yapmak",
+  "okunus":"spiid",
+},
+{
+  "ingilizceKelime":"confront",
+  "turkceKelime":"karşısına çıkmak",
+  "okunus":"kınfroğnt",
+},
+{
+  "ingilizceKelime":"ban",
+  "turkceKelime":"yasaklamak",
+  "okunus":"beğn",
+},
+{
+  "ingilizceKelime":"wipe",
+  "turkceKelime":"silip süpürmek",
+  "okunus":"vayp",
+},
+{
+  "ingilizceKelime":"double",
+  "turkceKelime":"ikiye katlamak",
+  "okunus":"dabıl",
+},
+{
+  "ingilizceKelime":"comprise",
+  "turkceKelime":"içermek,kapsamak",
+  "okunus":"komprayz",
+},
+{
+  "ingilizceKelime":"witness",
+  "turkceKelime":"tanık olmak",
+  "okunus":"vitnığs",
+},
+
+]},{ 
+"isim":"27",  
+ "data":[
+{
+  "ingilizceKelime":"plant",
+  "turkceKelime":"ekmek,dikmek",
+  "okunus":"plent",
+},
+{
+  "ingilizceKelime":"breed",
+  "turkceKelime":"doğurmak",
+  "okunus":"briid",
+},
+{
+  "ingilizceKelime":"assert",
+  "turkceKelime":"ileri sürmek,iddia etmek",
+  "okunus":"esöğrt",
+},
+{
+  "ingilizceKelime":"disclose",
+  "turkceKelime":"ifşa etmek",
+  "okunus":"dizkloğz",
+},
+{
+  "ingilizceKelime":"defeat",
+  "turkceKelime":"yenilmek",
+  "okunus":"dıfiğt",
+},
+{
+  "ingilizceKelime":"squeeze",
+  "turkceKelime":"sıkmak",
+  "okunus":"skviğz",
+},
+{
+  "ingilizceKelime":"taste",
+  "turkceKelime":"tatmak",
+  "okunus":"teyst",
+},
+{
+  "ingilizceKelime":"bind",
+  "turkceKelime":"bağlamak",
+  "okunus":"baynd",
+},
+{
+  "ingilizceKelime":"harm",
+  "turkceKelime":"zarar vermek",
+  "okunus":"harm",
+},
+{
+  "ingilizceKelime":"encounter",
+  "turkceKelime":"rastlamak",
+  "okunus":"inkeğnır",
+},
+{
+  "ingilizceKelime":"request",
+  "turkceKelime":"rica etmek",
+  "okunus":"rikuest",
+},
+{
+  "ingilizceKelime":"struggle",
+  "turkceKelime":"mücadele etmek",
+  "okunus":"stragıl",
+},
+{
+  "ingilizceKelime":"hire",
+  "turkceKelime":"kiralamak",
+  "okunus":"hayğr",
+},
+{
+  "ingilizceKelime":"conceal",
+  "turkceKelime":"gizlemek",
+  "okunus":"kınsiğıl",
+},
+{
+  "ingilizceKelime":"recruit",
+  "turkceKelime":"iyileştirmek",
+  "okunus":"rıkruuğt",
+},
+{
+  "ingilizceKelime":"cooperate",
+  "turkceKelime":"işbirliği yapmak",
+  "okunus":"kuğapıryt",
+},
+{
+  "ingilizceKelime":"wander",
+  "turkceKelime":"gezmek",
+  "okunus":"vağndır",
+},
+{
+  "ingilizceKelime":"weigh",
+  "turkceKelime":"tartmak",
+  "okunus":"veyt",
+},
+{
+  "ingilizceKelime":"coincide",
+  "turkceKelime":"çakışmak",
+  "okunus":"koinsayd",
+},
+{
+  "ingilizceKelime":"bend",
+  "turkceKelime":"Bükmek",
+  "okunus":"bend",
+},
+{
+  "ingilizceKelime":"regulate",
+  "turkceKelime":"düzenlemek",
+  "okunus":"regüleyt",
+},
+{
+  "ingilizceKelime":"rescue",
+  "turkceKelime":"kurtarmak",
+  "okunus":"reğsküğ",
+},
+{
+  "ingilizceKelime":"entertain",
+  "turkceKelime":"eğlendirmek",
+  "okunus":"enırteyn",
+},
+{
+  "ingilizceKelime":"forecast",
+  "turkceKelime":"tahmin etmek",
+  "okunus":"forkest",
+},
+{
+  "ingilizceKelime":"inspect",
+  "turkceKelime":"incelemek",
+  "okunus":"inspekt",
+},
+
+]},{ 
+"isim":"28",  
+ "data":[
+{
+  "ingilizceKelime":"export",
+  "turkceKelime":"ihracat etmek",
+  "okunus":"eksport",
+},
+{
+  "ingilizceKelime":"urge",
+  "turkceKelime":"zorlamak",
+  "okunus":"öğc",
+},
+{
+  "ingilizceKelime":"highlight",
+  "turkceKelime":"vurgulamak",
+  "okunus":"haylayt",
+},
+{
+  "ingilizceKelime":"induce",
+  "turkceKelime":"teşvik etmek",
+  "okunus":"indüğus",
+},
+{
+  "ingilizceKelime":"lock",
+  "turkceKelime":"kilitlemek",
+  "okunus":"lak",
+},
+{
+  "ingilizceKelime":"exhibit",
+  "turkceKelime":"sergilemek",
+  "okunus":"igzibit",
+},
+{
+  "ingilizceKelime":"exchange",
+  "turkceKelime":"değiş tokuş",
+  "okunus":"eksçeync",
+},
+{
+  "ingilizceKelime":"warm",
+  "turkceKelime":"ısıtmak",
+  "okunus":"vorm",
+},
+{
+  "ingilizceKelime":"confess",
+  "turkceKelime":"itiraf etmek",
+  "okunus":"kınfes",
+},
+{
+  "ingilizceKelime":"tolerate",
+  "turkceKelime":"tahammül etmek",
+  "okunus":"tolıreyt",
+},
+{
+  "ingilizceKelime":"mount",
+  "turkceKelime":"binmek,üzerine yerleştirmek",
+  "okunus":"mağğnt",
+},
+{
+  "ingilizceKelime":"brush",
+  "turkceKelime":"fırçalamak",
+  "okunus":"braş",
+},
+{
+  "ingilizceKelime":"reproduce",
+  "turkceKelime":"çoğaltmak",
+  "okunus":"riprodüyz",
+},
+{
+  "ingilizceKelime":"undergo",
+  "turkceKelime":"uğramak",
+  "okunus":"andırgo",
+},
+{
+  "ingilizceKelime":"impress",
+  "turkceKelime":"etkilemek",
+  "okunus":"impres",
+},
+{
+  "ingilizceKelime":"figure",
+  "turkceKelime":"tasvir etmek",
+  "okunus":"figüür",
+},
+{
+  "ingilizceKelime":"decline",
+  "turkceKelime":"reddetmek",
+  "okunus":"diklayn",
+},
+{
+  "ingilizceKelime":"rub",
+  "turkceKelime":"ovalamak",
+  "okunus":"rağb",
+},
+{
+  "ingilizceKelime":"cater",
+  "turkceKelime":"sağlamak,karşılamak",
+  "okunus":"keydır",
+},
+{
+  "ingilizceKelime":"tour",
+  "turkceKelime":"tur yapmak",
+  "okunus":"tuğr",
+},
+{
+  "ingilizceKelime":"distribute",
+  "turkceKelime":"dağıtmak",
+  "okunus":"distrıbüğt",
+},
+{
+  "ingilizceKelime":"sense",
+  "turkceKelime":"algılamak",
+  "okunus":"sens",
+},
+{
+  "ingilizceKelime":"repay",
+  "turkceKelime":"geri ödemek",
+  "okunus":"ripey",
+},
+{
+  "ingilizceKelime":"regain",
+  "turkceKelime":"yeniden kazanmak",
+  "okunus":"rigeyn",
+},
+{
+  "ingilizceKelime":"minimise",
+  "turkceKelime":"küçültmek",
+  "okunus":"minimayz",
+},
+
+]},{ 
+"isim":"29",  
+ "data":[
+{
+  "ingilizceKelime":"shape",
+  "turkceKelime":"şekillendirmek",
+  "okunus":"şeyp",
+},
+{
+  "ingilizceKelime":"cool",
+  "turkceKelime":"soğutmak",
+  "okunus":"kuuğl",
+},
+{
+  "ingilizceKelime":"disturb",
+  "turkceKelime":"rahatsız etmek",
+  "okunus":"distırb",
+},
+{
+  "ingilizceKelime":"bite",
+  "turkceKelime":"ısırmak",
+  "okunus":"bayt",
+},
+{
+  "ingilizceKelime":"progress",
+  "turkceKelime":"ilerlemek",
+  "okunus":"progres",
+},
+{
+  "ingilizceKelime":"devote",
+  "turkceKelime":"adamak",
+  "okunus":"divoğt",
+},
+{
+  "ingilizceKelime":"provoke",
+  "turkceKelime":"kışkırtmak",
+  "okunus":"prıvoğk",
+},
+{
+  "ingilizceKelime":"dispose",
+  "turkceKelime":"elden çıkarmak,cesaretlendirmek",
+  "okunus":"dispoğz",
+},
+{
+  "ingilizceKelime":"translate",
+  "turkceKelime":"Çevirmek",
+  "okunus":"trenzleyt",
+},
+{
+  "ingilizceKelime":"reassure",
+  "turkceKelime":"güvence vermek",
+  "okunus":"riğışüğr",
+},
+{
+  "ingilizceKelime":"contemplate",
+  "turkceKelime":"düşünmek",
+  "okunus":"kontımpleyt",
+},
+{
+  "ingilizceKelime":"service",
+  "turkceKelime":"hizmet vermek",
+  "okunus":"sörvıs",
+},
+{
+  "ingilizceKelime":"interact",
+  "turkceKelime":"etkileşime girmek",
+  "okunus":"in(t)ırekt",
+},
+{
+  "ingilizceKelime":"heat",
+  "turkceKelime":"ısıtmak",
+  "okunus":"hiğt",
+},
+{
+  "ingilizceKelime":"devise",
+  "turkceKelime":"tasarlamak",
+  "okunus":"dövayz",
+},
+{
+  "ingilizceKelime":"govern",
+  "turkceKelime":"yönetmek",
+  "okunus":"gavır",
+},
+{
+  "ingilizceKelime":"apologise",
+  "turkceKelime":"özür dilemek",
+  "okunus":"apolıcays",
+},
+{
+  "ingilizceKelime":"expose",
+  "turkceKelime":"ortaya çıkarmak",
+  "okunus":"ekspoğz",
+},
+{
+  "ingilizceKelime":"embrace",
+  "turkceKelime":"kucaklamak",
+  "okunus":"embreys",
+},
+{
+  "ingilizceKelime":"comfort",
+  "turkceKelime":"rahatlamak",
+  "okunus":"kamfırt",
+},
+{
+  "ingilizceKelime":"melt",
+  "turkceKelime":"erimek,eritmek",
+  "okunus":"melt",
+},
+{
+  "ingilizceKelime":"lean",
+  "turkceKelime":"yaslanmak,uzanmak",
+  "okunus":"liğn",
+},
+{
+  "ingilizceKelime":"exert",
+  "turkceKelime":"efor sarf etmek",
+  "okunus":"egzırt",
+},
+{
+  "ingilizceKelime":"beware",
+  "turkceKelime":"dikkat et",
+  "okunus":"biveyr",
+},
+{
+  "ingilizceKelime":"resemble",
+  "turkceKelime":"benzemek",
+  "okunus":"rizembıl",
+},
+
+]},{ 
+"isim":"30",  
+ "data":[
+{
+  "ingilizceKelime":"abolish",
+  "turkceKelime":"ortadan kaldırmak",
+  "okunus":"ebalış",
+},
+{
+  "ingilizceKelime":"wed",
+  "turkceKelime":"evlenmek",
+  "okunus":"ved",
+},
+{
+  "ingilizceKelime":"arrest",
+  "turkceKelime":"tutuklanmak",
+  "okunus":"ırrest",
+},
+{
+  "ingilizceKelime":"crack",
+  "turkceKelime":"çatlatmak,kırmak",
+  "okunus":"krek",
+},
+{
+  "ingilizceKelime":"suppress",
+  "turkceKelime":"bastırmak",
+  "okunus":"sıpres",
+},
+{
+  "ingilizceKelime":"guard",
+  "turkceKelime":"koruma",
+  "okunus":"gard",
+},
+{
+  "ingilizceKelime":"surprise",
+  "turkceKelime":"sürpriz yapmak",
+  "okunus":"suprayz",
+},
+{
+  "ingilizceKelime":"hesitate",
+  "turkceKelime":"tereddüt etmek",
+  "okunus":"hezıteyt",
+},
+{
+  "ingilizceKelime":"load",
+  "turkceKelime":"Yüklemek",
+  "okunus":"loğd",
+},
+{
+  "ingilizceKelime":"swallow",
+  "turkceKelime":"Yutmak",
+  "okunus":"svalov",
+},
+{
+  "ingilizceKelime":"initiate",
+  "turkceKelime":"başlatmak",
+  "okunus":"inışıeyt",
+},
+{
+  "ingilizceKelime":"float",
+  "turkceKelime":"batmadan yüzmek",
+  "okunus":"floğt",
+},
+{
+  "ingilizceKelime":"effect",
+  "turkceKelime":"sonuca vardırmak",
+  "okunus":"efekt",
+},
+{
+  "ingilizceKelime":"manipulate",
+  "turkceKelime":"manipule etmek",
+  "okunus":"manüpıleyt",
+},
+{
+  "ingilizceKelime":"deter",
+  "turkceKelime":"caydırmak",
+  "okunus":"diteğ",
+},
+{
+  "ingilizceKelime":"associate",
+  "turkceKelime":"ortak olmak,birleştirmek",
+  "okunus":"esosieğyt",
+},
+{
+  "ingilizceKelime":"administer",
+  "turkceKelime":"yönetmek",
+  "okunus":"edministır",
+},
+{
+  "ingilizceKelime":"murder",
+  "turkceKelime":"cinayet",
+  "okunus":"mördır",
+},
+{
+  "ingilizceKelime":"persist",
+  "turkceKelime":"ısrar etmek",
+  "okunus":"pörsist",
+},
+{
+  "ingilizceKelime":"greet",
+  "turkceKelime":"selamlamak",
+  "okunus":"griit",
+},
+{
+  "ingilizceKelime":"hunt",
+  "turkceKelime":"avlamak",
+  "okunus":"hant",
+},
+{
+  "ingilizceKelime":"spoil",
+  "turkceKelime":"şımartmak",
+  "okunus":"spoyıl",
+},
+{
+  "ingilizceKelime":"line",
+  "turkceKelime":"çizgi çekmek",
+  "okunus":"layn",
+},
+{
+  "ingilizceKelime":"bless",
+  "turkceKelime":"kutsamak",
+  "okunus":"bles",
+},
+{
+  "ingilizceKelime":"ascertain",
+  "turkceKelime":"anlamak",
+  "okunus":"esöğteyn",
+},
+
+]},{ 
+"isim":"31",  
+ "data":[
+{
+  "ingilizceKelime":"penetrate",
+  "turkceKelime":"nüfuz etmek",
+  "okunus":"penıtreyt",
+},
+{
+  "ingilizceKelime":"multiply",
+  "turkceKelime":"çarpmak(matematiksel)",
+  "okunus":"multıplay",
+},
+{
+  "ingilizceKelime":"merge",
+  "turkceKelime":"birleştirmek",
+  "okunus":"mörc",
+},
+{
+  "ingilizceKelime":"coach",
+  "turkceKelime":"hazırlamak,eğitmek",
+  "okunus":"koğç",
+},
+{
+  "ingilizceKelime":"drain",
+  "turkceKelime":"boşaltmak",
+  "okunus":"dreyn",
+},
+{
+  "ingilizceKelime":"suffice",
+  "turkceKelime":"yetmek",
+  "okunus":"sofays",
+},
+{
+  "ingilizceKelime":"presume",
+  "turkceKelime":"varsaymak",
+  "okunus":"pırzüğm",
+},
+{
+  "ingilizceKelime":"fish",
+  "turkceKelime":"balık tutmak",
+  "okunus":"fiş",
+},
+{
+  "ingilizceKelime":"shop",
+  "turkceKelime":"alışveriş yapmak",
+  "okunus":"şap",
+},
+{
+  "ingilizceKelime":"race",
+  "turkceKelime":"yarışmak",
+  "okunus":"reys",
+},
+{
+  "ingilizceKelime":"honour",
+  "turkceKelime":"Onurlandırmak",
+  "okunus":"ağnır",
+},
+{
+  "ingilizceKelime":"freeze",
+  "turkceKelime":"donmak",
+  "okunus":"friiğz",
+},
+{
+  "ingilizceKelime":"cure",
+  "turkceKelime":"tedavi etmek",
+  "okunus":"küğur",
+},
+{
+  "ingilizceKelime":"revive",
+  "turkceKelime":"canlandırmak",
+  "okunus":"rivayv",
+},
+{
+  "ingilizceKelime":"swap",
+  "turkceKelime":"takas yapmak",
+  "okunus":"svap",
+},
+{
+  "ingilizceKelime":"endure",
+  "turkceKelime":"dayanmak",
+  "okunus":"endüğr",
+},
+{
+  "ingilizceKelime":"chase",
+  "turkceKelime":"kovalamak",
+  "okunus":"çeys",
+},
+{
+  "ingilizceKelime":"consume",
+  "turkceKelime":"tüketmek",
+  "okunus":"kınsuğm",
+},
+{
+  "ingilizceKelime":"insert",
+  "turkceKelime":"girmek",
+  "okunus":"insört",
+},
+{
+  "ingilizceKelime":"anger",
+  "turkceKelime":"kızmak",
+  "okunus":"engır",
+},
+{
+  "ingilizceKelime":"await",
+  "turkceKelime":"beklemek",
+  "okunus":"eveyt",
+},
+{
+  "ingilizceKelime":"drift",
+  "turkceKelime":"sürüklenme,drift yapmak",
+  "okunus":"drift",
+},
+{
+  "ingilizceKelime":"surrender",
+  "turkceKelime":"teslim olmak",
+  "okunus":"sörendır",
+},
+{
+  "ingilizceKelime":"contract",
+  "turkceKelime":"sözleşme yapmak",
+  "okunus":"kantrekt",
+},
+{
+  "ingilizceKelime":"differentiate",
+  "turkceKelime":"ayırt etmek",
+  "okunus":"difırenşieyt",
+},
+
+]},{ 
+"isim":"32",  
+ "data":[
+{
+  "ingilizceKelime":"advertise",
+  "turkceKelime":"reklamını yapmak",
+  "okunus":"edvırtayz",
+},
+{
+  "ingilizceKelime":"reconcile",
+  "turkceKelime":"uzlaştırmak",
+  "okunus":"rekınsayl",
+},
+{
+  "ingilizceKelime":"project",
+  "turkceKelime":"proje hazırlamak",
+  "okunus":"procekt",
+},
+{
+  "ingilizceKelime":"coordinate",
+  "turkceKelime":"koordine etmek",
+  "okunus":"kordineyt",
+},
+{
+  "ingilizceKelime":"snap",
+  "turkceKelime":"patlatmak",
+  "okunus":"snep",
+},
+{
+  "ingilizceKelime":"damn",
+  "turkceKelime":"lanet etmek",
+  "okunus":"değm",
+},
+{
+  "ingilizceKelime":"bake",
+  "turkceKelime":"pişirmek",
+  "okunus":"beyk",
+},
+{
+  "ingilizceKelime":"overwhelm",
+  "turkceKelime":"alt etmek",
+  "okunus":"ovırvelğm",
+},
+{
+  "ingilizceKelime":"fold",
+  "turkceKelime":"katlamak",
+  "okunus":"fold",
+},
+{
+  "ingilizceKelime":"concede",
+  "turkceKelime":"kabul etmek",
+  "okunus":"kınsid",
+},
+{
+  "ingilizceKelime":"renew",
+  "turkceKelime":"Yenilemek",
+  "okunus":"riniuv",
+},
+{
+  "ingilizceKelime":"formulate",
+  "turkceKelime":"formüle etmek",
+  "okunus":"formuleyt",
+},
+{
+  "ingilizceKelime":"confuse",
+  "turkceKelime":"şaşırtmak",
+  "okunus":"kınfiüz",
+},
+{
+  "ingilizceKelime":"maximise",
+  "turkceKelime":"maksimize etmek",
+  "okunus":"meksimayz",
+},
+{
+  "ingilizceKelime":"sweep",
+  "turkceKelime":"süpürme",
+  "okunus":"sviğp",
+},
+{
+  "ingilizceKelime":"cheer",
+  "turkceKelime":"tezahürat etmek",
+  "okunus":"çiğır",
+},
+{
+  "ingilizceKelime":"steer",
+  "turkceKelime":"yönlendirmek",
+  "okunus":"stiır",
+},
+{
+  "ingilizceKelime":"base",
+  "turkceKelime":"temellendirmek",
+  "okunus":"beys",
+},
+{
+  "ingilizceKelime":"decrease",
+  "turkceKelime":"azalmak",
+  "okunus":"dıkriğz",
+},
+{
+  "ingilizceKelime":"reserve",
+  "turkceKelime":"rezerve etmek,ayırtmak",
+  "okunus":"rizörv",
+},
+{
+  "ingilizceKelime":"host",
+  "turkceKelime":"konuk etmek",
+  "okunus":"hoğst",
+},
+{
+  "ingilizceKelime":"evolve",
+  "turkceKelime":"evrim geçirmek",
+  "okunus":"evalv",
+},
+{
+  "ingilizceKelime":"foster",
+  "turkceKelime":"gayretlendirmek",
+  "okunus":"fağstır",
+},
+{
+  "ingilizceKelime":"discourage",
+  "turkceKelime":"vazgeçirmek",
+  "okunus":"diskarıc",
+},
+{
+  "ingilizceKelime":"curb",
+  "turkceKelime":"zapt etmek",
+  "okunus":"körb",
+},
+
+]},{ 
+"isim":"33",  
+ "data":[
+{
+  "ingilizceKelime":"allocate",
+  "turkceKelime":"tahsis etmek",
+  "okunus":"eğlıkeyt",
+},
+{
+  "ingilizceKelime":"supervise",
+  "turkceKelime":"denetlemek",
+  "okunus":"supırvayz",
+},
+{
+  "ingilizceKelime":"fade",
+  "turkceKelime":"solmak",
+  "okunus":"feyd",
+},
+{
+  "ingilizceKelime":"endorse",
+  "turkceKelime":"onayla",
+  "okunus":"indors",
+},
+{
+  "ingilizceKelime":"condemn",
+  "turkceKelime":"kınamak",
+  "okunus":"kındeğm",
+},
+{
+  "ingilizceKelime":"tip",
+  "turkceKelime":"bahşiş vermek",
+  "okunus":"tip",
+},
+{
+  "ingilizceKelime":"reform",
+  "turkceKelime":"reform yapmak",
+  "okunus":"rıform",
+},
+{
+  "ingilizceKelime":"complement",
+  "turkceKelime":"tamamlamak",
+  "okunus":"kamplımınt",
+},
+{
+  "ingilizceKelime":"punish",
+  "turkceKelime":"cezalandırmak",
+  "okunus":"pağnış",
+},
+{
+  "ingilizceKelime":"bang",
+  "turkceKelime":"patlatmak",
+  "okunus":"beng",
+},
+{
+  "ingilizceKelime":"outline",
+  "turkceKelime":"özetlemek",
+  "okunus":"autlayn",
+},
+{
+  "ingilizceKelime":"diminish",
+  "turkceKelime":"azaltmak",
+  "okunus":"dımığnış",
+},
+{
+  "ingilizceKelime":"prevail",
+  "turkceKelime":"üstün gelmek,yenmek",
+  "okunus":"pırveyl",
+},
+{
+  "ingilizceKelime":"leap",
+  "turkceKelime":"sıçramak",
+  "okunus":"liğp",
+},
+{
+  "ingilizceKelime":"wrap",
+  "turkceKelime":"sarmak,dolamak",
+  "okunus":"rağp",
+},
+{
+  "ingilizceKelime":"compromise",
+  "turkceKelime":"anlaşmak",
+  "okunus":"kampırmayz",
+},
+{
+  "ingilizceKelime":"collapse",
+  "turkceKelime":"çökmek",
+  "okunus":"kolağps",
+},
+{
+  "ingilizceKelime":"safeguard",
+  "turkceKelime":"korumak",
+  "okunus":"seyfgard",
+},
+{
+  "ingilizceKelime":"inhibit",
+  "turkceKelime":"engellemek",
+  "okunus":"inhibit",
+},
+{
+  "ingilizceKelime":"scream",
+  "turkceKelime":"çığlık atmak",
+  "okunus":"skriğm",
+},
+{
+  "ingilizceKelime":"date",
+  "turkceKelime":"buluşmak",
+  "okunus":"deyt",
+},
+{
+  "ingilizceKelime":"delete",
+  "turkceKelime":"silmek",
+  "okunus":"dıliğt",
+},
+{
+  "ingilizceKelime":"attain",
+  "turkceKelime":"ulaşmak",
+  "okunus":"eteyğn",
+},
+{
+  "ingilizceKelime":"dislike",
+  "turkceKelime":"Beğenmemek",
+  "okunus":"dislayk",
+},
+{
+  "ingilizceKelime":"conceive",
+  "turkceKelime":"gebe kalmak",
+  "okunus":"kınsiğv",
+},
+
+]},{ 
+"isim":"34",  
+ "data":[
+{
+  "ingilizceKelime":"shine",
+  "turkceKelime":"parlamak",
+  "okunus":"şayn",
+},
+{
+  "ingilizceKelime":"dictate",
+  "turkceKelime":"dikte etmek",
+  "okunus":"dıktey",
+},
+{
+  "ingilizceKelime":"unite",
+  "turkceKelime":"birleştirmek",
+  "okunus":"yunayt",
+},
+{
+  "ingilizceKelime":"import",
+  "turkceKelime":"içe aktarmak,ithal etmek",
+  "okunus":"import",
+},
+{
+  "ingilizceKelime":"rebuild",
+  "turkceKelime":"yeniden inşa etmek",
+  "okunus":"ribiğld",
+},
+{
+  "ingilizceKelime":"flourish",
+  "turkceKelime":"güzelleşmek",
+  "okunus":"flourış",
+},
+{
+  "ingilizceKelime":"criticise",
+  "turkceKelime":"eleştirmek",
+  "okunus":"kridısayz",
+},
+{
+  "ingilizceKelime":"boil",
+  "turkceKelime":"kaynamak,kaynatmak",
+  "okunus":"boyğl",
+},
+{
+  "ingilizceKelime":"flee",
+  "turkceKelime":"kaçmak",
+  "okunus":"fliğ",
+},
+{
+  "ingilizceKelime":"commence",
+  "turkceKelime":"başlamak",
+  "okunus":"kımens",
+},
+{
+  "ingilizceKelime":"praise",
+  "turkceKelime":"övmek",
+  "okunus":"preyz",
+},
+{
+  "ingilizceKelime":"draft",
+  "turkceKelime":"taslak hazırlamak",
+  "okunus":"dreft",
+},
+{
+  "ingilizceKelime":"park",
+  "turkceKelime":"park etmek",
+  "okunus":"park",
+},
+{
+  "ingilizceKelime":"discriminate",
+  "turkceKelime":"ayrımcılık yapmak",
+  "okunus":"diskrımineyt",
+},
+{
+  "ingilizceKelime":"track",
+  "turkceKelime":"Izlemek",
+  "okunus":"trek",
+},
+{
+  "ingilizceKelime":"enclose",
+  "turkceKelime":"çevrelemek",
+  "okunus":"inkloğz",
+},
+{
+  "ingilizceKelime":"interview",
+  "turkceKelime":"röportaj yapmak",
+  "okunus":"inırvyuğ",
+},
+{
+  "ingilizceKelime":"tighten",
+  "turkceKelime":"sıkılaştırmak",
+  "okunus":"tayğın",
+},
+{
+  "ingilizceKelime":"price",
+  "turkceKelime":"fiyatlandırmak",
+  "okunus":"prays",
+},
+{
+  "ingilizceKelime":"colour",
+  "turkceKelime":"renklendirmek",
+  "okunus":"kağlır",
+},
+{
+  "ingilizceKelime":"venture",
+  "turkceKelime":"göze almak,riske etmek",
+  "okunus":"vençır",
+},
+{
+  "ingilizceKelime":"speculate",
+  "turkceKelime":"spekülasyon yapmak",
+  "okunus":"speküleyt",
+},
+{
+  "ingilizceKelime":"depart",
+  "turkceKelime":"ayrılmak,yola çıkmak",
+  "okunus":"dıpart",
+},
+{
+  "ingilizceKelime":"bury",
+  "turkceKelime":"gömmek",
+  "okunus":"berğiy",
+},
+{
+  "ingilizceKelime":"interrupt",
+  "turkceKelime":"yarıda kesmek",
+  "okunus":"in(t)ırapt",
+},
+
+]},{ 
+"isim":"35",  
+ "data":[
+{
+  "ingilizceKelime":"disguise",
+  "turkceKelime":"kılık değiştirmek",
+  "okunus":"disgayz",
+},
+{
+  "ingilizceKelime":"elect",
+  "turkceKelime":"seçmek",
+  "okunus":"iğlekt",
+},
+{
+  "ingilizceKelime":"withstand",
+  "turkceKelime":"dayanmak",
+  "okunus":"vitstend",
+},
+{
+  "ingilizceKelime":"discharge",
+  "turkceKelime":"deşarj etmek",
+  "okunus":"disçarc",
+},
+{
+  "ingilizceKelime":"restrain",
+  "turkceKelime":"dizginlemek",
+  "okunus":"rıstreyn",
+},
+{
+  "ingilizceKelime":"thrive",
+  "turkceKelime":"gelişmek",
+  "okunus":"tırayv",
+},
+{
+  "ingilizceKelime":"echo",
+  "turkceKelime":"yankılanmak",
+  "okunus":"ekoğ",
+},
+{
+  "ingilizceKelime":"divert",
+  "turkceKelime":"yönlendirmek",
+  "okunus":"dayvört",
+},
+{
+  "ingilizceKelime":"fry",
+  "turkceKelime":"yağda kızartmak",
+  "okunus":"fray",
+},
+{
+  "ingilizceKelime":"dissolve",
+  "turkceKelime":"çözmek",
+  "okunus":"dizoğlv",
+},
+{
+  "ingilizceKelime":"edit",
+  "turkceKelime":"Düzenlemek",
+  "okunus":"edit",
+},
+{
+  "ingilizceKelime":"assemble",
+  "turkceKelime":"birleştirmek",
+  "okunus":"ısembıl",
+},
+{
+  "ingilizceKelime":"ruin",
+  "turkceKelime":"mahvetmek",
+  "okunus":"ruuın",
+},
+{
+  "ingilizceKelime":"accelerate",
+  "turkceKelime":"hızlanmak",
+  "okunus":"ikselıreyt",
+},
+{
+  "ingilizceKelime":"envisage",
+  "turkceKelime":"tasavvur etmek",
+  "okunus":"invizıc",
+},
+{
+  "ingilizceKelime":"congratulate",
+  "turkceKelime":"tebrik etmek",
+  "okunus":"kıngraculeyt",
+},
+{
+  "ingilizceKelime":"retrieve",
+  "turkceKelime":"geri almak",
+  "okunus":"rıtriğv",
+},
+{
+  "ingilizceKelime":"descend",
+  "turkceKelime":"inmek",
+  "okunus":"dısend",
+},
+{
+  "ingilizceKelime":"suspend",
+  "turkceKelime":"askıya almak",
+  "okunus":"sıspend",
+},
+{
+  "ingilizceKelime":"experiment",
+  "turkceKelime":"Deney yapmak",
+  "okunus":"iksperımınd",
+},
+{
+  "ingilizceKelime":"ship",
+  "turkceKelime":"gemi ile yollamak",
+  "okunus":"şip",
+},
+{
+  "ingilizceKelime":"frighten",
+  "turkceKelime":"korkutmak",
+  "okunus":"fraytın",
+},
+{
+  "ingilizceKelime":"fool",
+  "turkceKelime":"enayi yerine koymak",
+  "okunus":"fuul",
+},
+{
+  "ingilizceKelime":"inspire",
+  "turkceKelime":"ilham vermek",
+  "okunus":"inspayır",
+},
+{
+  "ingilizceKelime":"heal",
+  "turkceKelime":"iyileştirmek",
+  "okunus":"hiğıl",
+},
+
+]},{ 
+"isim":"36",  
+ "data":[
+{
+  "ingilizceKelime":"terminate",
+  "turkceKelime":"sonlandırmak",
+  "okunus":"törmıneyt",
+},
+{
+  "ingilizceKelime":"amend",
+  "turkceKelime":"değiştirmek",
+  "okunus":"amend",
+},
+{
+  "ingilizceKelime":"embark",
+  "turkceKelime":"gemiye binmek",
+  "okunus":"embark",
+},
+{
+  "ingilizceKelime":"book",
+  "turkceKelime":"rezerve etmek,ayırtmak",
+  "okunus":"buğk",
+},
+{
+  "ingilizceKelime":"entail",
+  "turkceKelime":"yol açmak",
+  "okunus":"inteyl",
+},
+{
+  "ingilizceKelime":"execute",
+  "turkceKelime":"uygulamak",
+  "okunus":"ekseküğt",
+},
+{
+  "ingilizceKelime":"consolidate",
+  "turkceKelime":"pekiştirmek",
+  "okunus":"kınsoludeyt",
+},
+{
+  "ingilizceKelime":"cash",
+  "turkceKelime":"nakite çevirmek",
+  "okunus":"keğş",
+},
+{
+  "ingilizceKelime":"isolate",
+  "turkceKelime":"izole etmek",
+  "okunus":"eysoleyt",
+},
+{
+  "ingilizceKelime":"warrant",
+  "turkceKelime":"garanti vermek",
+  "okunus":"voğrınt",
+},
+{
+  "ingilizceKelime":"signal",
+  "turkceKelime":"sinyal vermek",
+  "okunus":"signıl",
+},
+{
+  "ingilizceKelime":"weaken",
+  "turkceKelime":"zayıflatmak",
+  "okunus":"viğkın",
+},
+{
+  "ingilizceKelime":"pin",
+  "turkceKelime":"tutturmak,iğnelemek",
+  "okunus":"pin",
+},
+{
+  "ingilizceKelime":"march",
+  "turkceKelime":"yürüyüş yapmak",
+  "okunus":"març",
+},
+{
+  "ingilizceKelime":"desire",
+  "turkceKelime":"arzulamak",
+  "okunus":"dizayır",
+},
+{
+  "ingilizceKelime":"widen",
+  "turkceKelime":"genişletmek",
+  "okunus":"vaydn",
+},
+{
+  "ingilizceKelime":"level",
+  "turkceKelime":"eşitlemek",
+  "okunus":"levıl",
+},
+{
+  "ingilizceKelime":"chat",
+  "turkceKelime":"sohbet etmek",
+  "okunus":"çet",
+},
+{
+  "ingilizceKelime":"contend",
+  "turkceKelime":"tartışmak",
+  "okunus":"kıntend",
+},
+{
+  "ingilizceKelime":"invent",
+  "turkceKelime":"icat etmek",
+  "okunus":"invent",
+},
+{
+  "ingilizceKelime":"manufacture",
+  "turkceKelime":"imal etmek",
+  "okunus":"meğnüfekşır",
+},
+{
+  "ingilizceKelime":"seal",
+  "turkceKelime":"mühürlemek",
+  "okunus":"siğıl",
+},
+{
+  "ingilizceKelime":"reconsider",
+  "turkceKelime":"yeniden gözden geçirmek",
+  "okunus":"rikınsidır",
+},
+{
+  "ingilizceKelime":"picture",
+  "turkceKelime":"resmetmek",
+  "okunus":"pikçır",
+},
+{
+  "ingilizceKelime":"crash",
+  "turkceKelime":"çarpmak",
+  "okunus":"kreğş",
+},
+
+]},{ 
+"isim":"37",  
+ "data":[
+{
+  "ingilizceKelime":"transport",
+  "turkceKelime":"taşımak,nakletmek",
+  "okunus":"trensport",
+},
+{
+  "ingilizceKelime":"plug",
+  "turkceKelime":"tıkamak",
+  "okunus":"plag",
+},
+{
+  "ingilizceKelime":"assign",
+  "turkceKelime":"atamak",
+  "okunus":"esayn",
+},
+{
+  "ingilizceKelime":"enquire",
+  "turkceKelime":"sormak",
+  "okunus":"inkuayır",
+},
+{
+  "ingilizceKelime":"trap",
+  "turkceKelime":"tuzak kurmak",
+  "okunus":"trep",
+},
+{
+  "ingilizceKelime":"surround",
+  "turkceKelime":"çevrelemek,kuşatmak",
+  "okunus":"söraound",
+},
+{
+  "ingilizceKelime":"debate",
+  "turkceKelime":"çekişmek",
+  "okunus":"dibeyt",
+},
+{
+  "ingilizceKelime":"upgrade",
+  "turkceKelime":"Yükseltmek,terfi ettirmek",
+  "okunus":"apgıreyd",
+},
+{
+  "ingilizceKelime":"decorate",
+  "turkceKelime":"süslemek",
+  "okunus":"dekoreyt",
+},
+{
+  "ingilizceKelime":"confer",
+  "turkceKelime":"görüşmek",
+  "okunus":"kınfığr",
+},
+{
+  "ingilizceKelime":"accumulate",
+  "turkceKelime":"biriktirmek",
+  "okunus":"akyüğmıleyt",
+},
+{
+  "ingilizceKelime":"profit",
+  "turkceKelime":"kâr etmek",
+  "okunus":"profıt",
+},
+{
+  "ingilizceKelime":"file",
+  "turkceKelime":"dosyalamak",
+  "okunus":"fayl",
+},
+{
+  "ingilizceKelime":"inherit",
+  "turkceKelime":"miras",
+  "okunus":"almak",
+},
+{
+  "ingilizceKelime":"disrupt",
+  "turkceKelime":"bozmak",
+  "okunus":"disrapt",
+},
+{
+  "ingilizceKelime":"contrast",
+  "turkceKelime":"tezat oluşturmak",
+  "okunus":"kantrest",
+},
+{
+  "ingilizceKelime":"plead",
+  "turkceKelime":"yalvarmak",
+  "okunus":"pliğd******",
+},
+{
+  "ingilizceKelime":"dip",
+  "turkceKelime":"dalış yapmak",
+  "okunus":"dip",
+},
+{
+  "ingilizceKelime":"subscribe",
+  "turkceKelime":"abone olmak",
+  "okunus":"sıbskırayb",
+},
+{
+  "ingilizceKelime":"educate",
+  "turkceKelime":"Eğitim vermek",
+  "okunus":"ecukeyt",
+},
+{
+  "ingilizceKelime":"divorce",
+  "turkceKelime":"boşanmak",
+  "okunus":"dıvors",
+},
+{
+  "ingilizceKelime":"spin",
+  "turkceKelime":"döndürmek",
+  "okunus":"spiğn",
+},
+{
+  "ingilizceKelime":"creep",
+  "turkceKelime":"sürünmek",
+  "okunus":"kriğp",
+},
+{
+  "ingilizceKelime":"interest",
+  "turkceKelime":"ilgilenmek,ilgilendirmek",
+  "okunus":"intrıst",
+},
+{
+  "ingilizceKelime":"overlook",
+  "turkceKelime":"görmezden gelmek",
+  "okunus":"ovırluk",
+},
+
+]},{ 
+"isim":"38",  
+ "data":[
+{
+  "ingilizceKelime":"twist",
+  "turkceKelime":"bükmek",
+  "okunus":"tvist",
+},
+{
+  "ingilizceKelime":"blend",
+  "turkceKelime":"harmanlamak",
+  "okunus":"blend",
+},
+{
+  "ingilizceKelime":"revise",
+  "turkceKelime":"tekrar düzeltme yapmak",
+  "okunus":"rivayz",
+},
+{
+  "ingilizceKelime":"attribute",
+  "turkceKelime":"bağlanmak",
+  "okunus":"ağtribüğt",
+},
+{
+  "ingilizceKelime":"explode",
+  "turkceKelime":"patlatmak",
+  "okunus":"ikspold",
+},
+{
+  "ingilizceKelime":"dwell",
+  "turkceKelime":"oturmak",
+  "okunus":"dıvağl",
+},
+{
+  "ingilizceKelime":"drown",
+  "turkceKelime":"bastırmak",
+  "okunus":"dreğın",
+},
+{
+  "ingilizceKelime":"alleviate",
+  "turkceKelime":"hafifletmek",
+  "okunus":"eliğvieyt",
+},
+{
+  "ingilizceKelime":"revert",
+  "turkceKelime":"yeniden dönmek",
+  "okunus":"rıvört",
+},
+{
+  "ingilizceKelime":"value",
+  "turkceKelime":"değer vermek",
+  "okunus":"valyuğ",
+},
+{
+  "ingilizceKelime":"strive",
+  "turkceKelime":"çabalamak",
+  "okunus":"strayv",
+},
+{
+  "ingilizceKelime":"notify",
+  "turkceKelime":"bildirmek",
+  "okunus":"nodıfay",
+},
+{
+  "ingilizceKelime":"accuse",
+  "turkceKelime":"suçlamak",
+  "okunus":"aküğuz",
+},
+{
+  "ingilizceKelime":"instruct",
+  "turkceKelime":"öğretmek",
+  "okunus":"instrakt",
+},
+{
+  "ingilizceKelime":"spill",
+  "turkceKelime":"dökülme",
+  "okunus":"spığl",
+},
+{
+  "ingilizceKelime":"strain",
+  "turkceKelime":"çabalamak",
+  "okunus":"srteyn",
+},
+{
+  "ingilizceKelime":"comprehend",
+  "turkceKelime":"anlamak",
+  "okunus":"kamprihend",
+},
+{
+  "ingilizceKelime":"soften",
+  "turkceKelime":"yumuşatmak",
+  "okunus":"soğfın",
+},
+{
+  "ingilizceKelime":"postpone",
+  "turkceKelime":"ertelemek",
+  "okunus":"poğzpoğn",
+},
+{
+  "ingilizceKelime":"wave",
+  "turkceKelime":"el sallamak",
+  "okunus":"veyv",
+},
+{
+  "ingilizceKelime":"stock",
+  "turkceKelime":"stoklamak",
+  "okunus":"stağk",
+},
+{
+  "ingilizceKelime":"insure",
+  "turkceKelime":"sigortalamak",
+  "okunus":"inşuğr",
+},
+{
+  "ingilizceKelime":"adhere",
+  "turkceKelime":"bağlı kalmak",
+  "okunus":"edhiğr",
+},
+{
+  "ingilizceKelime":"hug",
+  "turkceKelime":"sarılmak",
+  "okunus":"hag",
+},
+{
+  "ingilizceKelime":"classify",
+  "turkceKelime":"sınıflandırmak",
+  "okunus":"klasıfay",
+},
+
+]},
+];
